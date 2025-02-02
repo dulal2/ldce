@@ -844,6 +844,12 @@ const quizData = {
       options: ["45m", "120m", "180m", "270m"],
       correctAnswer: 2,
     },
+    {
+  "question": "Normal aspect of gate Signal is.......",
+  "options": ["Stop", "Proceed", "Caution", "Attention"],
+  "correctAnswer": 0
+},
+    
     // Add more TRAIN MANAGER questions here
   ],
   RAJBHASA: [
