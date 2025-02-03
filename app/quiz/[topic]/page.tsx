@@ -845,10 +845,61 @@ const quizData = {
       correctAnswer: 2,
     },
     {
-  "question": "Normal aspect of gate Signal is.......",
-  "options": ["Stop", "Proceed", "Caution", "Attention"],
-  "correctAnswer": 0
-},
+    "question": "Normal aspect of gate Signal is.......",
+    "options": ["Stop", "Proceed", "Caution", "Attention"],
+    "correctAnswer": 0
+    },
+     {
+            "question": "Maximum speed of trains during thick and foggy weather in Absolute Block System is.... Kmph when signal is showing green.",
+            "options": ["60 kmph", "75 kmph", "60 kmph and 75 kmph when Fog Safe kmph Device(FSD) is provided in Locomotive", "Not more than 90"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Catch Siding is provided to protect-",
+            "options": ["Block Section", "Station Section", "Station Limit", "Neutral Section"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "At a C class station, in absence of a Starter, .... signal is the Last Stop Signal.",
+            "options": ["Outer", "Home", "Routing", "Distant"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "A light waved violently shall be used as a Stop signal only when the red light is not available.",
+            "options": ["White", "Green", "Both of the above", "None of the above"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "When a train has to be admitted on loop line, Distant signal will show ... light where Inner Distant is provided.",
+            "options": ["Yellow", "Double Yellow", "Green", "No light"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Outer, Home and...... cannot be used during Shunting operation-",
+            "options": ["Calling-on Signal", "Starter Signal", "Last Stop Signal", "First Stop Signal"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Slip Siding is intended to protect",
+            "options": ["Station Section", "Station Limit", "Block Section", "Neutral Section"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "In regard to Multiple-Aspect signals, the minimum visibility distance for all signals shall be-",
+            "options": ["200m", "400m", "1.2km", "Signal shall be visible for a minimum period of 5 sec at m.p.s. of the section"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Home Signal of Intermediate Block Post is identified by .. marker.",
+            "options": ["R", "g", "IB", "1D"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "The Loco Pilot of a train shall not pass a stop signal without proper authority except.. . which can be passed conditionally-",
+            "options": ["1BSS", "GSS", "Automatic Stop Signal", "All of the above"],
+            "correctAnswer": 3
+        },
+    
     
     // Add more TRAIN MANAGER questions here
   ],
