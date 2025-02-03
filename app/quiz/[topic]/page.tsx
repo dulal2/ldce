@@ -1044,6 +1044,56 @@ const quizData = {
             "options": ["OP/TI/A", "OP/TI/B", "OP/TI/C", "None of the above"],
             "correctAnswer": 2
         },
+        {
+            "question": "The Station Master (SM) should maintain the correct standard time by ascertaining it from the section controller daily at:",
+            "options": ["18.00 hrs", "00.00 hrs", "12.00 hrs", "16.00 hrs"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "No trains carrying passengers must be allowed to start before the departure time notified in the:",
+            "options": ["Working Time Table", "Working Time Table", "Public Time Table", "None of these"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "For starting a train from the station, a Loco Pilot needs:",
+            "options": ["Guard’s Signal", "Correct departure signals", "Correct authority to proceed", "All of the above"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Guard has to set his watch with correct timing from:",
+            "options": ["Driver's watch", "SCR watch", "Station clock or clock of reporting place", "CYM watch"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Guard of a Passenger train shall report for duty ______ before the departure of a train.",
+            "options": ["45 mins", "20 mins", "30 mins", "25 mins"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Guard of a Goods train shall report for duty as per the time prescribed by:",
+            "options": ["PCOM", "GM", "CPTM", "DRM"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "The direction of train on a double line is generally on the left-hand line. It can be changed by the approval of:",
+            "options": ["GM", "CRS", "DRM", "PCOM"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "WTT stands for:",
+            "options": ["Working Time Table", "Wagon Turn Table", "Wagon Time Table", "None of these"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "WTT is issued by:",
+            "options": ["GM", "DRM", "CPTM", "PCOM"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "WTT is issued:",
+            "options": ["Zone wise", "Division wise", "Notice station wise", "For entire railway"],
+            "correctAnswer": 1
+        },
         
     
     
