@@ -8,7 +8,7 @@ export default function ContactPage() {
       </p>
       <div className="mb-4">
         <h2 className="text-xl font-semibold mb-2">Email</h2>
-        <p>support@seradraquiz.com</p>
+        <p>supportldcequiz@mail.com</p>
       </div>
       <div>
         <h2 className="text-xl font-semibold mb-2">Address</h2>
