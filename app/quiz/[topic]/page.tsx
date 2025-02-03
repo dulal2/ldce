@@ -994,6 +994,56 @@ const quizData = {
             "options": ["Conflicting signal", "Defective signal", "None of the above", "Both (a) and (b)"],
             "correctAnswer": 3
         },
+         {
+            "question": "If a fixed signal displays more than one aspect, the Loco Pilot shall act according to its most __________ aspect.",
+            "options": ["Defective", "Restrictive", "Active", "Passive"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "In case of frequent aspect changing and flickering/bobbing of a Color Light Signal, the Loco Pilot shall treat the signal as defective if it does not assume a steady aspect for at least __________ seconds.",
+            "options": ["30", "60", "120", "15"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "In case of doubling a Single Line (S/L) or tripling a Double Line (D/L) or more, no separate road learning of the 2nd, 3rd, or 4th line is given. LP/ALPs may run the first trip at a restricted speed of __________ Kmph.",
+            "options": ["25/8", "40/15", "15/10", "Sectional speed"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "If a Loco Pilot explodes detonator(s), they must take control of the train and proceed cautiously for up to __________ km before resuming the authorized speed.",
+            "options": ["800 m", "1 km", "1200 m", "1.5 km"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Double Yellow, the speed should not exceed __________ Kmph.",
+            "options": ["60/75", "30", "Cautious", "15"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Green, the speed should not exceed __________ Kmph.",
+            "options": ["60/75", "30", "Cautious", "15"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Yellow, the speed should not exceed __________ Kmph, further restricted so as to be prepared to stop at the next stop signal.",
+            "options": ["60/75", "30", "Further restricted speed so as to be prepared to stop at the next stop signal", "15"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "At a Class ‘D’ station, a ‘PH’ marker post shall be provided at a distance of __________ meters from the center of the station.",
+            "options": ["200", "400", "800", "1200"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "The Competency Certificate for Working Points and Signals (OP/TI/A) shall be issued by:",
+            "options": ["Station Superintendent (SS)", "Chief Yard Master (CYM)", "Divisional Traffic Inspector (DTI)", "All of the above"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "The Competency Certificate for Working Panel/Route Relay Interlocking is issued by BSI and DTI on form number:",
+            "options": ["OP/TI/A", "OP/TI/B", "OP/TI/C", "None of the above"],
+            "correctAnswer": 2
+        },
         
     
     
