@@ -1094,6 +1094,56 @@ const quizData = {
             "options": ["Zone wise", "Division wise", "Notice station wise", "For entire railway"],
             "correctAnswer": 1
         },
+              {
+            "question": "Sectional Speed for the section is set by:",
+            "options": ["CRS", "PCOM", "GM", "DRM"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "MPS of a section is sanctioned by:",
+            "options": ["CRS", "PCOM", "GM", "DRM"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "When the speedometer of a train becomes defective en route, the train shall work with speed:",
+            "options": ["10% less than permissible speed", "8% less than MPS", "15% less than sectional speed", "5% less than MPS"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "When the speedometer of a train becomes defective:",
+            "options": ["Only MPS reduces by 10%", "Only sectional speed reduces by 10%", "Both MPS and sectional speed reduce by 10%", "None of these"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Caution order is issued for a train by:",
+            "options": ["Guard of the Train", "PWI of the section", "DSO", "Station Master"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "There are ______ types of caution orders.",
+            "options": ["Two", "Four", "Three", "Five"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Reminder caution is issued in prescribed form no:",
+            "options": ["T/409", "T/A-409", "T/B-409", "None"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Notice Station issues the caution order for a train in form no:",
+            "options": ["T/409", "T/A-409", "T/B-409", "None"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "When a new signal is erected or there is a change in the location, a Caution Order shall be issued for a period of:",
+            "options": ["15 days", "90 days", "30 days", "45 days"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "A Caution Order is issued for a train when:",
+            "options": ["Train will receive on a non-signal line", "Home signal is defective", "Train will stable at the next station", "Vehicle will be detached at the next station"],
+            "correctAnswer": 1
+        },
         
     
     
