@@ -26,7 +26,7 @@ export default function RootLayout({
           <main className="flex-grow bg-gray-100">
             <div className="py-12 px-4 sm:px-6 lg:px-8">{children}</div>
             <div className="max-w-3xl mx-auto mt-8">
-              <GoogleAd client="ca-pub-XXXXXXXXXXXXXXXX" slot="XXXXXXXXXX" />
+              <GoogleAd client="ca-pub-7206030569003059" slot="1522923677" />
             </div>
           </main>
           <Footer />
