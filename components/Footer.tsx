@@ -10,7 +10,7 @@ export default function Footer() {
           </div>
           <div className="mt-4 flex justify-center md:mt-0">
             <div className="flex space-x-6 md:order-2">
-              <Link href="#" className="text-gray-400 hover:text-gray-500">
+              <Link href="https://www.facebook.com/profile.php?id=61562304629860" className="text-gray-400 hover:text-gray-500">
                 <span className="sr-only">Facebook</span>
                 <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                   <path
