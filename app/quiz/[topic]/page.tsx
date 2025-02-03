@@ -899,6 +899,102 @@ const quizData = {
             "options": ["1BSS", "GSS", "Automatic Stop Signal", "All of the above"],
             "correctAnswer": 3
         },
+        {
+            "question": "Station Section is a part of Station Limit and is provided at __________ class station only.",
+            "options": ["‘W’", "‘B’", "‘C’", "‘Special’"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Minimum equipment of fixed signals at a ‘B’ class station provided with MOMA signaling shall be:",
+            "options": ["Warner, Home, and Starter", "Distant and Home", "Distant, Home, and Starter", "Distant, Home, Starter, and Advanced Starter"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "The ‘S’ marker board is provided at a distance of __________ meters in the facing points of every outlying siding.",
+            "options": ["30m", "45m", "800m", "1200m"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "The form number of the Advance Pilot-in-Memo is:",
+            "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "The form number of the Pilot-in and Pilot-out memo is:",
+            "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "USR stands for:",
+            "options": ["Unified Special Restriction Rules", "Unified Subsidiary Rules", "Under Special Restriction", "None of the above"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "The form number for Disconnection/Re-connection Notice is:",
+            "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "When a signal shows more than one aspect simultaneously, such a signal is treated as:",
+            "options": ["Correct signal", "Defective signal", "Following signal", "None of the above"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "The stop board is fixed in the __________ of the train during C&W examination of a rake.",
+            "options": ["Left", "Right", "Middle", "None of the above"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "The station at which an authority to proceed is given is known as:",
+            "options": ["Notice station", "Interlocked station", "Block station", "Non-block station"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "For passing a Gate Stop signal at ‘ON’, the Loco Pilot has to wait __________ minutes in the daytime and __________ minutes at night.",
+            "options": ["1 & 2", "2 & 3", "2 & 5", "5 & 5"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "No LP/ALP should be put on independent duty unless they take Road Learning of the section initially for at least __________ trips in a Normal section and __________ trips in an Automatic or Ghat section.",
+            "options": ["1 & 2", "3 & 3", "3 & 6", "6 & 6"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "“Station Limit” is situated between the __________ of the station.",
+            "options": ["Outermost stop signals", "Outermost signals", "Both of the above", "None of the above"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "The sequence of taking off through signals at a station where MACL signals are provided for run-through trains with an Advanced Starter is:",
+            "options": ["Home, Starter, then Adv. Starter", "Starter, Home, and then Adv. Starter", "Main Home, Adv. Starter, and then Main Starter", "None of the above"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "__________ is provided in a long block section to split it into two portions, each constituting a separate block section by providing an Intermediate Block Post.",
+            "options": ["Automatic Signaling", "MLQ Signaling", "Intermediate Block Signaling", "MACL Signaling"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "On Single Line Intermediate Block Signaling, the line between two adjacent block stations is divided into two subsections. The 1st section is termed as ‘Station controlled intermediate block section,’ and the 2nd section is termed as:",
+            "options": ["Block controlled intermediate block section", "Section controlled block section", "Advance block section", "Rear block section"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "A train carrying passengers can be admitted into a goods yard or on the goods loop at a restricted speed of:",
+            "options": ["08 kmph", "10 kmph", "12 kmph", "15 kmph"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "If the Distant signal of an Intermediate Block Post is defective and cannot be kept in the ‘ON’ position, the Intermediate Block Stop signal shall also be treated as:",
+            "options": ["Inactive", "Active", "Defective", "None of the above"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "When the distant signal shows a ‘Proceed’ aspect and the Home signal displays ‘Yellow with route/lunar indication,’ it will be treated as:",
+            "options": ["Conflicting signal", "Defective signal", "None of the above", "Both (a) and (b)"],
+            "correctAnswer": 3
+        },
+        
     
     
     // Add more TRAIN MANAGER questions here
