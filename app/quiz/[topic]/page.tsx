@@ -1087,7 +1087,7 @@ const quizData = {
         {
             "question": "WTT is issued by:",
             "options": ["GM", "DRM", "CPTM", "PCOM"],
-            "correctAnswer": 2
+            "correctAnswer": 3
         },
         {
             "question": "WTT is issued:",
