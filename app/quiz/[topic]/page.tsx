@@ -485,7 +485,7 @@ const quizData = {
     {
       question: "IBP is a …… class station.",
       options: ["D", "C", "B", "halt"],
-      correctAnswer: 2,
+      correctAnswer: 1,
     },
     {
       question: "IBP may be provided in ………… section.",
