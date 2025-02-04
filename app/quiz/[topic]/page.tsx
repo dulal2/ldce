@@ -1132,19 +1132,142 @@ const quizData = {
         {
             "question": "Notice Station issues the caution order for a train in form no:",
             "options": ["T/409", "T/A-409", "T/B-409", "None"],
-            "correctAnswer": 1
+            "correctAnswer": 0
         },
         {
             "question": "When a new signal is erected or there is a change in the location, a Caution Order shall be issued for a period of:",
             "options": ["15 days", "90 days", "30 days", "45 days"],
-            "correctAnswer": 2
+            "correctAnswer": 1
         },
         {
             "question": "A Caution Order is issued for a train when:",
             "options": ["Train will receive on a non-signal line", "Home signal is defective", "Train will stable at the next station", "Vehicle will be detached at the next station"],
-            "correctAnswer": 1
+            "correctAnswer": 0
         },
         
+         {
+    "question": "Form no. of caution order register/urgent order book is",
+    "options": ["OP/T 469", "OP/T 421", "OP/T 28 R", "OP/T 28"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Preservative period of caution order register is",
+    "options": ["1 year", "2 years", "3 years", "4 years"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Reminder caution order is issued when-",
+    "options": [
+      "DCO is not issued",
+      "NIL caution order is issued",
+      "Caution order is included in DCO but train is scheduled to stop or stop out of course",
+      "None of these"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A caution order may be-",
+    "options": [
+      "Authority for shunting",
+      "Authority to proceed",
+      "Authority for advance pilot in",
+      "Authority for pilot in"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Permanent speed restriction is mentioned in-",
+    "options": ["WTT", "Caution order register", "DCO", "Reminder caution order"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "For the departure of a train from station, a loco pilot must have-",
+    "options": [
+      "Authority to proceed",
+      "Caution order",
+      "Guard’s signal",
+      "All of these"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Reminder caution must be issued to all",
+    "options": [
+      "Scheduled stopping train",
+      "Passenger train",
+      "Superfast train",
+      "Light engine"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Reminder caution order may be issued to through trains-",
+    "options": [
+      "With tangible Authority",
+      "By stopping it out of course",
+      "Through Walkie Talkie",
+      "None of these"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Caution order summary at station is prepared by-",
+    "options": [
+      "PWI of the section",
+      "On duty ASM",
+      "Station Master (incharge)",
+      "On duty SCR"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Caution order summary is prepared on every-",
+    "options": ["Sunday", "Thursday", "Saturday", "Monday"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The serial no. of Caution order register must be of one set which is commenced from the day of-",
+    "options": ["1st Jan", "1st Dec", "1st July", "1st April"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The LP must hand over the caution order after completion of journey to-",
+    "options": ["SM", "Guard", "DSO", "Not required to hand over"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Speed over non-interlocked point is",
+    "options": [
+      "Not exceed than 15 kmph","Not exceed than 30 kmph", "As per SM advice","As per approved special instruction"],
+     "correctAnswer": 1
+  },
+  {
+    "question": "Speed over turnout is prescribed by-",
+    "options": ["CRS", "PCOM", "GM", "PCE"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Max. speed of train while pushing-",
+    "options": ["25 kmph", "40 kmph", "15 kmph", "30 kmph"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Max. speed of patrol or search light special with one or more vehicles leading-",
+    "options": ["25 kmph", "40 kmph", "15 kmph", "30 kmph"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When the headlight is defective speed of the train is-",
+    "options": ["20 kmph", "40 kmph", "15 kmph", "30 kmph"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When the headlight is defective train will proceed up to",
+    "options": [
+      "Up to next station","Up to destination","First station where repairing facility exists","Up to notice station"
+       ],
+    "correctAnswer": 2
+  },
     
     
     // Add more TRAIN MANAGER questions here
