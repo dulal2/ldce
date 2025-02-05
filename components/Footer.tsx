@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="py-8 md:flex md:items-center md:justify-between">
           <div className="text-center md:text-left">
-            <p className="text-base text-gray-500">&copy; 2025 ldce gtm Quiz. All rights reserved.</p>
+            <p className="text-base text-gray-500">&copy; 2025 ldce gtm Quiz. 05/02/2025.</p>
           </div>
           <div className="mt-4 flex justify-center md:mt-0">
             <div className="flex space-x-6 md:order-2">
