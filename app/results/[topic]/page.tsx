@@ -4,6 +4,71 @@ import { CheckCircle, XCircle } from "lucide-react"
 const quizData = {
   important_days_and_dates: [
     {
+      question: "When is World Braille Day celebrated?",
+      options: ["January 4", "January 12", "January 25", "February 21"],
+      correctAnswer: 0,
+    },
+    {
+      question: "On which date is National Birds Day observed?",
+      options: ["January 1", "January 3", "January 5", "January 8"],
+      correctAnswer: 2,
+    },
+    {
+      question: "What is the significance of January 6?",
+      options: ["Pravasi Bharatiya Divas", "World War Orphans Day", "National Youth Day", "Army Day"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Pravasi Bharatiya Divas is observed on which date?",
+      options: ["January 9", "January 15", "January 26", "January 30"],
+      correctAnswer: 0,
+    },
+    {
+      question: "World Hindi Day is celebrated on?",
+      options: ["January 10", "February 14", "March 8", "April 22"],
+      correctAnswer: 0,
+    },
+    {
+      question: "National Youth Day is celebrated in India to honor which leader?",
+      options: ["Mahatma Gandhi", "Swami Vivekananda", "Subhash Chandra Bose", "Sardar Vallabhbhai Patel"],
+      correctAnswer: 1,
+    },
+    {
+      question: "When is Indian Army Day celebrated?",
+      options: ["January 12", "January 15", "January 20", "January 25"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Netaji Subhash Chandra Bose's birthday is celebrated on?",
+      options: ["January 21", "January 23", "January 25", "January 30"],
+      correctAnswer: 1,
+    },
+    {
+      question: "What is the theme of National Girl Child Day?",
+      options: ["Women Empowerment", "Save the Girl Child", "Beti Bachao, Beti Padhao", "Girls' Education First"],
+      correctAnswer: 2,
+    },
+    {
+      question: "When is India Tourism Day celebrated?",
+      options: ["January 18", "January 20", "January 25", "February 1"],
+      correctAnswer: 2,
+    },
+    {
+      question: "National Voters Day is observed to encourage voter participation in India. When is it celebrated?",
+      options: ["January 23", "January 25", "January 26", "January 30"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Republic Day of India is celebrated on?",
+      options: ["January 15", "January 20", "January 26", "January 30"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Martyr’s Day is observed in India on?",
+      options: ["January 23", "January 25", "January 30", "February 14"],
+      correctAnswer: 2,
+    },
+    {
       question: "When is World Environment Day celebrated?",
       options: ["June 5", "April 22", "March 21", "September 16"],
       correctAnswer: 0,
@@ -12,6 +77,306 @@ const quizData = {
       question: "Which day is observed as International Women's Day?",
       options: ["March 8", "February 14", "May 1", "November 19"],
       correctAnswer: 0,
+    },
+    {
+      question: "When is World Wetlands Day celebrated?",
+      options: ["February 1", "February 2", "February 5", "February 10"],
+      correctAnswer: 1,
+    },
+    {
+      question: "On which date is World Cancer Day observed?",
+      options: ["February 4", "February 7", "February 10", "February 14"],
+      correctAnswer: 0,
+    },
+    {
+      question: "What is the significance of February 6?",
+      options: [
+        "World Cancer Day",
+        "International Day of Zero Tolerance for Female Genital Mutilation",
+        "World Day of Social Justice",
+        "International Mother Language Day",
+      ],
+      correctAnswer: 1,
+    },
+    {
+      question: "World Day of Social Justice is observed on which date?",
+      options: ["February 10", "February 15", "February 20", "February 25"],
+      correctAnswer: 2,
+    },
+    {
+      question: "When is International Mother Language Day celebrated?",
+      options: ["February 18", "February 19", "February 20", "February 21"],
+      correctAnswer: 3,
+    },
+    {
+      question: "What is the date of World Thinking Day?",
+      options: ["February 20", "February 21", "February 22", "February 23"],
+      correctAnswer: 2,
+    },
+    {
+      question: "National Science Day is celebrated in India on?",
+      options: ["February 25", "February 26", "February 27", "February 28"],
+      correctAnswer: 3,
+    },
+    {
+      question: "When is Zero Discrimination Day observed?",
+      options: ["March 1", "March 8", "March 15", "March 21"],
+      correctAnswer: 0,
+    },
+    {
+      question: "On which date is World Wildlife Day celebrated?",
+      options: ["March 1", "March 3", "March 5", "March 7"],
+      correctAnswer: 1,
+    },
+    {
+      question: "When is World Hearing Day observed?",
+      options: ["March 2", "March 3", "March 4", "March 5"],
+      correctAnswer: 1,
+    },
+    {
+      question: "No Smoking Day is observed on which day?",
+      options: ["First Wednesday of March", "March 10", "March 15", "March 20"],
+      correctAnswer: 0,
+    },
+    {
+      question: "What is the significance of March 14?",
+      options: ["World Hearing Day", "Pi Day", "World Consumer Rights Day", "World Water Day"],
+      correctAnswer: 1,
+    },
+    {
+      question: "World Consumer Rights Day is observed on?",
+      options: ["March 10", "March 12", "March 15", "March 18"],
+      correctAnswer: 2,
+    },
+    {
+      question: "National Vaccination Day is celebrated in India on?",
+      options: ["March 10", "March 16", "March 20", "March 25"],
+      correctAnswer: 1,
+    },
+    {
+      question: "When is the International Day of Happiness celebrated?",
+      options: ["March 18", "March 19", "March 20", "March 21"],
+      correctAnswer: 2,
+    },
+    {
+      question: "On which date is World Water Day observed?",
+      options: ["March 20", "March 21", "March 22", "March 25"],
+      correctAnswer: 2,
+    },
+    {
+      question: "When is World Tuberculosis (TB) Day observed?",
+      options: ["March 22", "March 24", "March 26", "March 28"],
+      correctAnswer: 1,
+    },
+    {
+      question: "When is National Maritime Day celebrated in India?",
+      options: ["April 5", "April 7", "April 15", "April 18"],
+      correctAnswer: 0,
+    },
+    {
+      question: "On which date is World Health Day observed?",
+      options: ["April 5", "April 7", "April 10", "April 15"],
+      correctAnswer: 1,
+    },
+    {
+      question: "World Heritage Day is observed on?",
+      options: ["April 10", "April 15", "April 18", "April 22"],
+      correctAnswer: 2,
+    },
+    {
+      question: "National Civil Service Day is celebrated on which date?",
+      options: ["April 18", "April 19", "April 20", "April 21"],
+      correctAnswer: 3,
+    },
+    {
+      question: "When is World Earth Day observed?",
+      options: ["April 20", "April 22", "April 25", "April 30"],
+      correctAnswer: 1,
+    },
+    {
+      question: "On which date is World Press Freedom Day celebrated?",
+      options: ["May 1", "May 3", "May 5", "May 7"],
+      correctAnswer: 1,
+    },
+    {
+      question: "World Asthma Day is observed on?",
+      options: ["First Tuesday of May", "May 5", "May 8", "May 10"],
+      correctAnswer: 0,
+    },
+    {
+      question: "World Red Cross Day is celebrated on?",
+      options: ["May 5", "May 6", "May 8", "May 10"],
+      correctAnswer: 2,
+    },
+    {
+      question: "On which date is World Thalassaemia Day observed?",
+      options: ["May 5", "May 7", "May 8", "May 9"],
+      correctAnswer: 2,
+    },
+    {
+      question: "International Museum Day is celebrated on?",
+      options: ["May 15", "May 16", "May 18", "May 20"],
+      correctAnswer: 2,
+    },
+    {
+      question: "When is World Environment Day celebrated?",
+      options: ["June 5", "April 22", "March 21", "September 16"],
+      correctAnswer: 0,
+    },
+    {
+      question: "On which date is World Oceans Day observed?",
+      options: ["June 5", "June 8", "June 10", "June 15"],
+      correctAnswer: 1,
+    },
+    {
+      question: "World Refugee Day is observed on?",
+      options: ["June 15", "June 18", "June 20", "June 25"],
+      correctAnswer: 2,
+    },
+    {
+      question: "International Yoga Day is celebrated on which date?",
+      options: ["June 15", "June 18", "June 21", "June 25"],
+      correctAnswer: 2,
+    },
+    {
+      question: "When is National Statistics Day observed in India?",
+      options: ["June 25", "June 26", "June 29", "June 30"],
+      correctAnswer: 2,
+    },
+    {
+      question: "On which date is National Doctor’s Day celebrated in India?",
+      options: ["June 30", "July 1", "July 5", "July 10"],
+      correctAnswer: 1,
+    },
+    {
+      question: "World Population Day is observed on?",
+      options: ["July 5", "July 10", "July 11", "July 15"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Kargil Vijay Diwas is celebrated on?",
+      options: ["July 24", "July 25", "July 26", "July 28"],
+      correctAnswer: 2,
+    },
+    {
+      question: "On which date is World Hepatitis Day observed?",
+      options: ["July 25", "July 28", "July 30", "August 1"],
+      correctAnswer: 1,
+    },
+    {
+      question: "International Tiger Day is celebrated on?",
+      options: ["July 27", "July 28", "July 29", "July 30"],
+      correctAnswer: 2,
+    },
+    {
+      question: "When is International Friendship Day celebrated?",
+      options: ["Last Sunday of July", "July 30", "First Sunday of August", "August 5"],
+      correctAnswer: 0,
+    },
+    {
+      question: "When is Friendship Day celebrated in India?",
+      options: ["First Sunday of August", "August 5", "July 30", "August 10"],
+      correctAnswer: 0,
+    },
+    {
+      question: "On which date is International Youth Day observed?",
+      options: ["August 10", "August 12", "August 15", "August 20"],
+      correctAnswer: 1,
+    },
+    {
+      question: "World Elephant Day is observed on?",
+      options: ["August 10", "August 12", "August 14", "August 16"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Sadbhavna Diwas is celebrated on which date?",
+      options: ["August 15", "August 18", "August 20", "August 25"],
+      correctAnswer: 2,
+    },
+    {
+      question: "When is Women’s Equality Day observed?",
+      options: ["August 24", "August 26", "August 28", "August 30"],
+      correctAnswer: 1,
+    },
+    {
+      question: "On which date is National Sports Day celebrated in India?",
+      options: ["August 25", "August 28", "August 29", "August 31"],
+      correctAnswer: 2,
+    },
+    {
+      question: "International Literacy Day is observed on?",
+      options: ["September 5", "September 8", "September 10", "September 15"],
+      correctAnswer: 1,
+    },
+    {
+      question: "World Ozone Day is celebrated on?",
+      options: ["September 14", "September 16", "September 18", "September 20"],
+      correctAnswer: 1,
+    },
+    {
+      question: "On which date is World Rhino Day observed?",
+      options: ["September 20", "September 21", "September 22", "September 25"],
+      correctAnswer: 2,
+    },
+    {
+      question: "World Tourism Day is celebrated on?",
+      options: ["September 25", "September 27", "September 29", "October 1"],
+      correctAnswer: 1,
+    },
+    {
+      question: "When is International Day of Non-Violence observed?",
+      options: ["October 2", "October 5", "October 10", "October 15"],
+      correctAnswer: 0,
+    },
+    {
+      question: "On which date is International Day of the Girl Child observed?",
+      options: ["October 10", "October 11", "October 12", "October 15"],
+      correctAnswer: 1,
+    },
+    {
+      question: "United Nations Day is celebrated on?",
+      options: ["October 20", "October 22", "October 24", "October 26"],
+      correctAnswer: 2,
+    },
+    {
+      question: "When is World AIDS Day observed?",
+      options: ["December 1", "December 5", "December 10", "December 15"],
+      correctAnswer: 0,
+    },
+    {
+      question: "On which date is Indian Navy Day celebrated?",
+      options: ["December 2", "December 4", "December 6", "December 10"],
+      correctAnswer: 1,
+    },
+    {
+      question: "World Soil Day is observed on?",
+      options: ["December 3", "December 4", "December 5", "December 6"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Human Rights Day is celebrated on?",
+      options: ["December 5", "December 8", "December 10", "December 12"],
+      correctAnswer: 2,
+    },
+    {
+      question: "On which date is International Mountain Day observed?",
+      options: ["December 9", "December 11", "December 13", "December 15"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Vijay Diwas is celebrated in India on?",
+      options: ["December 14", "December 16", "December 18", "December 20"],
+      correctAnswer: 1,
+    },
+    {
+      question: "When is Kisan Diwas (Farmer's Day) celebrated in India?",
+      options: ["December 20", "December 23", "December 25", "December 28"],
+      correctAnswer: 1,
+    },
+    {
+      question: "National Consumer Rights Day is observed on?",
+      options: ["December 22", "December 24", "December 26", "December 28"],
+      correctAnswer: 1,
     },
   ],
   TRAIN_MANAGER: [
