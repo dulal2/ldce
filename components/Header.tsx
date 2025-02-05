@@ -7,7 +7,7 @@ export default function Header() {
         <div className="flex justify-between items-center py-6">
           <div className="flex items-center">
             <Link href="/" className="text-2xl font-bold text-gray-900">
-              TRAIN MANAGER QUIZ
+              LDCE QUIZ
             </Link>
           </div>
           <nav>
