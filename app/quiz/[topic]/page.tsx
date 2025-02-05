@@ -588,7 +588,7 @@ const quizData = {
     {
       question: "Stations in automatic signalling territory are classified as ............... class.",
       options: ["A", "B", "C", "spl"],
-      correctAnswer: 2,
+      correctAnswer: 3,
     },
     {
       question: "Any station which cannot be worked under A, B, C or D class is termed as...................",
