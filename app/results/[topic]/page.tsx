@@ -381,20 +381,282 @@ const quizData = {
   ],
   TRAIN_MANAGER: [
     {
-      question: "What is the primary responsibility of a Train Manager?",
+      question: "The General Rules apply to?",
+      options: ["All Indian Railway", "Concern Zonal railway", "Konkan Railway", "none"],
+      correctAnswer: 0,
+    },
+    {
+      question: "The Subsidiary Rules apply to",
+      options: ["kolkata metro railway", "concern zonal railway", "all india railways", "none"],
+      correctAnswer: 1,
+    },
+    {
+      question: "General Rules are liable to be revised by?",
+      options: ["The Authorised officers of concern zone", "The Railway board", "None of the Above", "The State govt"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Subsidiary Rules are liable to be revised by?",
       options: [
-        "Driving the train",
-        "Managing passenger safety and comfort",
-        "Maintaining the train engine",
-        "Selling tickets on board",
+        "The State govt.",
+        "The Authorised officer of concern railways",
+        "The Government of India",
+        "None of these",
       ],
       correctAnswer: 1,
     },
     {
-      question: "Which document is essential for a Train Manager to check before departure?",
-      options: ["Passenger manifest", "Train formation report", "Catering menu", "Weather forecast"],
+      question: "The distance sufficient to ensure safety is known as?",
+      options: ["Required distance", "Enough distance", "Adequate Distance", "None"],
+      correctAnswer: 2,
+    },
+    {
+      question: "The adequate distance beyond Home signal in MACLS is minimum?",
+      options: ["400m", "180m", "120m", "200m"],
       correctAnswer: 1,
     },
+    {
+      question: "The adequate distance beyond Starter signal in MACLS is minimum?",
+      options: ["400m", "180m", "120m", "200m"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Approved Special Instructions are approved of or prescribed by?",
+      options: ["PCOM", "DRM", "GM", "CRS"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Authorized officer of South Eastern Railway is?",
+      options: ["GM", "PCE", "PCOM", "CSO"],
+      correctAnswer: 2,
+    },
+    {
+      question:
+        "The authority given to the LP of a train, under the system of working to enter the block section is known as-",
+      options: ["Pilot out memo", "Authority to Proceed", "Written memo", "None of these"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Block Back is possible in -",
+      options: ["Double Line section", "Single Line section", "Both (a) & (b)", "None of these"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Block forward is possible in-",
+      options: ["Double Line section", "Single Line section", "Both (a) & (b)", "None of these"],
+      correctAnswer: 0,
+    },
+    {
+      question: "The Block Section at a Class B station on double line provided with MACLS normally ends at-",
+      options: ["Outermost facing points", "BSLB board", "a or b", "Home Signal"],
+      correctAnswer: 3,
+    },
+    {
+      question: "The Block Section at a Class B station on single line provided with MACLS ends at-",
+      options: [
+        "Advance Starter for Opposite direction",
+        "SLB for Opposite direction",
+        "Outermost facing point",
+        "either a or b or c",
+      ],
+      correctAnswer: 3,
+    },
+    {
+      question: "Day means-",
+      options: ["06 am to 18 pm", "08 am to 18pm", "sunrise to sunset", "None of these"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Fouling marks are provided to avoid-",
+      options: ["derailment", "rear end collision", "side collision", "None of these"],
+      correctAnswer: 2,
+    },
+    {
+      question:
+        "The person in charge of a gang of workmen employed on permanent way or works connected therewith is known as-",
+      options: ["Gangman", "Keyman", "Gangmate", "SSE(P-WAY)"],
+      correctAnswer: 0,
+    },
+    {
+      question: "IBP is a …… class station.",
+      options: ["D", "C", "B", "halt"],
+      correctAnswer: 1,
+    },
+    {
+      question: "IBP may be provided in ………… section.",
+      options: ["Double", "Single", "Multiple", "Any of these"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Which Signal controls the entry of trains into the next block section-",
+      options: ["Starter", "Intermediate starter", "Last Stop Signal", "None of these"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Mixed trains are intended to carry-",
+      options: ["Goods", "Passengers & goods", "Passengers, animals & goods", "Either (b) or (c)"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Night means-",
+      options: ["18 pm to 6 am", "22hrs to 6 hrs", "Sun set to sunrise", "None of these"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Troop train is treated as-",
+      options: ["Passenger train", "Goods train", "Mixed train", "None of these"],
+      correctAnswer: 0,
+    },
+    {
+      question: "When the point is set towards loop line, the Point indicator shows-",
+      options: ["White Light or disc", "Green Light or disc", "Red Light or disc", "None of these"],
+      correctAnswer: 1,
+    },
+    {
+      question: "When the point is set towards Main line, the Point indicator shows-",
+      options: ["White Light or disc", "Green Light or disc", "Red Light or disc", "None of these"],
+      correctAnswer: 0,
+    },
+    {
+      question: "When the derailing switch is open the trap indicator will show-",
+      options: ["Red Light or disc", "Greenlight or disc", "White Light or disc", "None of these"],
+      correctAnswer: 0,
+    },
+    {
+      question: "When the derailing switch is set the trap indicator will show-",
+      options: ["Red Light or disc", "Green Light or disc", "White Light or disc", "None of these"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Special instructions are issued by-",
+      options: ["Authorized officer", "GM", "CRS", "None of these"],
+      correctAnswer: 0,
+    },
+    {
+      question: "From where authority to proceed is given to the Loco Pilot under the system of working-",
+      options: ["Halt", "Mid section", "Station", "Siding"],
+      correctAnswer: 2,
+    },
+    {
+      question:
+        "The portion of railway which is under control of a SM and is situated normally between the outer most signals of a station is-",
+      options: ["Station Section", "Station Limit", "Block section", "None of these"],
+      correctAnswer: 1,
+    },
+    {
+      question: "In a double distant territory on double line the station limit is between-",
+      options: ["Distant-LSS", "Distant-Starter", "Inner Distant-LSS", "None of these"],
+      correctAnswer: 2,
+    },
+    {
+      question:
+        "The system adopted for the time being for the working of trains on any portion of a railway is known as-",
+      options: ["Working system", "Working instruction", "System of working", "Working order"],
+      correctAnswer: 2,
+    },
+    {
+      question: "The electrical circuit provided to detect the presence of a vehicle on a portion of track is called-",
+      options: ["Circuit", "Axle Counter", "Track circuit", "None of these"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Station Section is available in-",
+      options: ["Class A Station", "Class B station", "Class C station", "All stations"],
+      correctAnswer: 1,
+    },
+    {
+      question: "The station section at Class B station of double line with MACL signaling arrangement is between-",
+      options: ["Outermost facing point- LSS", "BSLB-LSS", "Home-LSS", "Either (a) or(b)"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Stations are divided into ....... Categories.",
+      options: ["4", "3", "2", "5"],
+      correctAnswer: 2,
+    },
+    {
+      question:
+        "Those stations at which the LP must obtain an authority to proceed under the system of working to enter the block section with his train is called-",
+      options: ["Block Stations", "Non block stations", "Spl class stations", "None of these"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Stations in automatic signalling territory are classified as ............... class.",
+      options: ["A", "B", "C", "spl"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Any station which cannot be worked under A, B, C or D class is termed as...................",
+      options: ["A", "B", "C", "spl"],
+      correctAnswer: 3,
+    },
+    {
+      question: "At a C class station ........... is the LSS.",
+      options: ["Starter", "Advance Starter", "Home", "None of these"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Block hut is a ........... class station.",
+      options: ["A", "B", "C", "spl"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Class D stations are........... Stations.",
+      options: ["Block Stations", "Non block stations", "Spl class stations", "None of these"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Running Train means",
+      options: [
+        "Train passing through station",
+        "Started under an authority to proceed but not completed its journey",
+        "Train in running condition",
+        "None of these",
+      ],
+      correctAnswer: 1,
+    },
+    {
+      question: "The adequate distance beyond Home signal at a class C station is-",
+      options: ["180m", "120m", "400m", "200m"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Act means the Indian Railways Act__________",
+      options: ["1989 (24 of 1989)", "1988 (22 of 1988)", "1990 (24 of 1990)", "None of these"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Who has been delegated the Power to issue working instructions in their own division?",
+      options: ["DRM", "ADRM", "Sr. DOM", "GM"],
+      correctAnswer: 0,
+    },
+    {
+      question:
+        "No Railway servant, directly connected with the working of train, shall take or use any alcoholic drink, sedative, narcotic or stimulant drug or preparation within ……… hrs before the commencement of his duty.",
+      options: ["8", "12", "10", "24"],
+      correctAnswer: 0,
+    },
+    {
+      question: "The critical limit of wind velocity is …………….",
+      options: ["42 knots/82 kmph", "39 knots/72 kmph", "60 knots/100 kmph", "None of these"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Wind velocity is measured by-",
+      options: ["Anemometer", "Barometer", "Thermometer", "None of these"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Where both Distant and Inner Distant are provided, the Distant signal shall show ... aspect only",
+      options: ["Caution", "Attention", "Proceed", "Either attention or proceed"],
+      correctAnswer: 3,
+    },
+    {
+      question: "A Colour light Distant signal is provided with ..............",
+      options: ["A marker", "P marker", "D marker", "1D marker"],
+      correctAnswer: 1,
+    },
+ 
     // Add more TRAIN MANAGER questions here
   ],
   RAJBHASA: [
