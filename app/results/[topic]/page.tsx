@@ -438,7 +438,7 @@ const quizData = {
     {
       question: "A miniature colour light Calling-on signal is provided with.....",
       options: ["C marker", "P marker", "A marker", "G marker"],
-      correctAnswer: 2,
+      correctAnswer: 0,
     },
     {
       question: "A Calling-on signal shall show....... in the on position.",
