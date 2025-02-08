@@ -384,7 +384,7 @@ const quizData = {
       correctAnswer: 1,
     },
   ],
-  TRAIN_MANAGER: [
+  Train_Manager: [
     {
       question: "The fixed stop signal of a station controlling the entry of trains into the next block section is",
       options: ["First Stop Signal", "Last Stop Signal", "Gate Stop Signal", "None of these"],
