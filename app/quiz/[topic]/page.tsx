@@ -386,281 +386,334 @@ const quizData = {
   ],
   TRAIN_MANAGER: [
     {
-      question: "The General Rules apply to?",
-      options: ["All Indian Railway", "Concern Zonal railway", "Konkan Railway", "none"],
+      question: "The fixed stop signal of a station controlling the entry of trains into the next block section is",
+      options: ["First Stop Signal", "Last Stop Signal", "Gate Stop Signal", "None of these"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Shunt signal is a .... signal.",
+      options: ["Subsidiary Signal", "Stop Signal", "Permissive Signal", "Special Signal"],
       correctAnswer: 0,
     },
     {
-      question: "The Subsidiary Rules apply to",
-      options: ["kolkata metro railway", "concern zonal railway", "all india railways", "none"],
+      question: "Detonating signals are otherwise known as..... Signal",
+      options: ["Hand Signal", "Fog Signal", "Fixed Signal", "Warning Signal"],
       correctAnswer: 1,
     },
     {
-      question: "General Rules are liable to be revised by?",
-      options: ["The Authorised officers of concern zone", "The Railway board", "None of the Above", "The State govt"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Subsidiary Rules are liable to be revised by?",
-      options: [
-        "The State govt.",
-        "The Authorised officer of concern railways",
-        "The Government of India",
-        "None of these",
-      ],
-      correctAnswer: 1,
-    },
-    {
-      question: "The distance sufficient to ensure safety is known as?",
-      options: ["Required distance", "Enough distance", "Adequate Distance", "None"],
-      correctAnswer: 2,
-    },
-    {
-      question: "The adequate distance beyond Home signal in MACLS is minimum?",
-      options: ["400m", "180m", "120m", "200m"],
-      correctAnswer: 1,
-    },
-    {
-      question: "The adequate distance beyond Starter signal in MACLS is minimum?",
-      options: ["400m", "180m", "120m", "200m"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Approved Special Instructions are approved of or prescribed by?",
-      options: ["PCOM", "DRM", "GM", "CRS"],
+      question: "Form Number of pilot in/out memo is",
+      options: ["T/A602", "T/409", "T/806", "T/369/3b"],
       correctAnswer: 3,
     },
     {
-      question: "Authorized officer of South Eastern Railway is?",
-      options: ["GM", "PCE", "PCOM", "CSO"],
-      correctAnswer: 2,
-    },
-    {
-      question:
-        "The authority given to the LP of a train, under the system of working to enter the block section is known as-",
-      options: ["Pilot out memo", "Authority to Proceed", "Written memo", "None of these"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Block Back is possible in -",
-      options: ["Double Line section", "Single Line section", "Both (a) & (b)", "None of these"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Block forward is possible in-",
-      options: ["Double Line section", "Single Line section", "Both (a) & (b)", "None of these"],
-      correctAnswer: 0,
-    },
-    {
-      question: "The Block Section at a Class B station on double line provided with MACLS normally ends at-",
-      options: ["Outermost facing points", "BSLB board", "a or b", "Home Signal"],
-      correctAnswer: 3,
-    },
-    {
-      question: "The Block Section at a Class B station on single line provided with MACLS ends at-",
+      question: "Under approved special instructions, a colour light Distant signal may be combined with-",
       options: [
-        "Advance Starter for Opposite direction",
-        "SLB for Opposite direction",
-        "Outermost facing point",
-        "either a or b or c",
+        "Last stop signal of rear station",
+        "Gate stop signal",
+        "Intermediate Block Stop Signal",
+        "All of these",
       ],
       correctAnswer: 3,
     },
     {
-      question: "Day means-",
-      options: ["06 am to 18 pm", "08 am to 18pm", "sunrise to sunset", "None of these"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Fouling marks are provided to avoid-",
-      options: ["derailment", "rear end collision", "side collision", "None of these"],
-      correctAnswer: 2,
-    },
-    {
-      question:
-        "The person in charge of a gang of workmen employed on permanent way or works connected therewith is known as-",
-      options: ["Gangman", "Keyman", "Gangmate", "SSE(P-WAY)"],
-      correctAnswer: 0,
-    },
-    {
-      question: "IBP is a …… class station.",
-      options: ["D", "C", "B", "halt"],
-      correctAnswer: 1,
-    },
-    {
-      question: "IBP may be provided in ………… section.",
-      options: ["Double", "Single", "Multiple", "Any of these"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Which Signal controls the entry of trains into the next block section-",
-      options: ["Starter", "Intermediate starter", "Last Stop Signal", "None of these"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Mixed trains are intended to carry-",
-      options: ["Goods", "Passengers & goods", "Passengers, animals & goods", "Either (b) or (c)"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Night means-",
-      options: ["18 pm to 6 am", "22hrs to 6 hrs", "Sun set to sunrise", "None of these"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Troop train is treated as-",
-      options: ["Passenger train", "Goods train", "Mixed train", "None of these"],
-      correctAnswer: 0,
-    },
-    {
-      question: "When the point is set towards loop line, the Point indicator shows-",
-      options: ["White Light or disc", "Green Light or disc", "Red Light or disc", "None of these"],
-      correctAnswer: 1,
-    },
-    {
-      question: "When the point is set towards Main line, the Point indicator shows-",
-      options: ["White Light or disc", "Green Light or disc", "Red Light or disc", "None of these"],
-      correctAnswer: 0,
-    },
-    {
-      question: "When the derailing switch is open the trap indicator will show-",
-      options: ["Red Light or disc", "Greenlight or disc", "White Light or disc", "None of these"],
-      correctAnswer: 0,
-    },
-    {
-      question: "When the derailing switch is set the trap indicator will show-",
-      options: ["Red Light or disc", "Green Light or disc", "White Light or disc", "None of these"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Special instructions are issued by-",
-      options: ["Authorized officer", "GM", "CRS", "None of these"],
-      correctAnswer: 0,
-    },
-    {
-      question: "From where authority to proceed is given to the Loco Pilot under the system of working-",
-      options: ["Halt", "Mid section", "Station", "Siding"],
-      correctAnswer: 2,
-    },
-    {
-      question:
-        "The portion of railway which is under control of a SM and is situated normally between the outer most signals of a station is-",
-      options: ["Station Section", "Station Limit", "Block section", "None of these"],
-      correctAnswer: 1,
-    },
-    {
-      question: "In a double distant territory on double line the station limit is between-",
-      options: ["Distant-LSS", "Distant-Starter", "Inner Distant-LSS", "None of these"],
-      correctAnswer: 2,
-    },
-    {
-      question:
-        "The system adopted for the time being for the working of trains on any portion of a railway is known as-",
-      options: ["Working system", "Working instruction", "System of working", "Working order"],
-      correctAnswer: 2,
-    },
-    {
-      question: "The electrical circuit provided to detect the presence of a vehicle on a portion of track is called-",
-      options: ["Circuit", "Axle Counter", "Track circuit", "None of these"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Station Section is available in-",
-      options: ["Class A Station", "Class B station", "Class C station", "All stations"],
-      correctAnswer: 1,
-    },
-    {
-      question: "The station section at Class B station of double line with MACL signaling arrangement is between-",
-      options: ["Outermost facing point- LSS", "BSLB-LSS", "Home-LSS", "Either (a) or(b)"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Stations are divided into ....... Categories.",
-      options: ["4", "3", "2", "5"],
-      correctAnswer: 2,
-    },
-    {
-      question:
-        "Those stations at which the LP must obtain an authority to proceed under the system of working to enter the block section with his train is called-",
-      options: ["Block Stations", "Non block stations", "Spl class stations", "None of these"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Stations in automatic signalling territory are classified as ............... class.",
-      options: ["A", "B", "C", "spl"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Any station which cannot be worked under A, B, C or D class is termed as...................",
-      options: ["A", "B", "C", "spl"],
-      correctAnswer: 3,
-    },
-    {
-      question: "At a C class station ........... is the LSS.",
-      options: ["Starter", "Advance Starter", "Home", "None of these"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Block hut is a ........... class station.",
-      options: ["A", "B", "C", "spl"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Class D stations are........... Stations.",
-      options: ["Block Stations", "Non block stations", "Spl class stations", "None of these"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Running Train means",
+      question: "Last Stop Signal may be either-",
       options: [
-        "Train passing through station",
-        "Started under an authority to proceed but not completed its journey",
-        "Train in running condition",
-        "None of these",
+        "Advanced Starter of a station",
+        "Starter signal if Advanced Starter is not provided",
+        "Home signal at C class station",
+        "All of the above",
+      ],
+      correctAnswer: 3,
+    },
+    {
+      question: "Intermediate Block Stop Signal is the......signal provided at intermediate Block Post.",
+      options: ["Advanced starter", "Starter", "Home", "None of the above"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Automatic Stop Signal is provided with .....marker",
+      options: ["A marker", "B marker", "C marker", "D marker"],
+      correctAnswer: 0,
+    },
+    {
+      question: "A Calling-on signal may be provided below a stop signal except-",
+      options: ["First Stop Signal", "Last Stop Signal", "Gate Stop Signal", "None of these"],
+      correctAnswer: 1,
+    },
+    {
+      question: "A miniature colour light Calling-on signal is provided with.....",
+      options: ["C marker", "P marker", "A marker", "G marker"],
+      correctAnswer: 2,
+    },
+    {
+      question: "A Calling-on signal shall show....... in the on position.",
+      options: ["Yellow light", "No light", "Red light", "Green light"],
+      correctAnswer: 1,
+    },
+    {
+      question: "A Calling-on signal can be used in-",
+      options: [
+        "To admit a train obstructed line",
+        "To avoid Pilot-in and Pilot-out process",
+        "During Shunting operation",
+        "All of the above",
+      ],
+      correctAnswer: 3,
+    },
+    {
+      question:
+        "A Shunt signal may be placed on a post by itself or below a stop signal other than the.....of a station.",
+      options: [
+        "Last stop signal",
+        "First stop signal",
+        "Either First or Last stop signal",
+        "Neither First or Last stop signal",
       ],
       correctAnswer: 1,
     },
     {
-      question: "The adequate distance beyond Home signal at a class C station is-",
-      options: ["180m", "120m", "400m", "200m"],
+      question: "Co-acting signals are......signals fixed below ordinary signals.",
+      options: ["Stop signals", "Permissive signals", "Duplicate signals", "None of the above"],
       correctAnswer: 2,
     },
     {
-      question: "Act means the Indian Railways Act__________",
-      options: ["1989 (24 of 1989)", "1988 (22 of 1988)", "1990 (24 of 1990)", "None of these"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Who has been delegated the Power to issue working instructions in their own division?",
-      options: ["DRM", "ADRM", "Sr. DOM", "GM"],
+      question:
+        "When a stop signal cannot be seen from the sighting distance on account of curves, Over bridges or other local conditions, a .... shall be provided.",
+      options: ["Repeating signal", "Co-acting signal", "Shunt signal", "Calling-on signal"],
       correctAnswer: 0,
     },
     {
       question:
-        "No Railway servant, directly connected with the working of train, shall take or use any alcoholic drink, sedative, narcotic or stimulant drug or preparation within ……… hrs before the commencement of his duty.",
-      options: ["8", "12", "10", "24"],
-      correctAnswer: 0,
-    },
-    {
-      question: "The critical limit of wind velocity is …………….",
-      options: ["42 knots/82 kmph", "39 knots/72 kmph", "60 knots/100 kmph", "None of these"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Wind velocity is measured by-",
-      options: ["Anemometer", "Barometer", "Thermometer", "None of these"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Where both Distant and Inner Distant are provided, the Distant signal shall show ... aspect only",
-      options: ["Caution", "Attention", "Proceed", "Either attention or proceed"],
+        "Where a colour light Distant Signal is combined with a Last Stop Signal, ....... Marker shall be dispensed with.",
+      options: ["A", "S", "W", "P"],
       correctAnswer: 3,
     },
     {
-      question: "A Colour light Distant signal is provided with ..............",
-      options: ["A marker", "P marker", "D marker", "1D marker"],
+      question:
+        "Gate Stop signal provided in Automatic Block territory, letter A shall be lit only when the gates are closed and locked against....",
+      options: ["Road traffic", "Rail traffic", "Either Road or Rail traffic", "None of the above"],
+      correctAnswer: 0,
+    },
+    {
+      question:
+        "Signal Sighting Committee consists of DTI, LI, Signal Inspector and ..as a member in electrified sections.",
+      options: ["PWI", "Train Examiner", "Driving Inspector", "Loco Inspector"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Normal aspect of Gate cum Distant signal is..",
+      options: ["Stop", "Proceed", "Caution", "None of the above"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Fixed signals, except Automatic signals, shall always show their... Aspect in their normal position.",
+      options: ["stop", "Proceed", "Most restrictive", "Proceed with caution"],
+      correctAnswer: 2,
+    },
+    {
+      question: "The normal aspect of an Automatic Stop signal is ...",
+      options: ["stop", "Proceed", "Either Stop or Proceed", "Either On or Off"],
       correctAnswer: 1,
     },
+    {
+      question:
+        "Slip Siding is provided where down gradient of ... or steeper is there from station section towards block section.",
+      options: ["1:80", "1:100", "1:200", "1:260"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Block Section Limit Board may be provided at... class of station on Double Line.",
+      options: ["A", "B", "C", "D"],
+      correctAnswer: 1,
+    },
+    {
+      question: "The life span of Detonators is..... Years from the year of manufacture.",
+      options: ["7", "5", "8", "10"],
+      correctAnswer: 1,
+    },
+    {
+      question: "The safety radius of Detonators is-",
+      options: ["20m", "30m", "45m", "90m"],
+      correctAnswer: 2,
+    },
+    {
+      question:
+        "Detonators shall be tested under the wheels of any empty wagon pushed by a locomotive at a restricted speed of",
+      options: ["8 to 12 kmph", "10 to 15 kmph", "Up to 15 kmph", "5 to 8 kmph"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Red flashing hand signal lamp at night or a red flag during day is a",
+      options: ["Stop Signal", "Warner Signal", "Warning Signal", "Detonating Signal"],
+      correctAnswer: 2,
+    },
+    {
+      question: "The Form No. of Station Detonator Register is-",
+      options: ["OP/T437", "OP/T28(R)", "OP/T48", "OP/T124"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Fog Signal Post (FSP) is erected at a distance of..... meters from the First Stop Signal.",
+      options: ["180m", "200m", "250m", "270m"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Normal aspect of IB Signal is.......",
+      options: ["stop", "Proceed", "caution", "Attention"],
+      correctAnswer: 0,
+    },
+    {
+      question:
+        "Visibility Test Object (VTO) is provided for the judgment of Foggy weather at a distance of ..... meters from the centre of station building in MACLS-",
+      options: ["45m", "120m", "180m", "270m"],
+      correctAnswer: 2,
+    },
+    {
+    "question": "Normal aspect of gate Signal is.......",
+    "options": ["Stop", "Proceed", "Caution", "Attention"],
+    "correctAnswer": 0
+    },
+     {
+            "question": "Maximum speed of trains during thick and foggy weather in Absolute Block System is.... Kmph when signal is showing green.",
+            "options": ["60 kmph", "75 kmph", "60 kmph and 75 kmph when Fog Safe kmph Device(FSD) is provided in Locomotive", "Not more than 90"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Catch Siding is provided to protect-",
+            "options": ["Block Section", "Station Section", "Station Limit", "Neutral Section"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "At a C class station, in absence of a Starter, .... signal is the Last Stop Signal.",
+            "options": ["Outer", "Home", "Routing", "Distant"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "A light waved violently shall be used as a Stop signal only when the red light is not available.",
+            "options": ["White", "Green", "Both of the above", "None of the above"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "When a train has to be admitted on loop line, Distant signal will show ... light where Inner Distant is provided.",
+            "options": ["Yellow", "Double Yellow", "Green", "No light"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Outer, Home and...... cannot be used during Shunting operation-",
+            "options": ["Calling-on Signal", "Starter Signal", "Last Stop Signal", "First Stop Signal"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Slip Siding is intended to protect",
+            "options": ["Station Section", "Station Limit", "Block Section", "Neutral Section"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "In regard to Multiple-Aspect signals, the minimum visibility distance for all signals shall be-",
+            "options": ["200m", "400m", "1.2km", "Signal shall be visible for a minimum period of 5 sec at m.p.s. of the section"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Home Signal of Intermediate Block Post is identified by .. marker.",
+            "options": ["R", "g", "IB", "1D"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "The Loco Pilot of a train shall not pass a stop signal without proper authority except.. . which can be passed conditionally-",
+            "options": ["1BSS", "GSS", "Automatic Stop Signal", "All of the above"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Station Section is a part of Station Limit and is provided at __________ class station only.",
+            "options": ["‘W’", "‘B’", "‘C’", "‘Special’"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Minimum equipment of fixed signals at a ‘B’ class station provided with MOMA signaling shall be:",
+            "options": ["Warner, Home, and Starter", "Distant and Home", "Distant, Home, and Starter", "Distant, Home, Starter, and Advanced Starter"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "The ‘S’ marker board is provided at a distance of __________ meters in the facing points of every outlying siding.",
+            "options": ["30m", "45m", "800m", "1200m"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "The form number of the Advance Pilot-in-Memo is:",
+            "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "The form number of the Pilot-in and Pilot-out memo is:",
+            "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "USR stands for:",
+            "options": ["Unified Special Restriction Rules", "Unified Subsidiary Rules", "Under Special Restriction", "None of the above"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "The form number for Disconnection/Re-connection Notice is:",
+            "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "When a signal shows more than one aspect simultaneously, such a signal is treated as:",
+            "options": ["Correct signal", "Defective signal", "Following signal", "None of the above"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "The stop board is fixed in the __________ of the train during C&W examination of a rake.",
+            "options": ["Left", "Right", "Middle", "None of the above"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "The station at which an authority to proceed is given is known as:",
+            "options": ["Notice station", "Interlocked station", "Block station", "Non-block station"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "For passing a Gate Stop signal at ‘ON’, the Loco Pilot has to wait __________ minutes in the daytime and __________ minutes at night.",
+            "options": ["1 & 2", "2 & 3", "2 & 5", "5 & 5"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "No LP/ALP should be put on independent duty unless they take Road Learning of the section initially for at least __________ trips in a Normal section and __________ trips in an Automatic or Ghat section.",
+            "options": ["1 & 2", "3 & 3", "3 & 6", "6 & 6"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "“Station Limit” is situated between the __________ of the station.",
+            "options": ["Outermost stop signals", "Outermost signals", "Both of the above", "None of the above"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "The sequence of taking off through signals at a station where MACL signals are provided for run-through trains with an Advanced Starter is:",
+            "options": ["Home, Starter, then Adv. Starter", "Starter, Home, and then Adv. Starter", "Main Home, Adv. Starter, and then Main Starter", "None of the above"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "__________ is provided in a long block section to split it into two portions, each constituting a separate block section by providing an Intermediate Block Post.",
+            "options": ["Automatic Signaling", "MLQ Signaling", "Intermediate Block Signaling", "MACL Signaling"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "On Single Line Intermediate Block Signaling, the line between two adjacent block stations is divided into two subsections. The 1st section is termed as ‘Station controlled intermediate block section,’ and the 2nd section is termed as:",
+            "options": ["Block controlled intermediate block section", "Section controlled block section", "Advance block section", "Rear block section"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "A train carrying passengers can be admitted into a goods yard or on the goods loop at a restricted speed of:",
+            "options": ["08 kmph", "10 kmph", "12 kmph", "15 kmph"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "If the Distant signal of an Intermediate Block Post is defective and cannot be kept in the ‘ON’ position, the Intermediate Block Stop signal shall also be treated as:",
+            "options": ["Inactive", "Active", "Defective", "None of the above"],
+            "correctAnswer": 2
+        },
+
  
     // Add more TRAIN MANAGER questions here
   ],
