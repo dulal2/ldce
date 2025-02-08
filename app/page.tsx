@@ -2,7 +2,7 @@ import Link from "next/link"
 
 const topics = [
   { id: "important_days_and_dates", name: "Important Days & Dates" },
-  { id: "TRAIN_MANAGER", name: "TRAIN MANAGER" },
+  { id: "TRAIN_MANAGER", name: "Train Manager" },
   { id: "RAJBHASA", name: "RAJBHASA" },
 ]
 
