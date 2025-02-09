@@ -385,7 +385,11 @@ const quizData = {
     },
   ],
   Train_Manager: [
-   
+      {
+        question: "Authority to start a train from non-signalled line of a station is.किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
+        options: ["T/369(3b)", "T/511", "T/512", "T/509"],
+        correctAnswer:1,
+      },
       {
        question: "The fixed stop signal of a station controlling the entry of trains into the next block section is",
        options: ["First Stop Signal", "Last Stop Signal", "Gate Stop Signal", "None of these"],
