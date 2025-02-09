@@ -47,7 +47,7 @@ export default function Footer() {
             </div>
           </div>
         </div>
-              <div className="container mx-auto px-4 flex justify-center space-x-4">
+        <div className="container mx-auto px-4 flex justify-center space-x-4">
         <Dialog>
           <DialogTrigger asChild>
             <button className="text-blue-600 hover:underline">Privacy Policy</button>
