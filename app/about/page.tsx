@@ -7,7 +7,7 @@ export default function AboutPage() {
         & Dates, Train Manager, and Rajbhasa. Train manager tropic daily update english or hindi language
       </p>
       <p>
-        kEEP EYES FOR DALILY UPDATES 
+        KEEP EYES FOR DAILY UPDATES 
       </p>
     </div>
   )
