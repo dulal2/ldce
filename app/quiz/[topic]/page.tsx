@@ -385,7 +385,67 @@ const quizData = {
     },
   ],
   Train_Manager: [
-      {
+   {
+    question: "Principle of making time table is. समय सारणी बनाने का सिद्धांत क्या हैं?",
+    options: ["Passenger convenience", "Operational need", "Running time of train", "All the above"],
+    correctAnswer: 3,
+  },
+  {
+    question: "SPAD of passenger train comes under which class of accident? यात्री गाड़ी की SPAD किस क्लास का दुर्घटना हैं?",
+    options: ["D", "B", "H1", "H2"],
+    correctAnswer: 2,
+  },
+  {
+    question: "What is the duration of IOH Maintenance for conventional loco for coaching train? कोचिंग लोको जो कान्वेंशनल टाइप का होता हैं उसका IOH का समय क्या होता हैं?",
+    options: ["4 Hours", "6 Hours", "6 days", "9 days"],
+    correctAnswer: 3,
+  },
+  {
+    question: "Type of marshaling yard is. मार्शलिंग यार्ड के प्रकार हैं?",
+    options: ["Flat yard", "Hump yard", "Gravity yard", "All the above"],
+    correctAnswer: 3,
+  },
+  {
+    question: "Escaping of wagon in right line on D/L section what beats given to advance station? डबल लाइन के सेक्शन में सही लाइन से गाड़ी भागने पर क्या बीट दिया जाता हैं?",
+    options: ["6 pause 4", "6 pause 5", "6 pause 1", "6 pause 2"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Gross clearance of C class ODC is. C क्लास ODC के लिए कितना ग्रॉस क्लियरन्स होना चाहिए?",
+    options: ["more than 3 inch and less than 6 inch", "more than 6 inch and less than 9 inch", "more than 9 inch", "All the above"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Validity of special premium BPC is. स्पेशल प्रीमियम BPC की बैधता क्या होती हैं?",
+    options: ["12 + 3 days", "12+ 5 days", "20+ 5 days", "none of the above"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Master chart is prepared by. मास्टर चार्ट किसके द्वारा तैयार किया जाता हैं?",
+    options: ["Sr. DOM", "PCOM", "Chief controller", "AOM"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Roll on -Roll off plan was introduced first where? रोल ऑन रोल ऑफ योजना कहाँ प्रारम्भ किया गया था?",
+    options: ["ECR", "ER", "KOKAN RAILWAY", "NR"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Standard rake of BOXNHL is. BOXNHL का मानक रेक कितने वैगन का होता हैं?",
+    options: ["59", "58", "42", "35"],
+    correctAnswer: 1,
+  },
+  {
+    question: "What is the full form of POH? POH का फुल फॉर्म क्या होता हैं?",
+    options: ["Partial overhauling", "Periodical overhauling", "Particular overhauling", "Part overhauling"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Block Back and Block Forward are related to. ब्लॉक बैक और ब्लॉक फॉरवर्ड किससे सम्बन्धित हैं?",
+    options: ["Signal failure", "Shunt movement", "Caution movement", "Block failure"],
+    correctAnswer: 1,
+  },
+  {
     question: "Which is not a caution order form? कौन सा सावधानी आदेश प्रपत्र नहीं है?",
     options: ["T/409", "T/A 409", "T/B 409", "T/609"],
     correctAnswer: 3,
