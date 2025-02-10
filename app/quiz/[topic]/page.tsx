@@ -385,6 +385,106 @@ const quizData = {
     },
   ],
   Train_Manager: [
+     {
+    question: "ON aspect means. ऑन अस्पेक्ट का मतलब क्या होता हैं.",
+    options: ["Danger", "Caution", "Most restrictive", "Proceed"],
+    correctAnswer: 2,
+  },
+  {
+    question: "calling on signal is identified by. कालिंग ऑन सिग्नल की पहचान क्या है.",
+    options: ["G MARKER", "C MARKER", "P MARKER", "ALL THE ABOVE"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Which one of the following is permissive signal.निम्न में परमिसिव सिग्नल कौन हैं.",
+    options: ["HOME", "STARTER", "DISTANT", "NONE OF THE ABOVE"],
+    correctAnswer: 2,
+  },
+  {
+    question: "LTM is prepared by. LTM किसके द्वारा तैयार किया जाता हैं.",
+    options: ["LP", "TM", "SM", "SCNL"],
+    correctAnswer: 1,
+  },
+  {
+    question: "How many wagon does a standard NMG rake consist of? मानक NMG रेक में कितने वैगन होते हैं.",
+    options: ["25", "30", "58", "59"],
+    correctAnswer: 0,
+  },
+  {
+    question: "permanenet speed restriction are notified through. स्थाई गति प्रतिबंध का उल्लेख कँहा रहता हैं.",
+    options: ["PTT", "WTT", "SWR", "GWR"],
+    correctAnswer: 1,
+  },
+  {
+    question: "whistle code for Train Parting is. गाड़ी बिखंडन के लिए सिटी कोड क्या हैं.",
+    options: ["Four short", "long short long short", "Three long", "two short"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Turning time of MRV single exit is.सिंगल निकासी में MRV को बाहर करने का समय क्या हैं.",
+    options: ["20 minutes", "25 minutes", "45 minutes", "30 minutes"],
+    correctAnswer: 1,
+  },
+  {
+    question: "CRIS was established in the year. क्रिस की स्थापना कब हुई थी.",
+    options: ["1982", "1986", "1988", "1984"],
+    correctAnswer: 1,
+  },
+  {
+    question: "CBC Means. CBC का मतलब क्या होता हैं.",
+    options: ["Centre Buffer coupling", "IR Coupling", "Centre Ball Bearing", "none of the above"],
+    correctAnswer: 0,
+  },
+  {
+    question: "What is the Colour of Feed pipe? फीड पाइप का रंग क्या होता हैं.",
+    options: ["GREEN", "WHITE", "RED", "NONE OF THE ABOVE"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Trap point in Loop line protect which line. लूप लाइन का ट्रैप पॉइंट किसकी रक्षा करती हैं.",
+    options: ["Running line", "Main line", "Siding line", "None of the above"],
+    correctAnswer: 1,
+  },
+  {
+    question: "RDSO Situated at. RDSO का मुखयालय कँहा हैं.",
+    options: ["Mumbai", "Kanpur", "Lucknow", "Kolkata"],
+    correctAnswer: 2,
+  },
+  {
+    question: "WLRRM means in LHB Coach. WLRRM का मतलब क्या होता LHB कोच में.",
+    options: ["AC 2 TIER", "AC 3 TIER", "GENRAL COACH", "TM VAN"],
+    correctAnswer: 3,
+  },
+  {
+    question: "SHUNTING order FORM no is. शटिंग के लिए फॉर्म क्या हैं.",
+    options: ["T/806", "T/B 912", "T/369 (3B)", "T/B 602"],
+    correctAnswer: 0,
+  },
+  {
+    question: "WHICH occasion the PN book used by TM. ट्रैन मैनेजर PN बुक का उपयोग कब करता हैं.",
+    options: ["COMPLETE ARRIVAL", "TRAIN PARTING", "DIVIDING", "SHUNTING"],
+    correctAnswer: 0,
+  },
+  {
+    question: "MOCK DRILL to be conducted once in.मॉक ड्रिल कितने महीने में किया जाता हैं.",
+    options: ["THREE MONTH", "TWO MONTH", "SIX MONTH", "FIVE MONTH"],
+    correctAnswer: 2,
+  },
+  {
+    question: "MAXIMUM NUMBER of LHB COACH. LHB रेक में अधिकतम कितने कोच होते हैं.",
+    options: ["22+2", "20+2", "24+2", "25"],
+    correctAnswer: 1,
+  },
+  {
+    question: "HOW many brake cylinder are available in BOXNHL wagon. BOXNHL वैगन में कितना ब्रेक सिलिंडर होता हैं.",
+    options: ["TWO", "FOUR", "ONE", "EIGHT"],
+    correctAnswer: 1,
+  },
+  {
+    question: "The code for eight wheeler Brake van is. आठ व्हिलेर ब्रेक वान का कोड क्या होता हैं.",
+    options: ["BV", "BVZC", "BVZI", "BVCM"],
+    correctAnswer: 2,
+  },
    {
     question: "Principle of making time table is. समय सारणी बनाने का सिद्धांत क्या हैं?",
     options: ["Passenger convenience", "Operational need", "Running time of train", "All the above"],
