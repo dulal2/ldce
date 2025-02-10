@@ -385,6 +385,71 @@ const quizData = {
     },
   ],
   Train_Manager: [
+    {
+    question: "Authority to start a train from non-signalled line of a station is. किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
+    options: ["T/369(3b)", "T/511", "T/512", "T/509"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Authority to start a train from a line with common starter signal is सामान्य स्टार्टर सिग्नल वाली लाइन से ट्रेन खुलाने के लिए प्राधिकार है?",
+    options: ["T/512", "T/511", "T/509", "T/510"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Shunting order form is शंटिंग ऑर्डर फॉर्म है......?",
+    options: ["T/806", "T/608", "T/511", "T/B806"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Authority to proceed without line clear is लाइन क्लियर के बिना आगे बढ़ने का प्राधिकार _ है?",
+    options: ["T/B602", "T/C602", "T/A602", "T/D602"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Paper line clear ticket for UP direction is अप दिशा के लिए पेपर लाइन क्लियर टिकट _____ है।",
+    options: ["T/D 1425", "T/B 1425", "T/C 1425", "T/A 1425"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Conditional line clear ticket is सशर्त लाइन क्लियर टिकट _ है।",
+    options: ["T/G 602", "T/F 602", "T/E 602", "T/I 602"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Authority for temporary single line working on double line in absolute block section is पूर्ण ब्लॉक सेक्शन में डबल लाइन पर काम करने वाली अस्थायी सिंगल लाइन के लिए प्राधिकरण है।",
+    options: ["T/A 602", "T/B 602", "T/C 602", "T/D 602"],
+    correctAnswer: 3,
+  },
+  {
+    question: "Maximum speed while shunting on T/806 is _KMPH.  टी/806 पर शंटिंग करते समय अधिकतम गति _ किमी प्रति घंटा है।",
+    options: ["5", "10", "15", "20"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Authority given during TFC on double line is डबल लाइन पर टीएफसी के दौरान दिया गया प्राधिकार ___ है।",
+    options: ["T/A 602", "T/B 602", "T/C 602", "T/D 602"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Train intact arrival register is. ट्रेन पूर्ण आगमन रजिस्टर __ है।",
+    options: ["T/1410", "T/1525", "T/A1425", "TB 1425"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Authority for temporary single line working on double line in automatic block section is स्वचालित ब्लॉक अनुभाग में डबल लाइन पर काम करने वाली अस्थायी सिंगल लाइन के लिए प्राधिकरण है।",
+    options: ["T/B 912", "T/C 912", "T/D 912", "T/E 912"],
+    correctAnswer: 3,
+  },
+  {
+    question: "Authority to proceed for relief engine into an automatic block signalling section is स्वचालित ब्लॉक सिग्नलिंग अनुभाग में रिलीफ इंजन के लिए आगे बढ़ने का प्राधिकार _____ है।",
+    options: ["T/A 912", "T/B 912", "T/C 912", "T/D 912"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Motor trolley permit is ... मोटर ट्रॉली परमिट __ है।",
+    options: ["T/1410", "T/1525", "T/1518", "T/1425"],
+    correctAnswer: 1,
+  },
   {
     question: "Authority to start a train from a line with common starter signal is सामान्य स्टार्टर सिग्नल वाली लाइन से ट्रेन खुलाने के लिए प्राधिकार है?",
     options: ["T/512", "T/511", "T/509", "T/510"],
