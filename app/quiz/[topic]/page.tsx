@@ -385,6 +385,51 @@ const quizData = {
     },
   ],
   Train_Manager: [
+      {
+    question: "Which is not a caution order form? कौन सा सावधानी आदेश प्रपत्र नहीं है?",
+    options: ["T/409", "T/A 409", "T/B 409", "T/609"],
+    correctAnswer: 3,
+  },
+  {
+    question: "How much depth of ballast is available in BG group A route below the bottom of the sleeper? BG में A मार्ग में स्लीपर के नीचे बल्लास्ट की गहराई कितना होता है।",
+    options: ["300MM", "250MM", "200MM", "150MM"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Creep is related to. क्रीप का सम्बन्ध किस से हैं?",
+    options: ["wagon", "engine", "track", "none of the above"],
+    correctAnswer: 2,
+  },
+  {
+    question: "The normal height of contact wire in regulated OHE section is. रेगुलेटेड OHE सेक्शन में कॉन्टेक्ट तार की ऊंचाई क्या होती हैं?",
+    options: ["5.75m", "5.60m", "5.65m", "4.65m"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Which loco is used for both services (passenger and freight)? किस लोको का उपयोग दोनों सर्विस में होता हैं?",
+    options: ["WAG5", "WAG7", "WAM4", "WAP4"],
+    correctAnswer: 2,
+  },
+  {
+    question: "What type of pantograph is used in Indian railway for 25KV AC electric loco? भारतीय रेलवे में 25 KV AC के लिए किस प्रकार के पेंटोग्राफ का उपयोग होता हैं?",
+    options: ["AM12", "AM10", "AM14", "All the above"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Under Running staff review, 1 (one) shunter is demanded for rest giver for how many shunters? कितने शंटर के लिए एक शंटर की व्यवस्था रनिंग स्टाफ रिव्यू के अंतर्गत की जाती हैं?",
+    options: ["6", "8", "4", "10"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Wagon km is an example of? वैगन किलोमीटर किस इकाई का उदाहरण हैं?",
+    options: ["Primary unit", "Fundamental unit", "Derived unit", "None of the above"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Division time table meeting is held in which month? मण्डल समय सारणी की बैठक किस माह में होती हैं?",
+    options: ["October", "September", "December", "June"],
+    correctAnswer: 1,
+  },
     {
     question: "Authority to start a train from non-signalled line of a station is. किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
     options: ["T/369(3b)", "T/511", "T/512", "T/509"],
