@@ -385,6 +385,26 @@ const quizData = {
     },
   ],
   Train_Manager: [
+  {
+    question: "Authority to start a train from a line with common starter signal is सामान्य स्टार्टर सिग्नल वाली लाइन से ट्रेन खुलाने के लिए प्राधिकार है?",
+    options: ["T/512", "T/511", "T/509", "T/510"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Shunting order form is शंटिंग ऑर्डर फॉर्म है......?",
+    options: ["T/806", "T/608", "T/511", "T/B806"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Authority to proceed without line clear is लाइन क्लियर के बिना आगे बढ़ने का प्राधिकार _ है?",
+    options: ["T/B602", "T/C602", "T/A602", "T/D602"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Paper line clear ticket for UP direction is अप दिशा के लिए पेपर लाइन क्लियर टिकट _____ है।",
+    options: ["T/D 1425", "T/B 1425", "T/C 1425", "T/A 1425"],
+    correctAnswer: 2,
+  },
       {
         question: "Authority to start a train from non-signalled line of a station is.किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
         options: ["T/369(3b)", "T/511", "T/512", "T/509"],
