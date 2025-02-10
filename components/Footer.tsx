@@ -19,7 +19,7 @@ export default function Footer() {
         
         {/* Left Section - Privacy & Terms */}
         <div className="text-center md:text-left">
-          <p className="text-gray-500 text-sm">&copy; 2025 LDCE GTM Quiz. 08/02/2025.</p>
+          <p className="text-gray-500 text-sm">&copy; 2025 LDCE GTM Quiz. Updated 10/02/2025.</p>
           <div className="mt-2 space-x-4">
             {/* Privacy Policy Button */}
             <button onClick={() => setOpenDialog("privacy")} className="text-blue-600 hover:underline">
