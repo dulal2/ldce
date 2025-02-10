@@ -380,6 +380,296 @@ const quizData = {
     },
   ],
   Train_Manager: [
+       {
+    question: "ON aspect means. ऑन अस्पेक्ट का मतलब क्या होता हैं.",
+    options: ["Danger", "Caution", "Most restrictive", "Proceed"],
+    correctAnswer: 2,
+  },
+  {
+    question: "calling on signal is identified by. कालिंग ऑन सिग्नल की पहचान क्या है.",
+    options: ["G MARKER", "C MARKER", "P MARKER", "ALL THE ABOVE"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Which one of the following is permissive signal.निम्न में परमिसिव सिग्नल कौन हैं.",
+    options: ["HOME", "STARTER", "DISTANT", "NONE OF THE ABOVE"],
+    correctAnswer: 2,
+  },
+  {
+    question: "LTM is prepared by. LTM किसके द्वारा तैयार किया जाता हैं.",
+    options: ["LP", "TM", "SM", "SCNL"],
+    correctAnswer: 1,
+  },
+  {
+    question: "How many wagon does a standard NMG rake consist of? मानक NMG रेक में कितने वैगन होते हैं.",
+    options: ["25", "30", "58", "59"],
+    correctAnswer: 0,
+  },
+  {
+    question: "permanenet speed restriction are notified through. स्थाई गति प्रतिबंध का उल्लेख कँहा रहता हैं.",
+    options: ["PTT", "WTT", "SWR", "GWR"],
+    correctAnswer: 1,
+  },
+  {
+    question: "whistle code for Train Parting is. गाड़ी बिखंडन के लिए सिटी कोड क्या हैं.",
+    options: ["Four short", "long short long short", "Three long", "two short"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Turning time of MRV single exit is.सिंगल निकासी में MRV को बाहर करने का समय क्या हैं.",
+    options: ["20 minutes", "25 minutes", "45 minutes", "30 minutes"],
+    correctAnswer: 1,
+  },
+  {
+    question: "CRIS was established in the year. क्रिस की स्थापना कब हुई थी.",
+    options: ["1982", "1986", "1988", "1984"],
+    correctAnswer: 1,
+  },
+  {
+    question: "CBC Means. CBC का मतलब क्या होता हैं.",
+    options: ["Centre Buffer coupling", "IR Coupling", "Centre Ball Bearing", "none of the above"],
+    correctAnswer: 0,
+  },
+  {
+    question: "What is the Colour of Feed pipe? फीड पाइप का रंग क्या होता हैं.",
+    options: ["GREEN", "WHITE", "RED", "NONE OF THE ABOVE"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Trap point in Loop line protect which line. लूप लाइन का ट्रैप पॉइंट किसकी रक्षा करती हैं.",
+    options: ["Running line", "Main line", "Siding line", "None of the above"],
+    correctAnswer: 1,
+  },
+  {
+    question: "RDSO Situated at. RDSO का मुखयालय कँहा हैं.",
+    options: ["Mumbai", "Kanpur", "Lucknow", "Kolkata"],
+    correctAnswer: 2,
+  },
+  {
+    question: "WLRRM means in LHB Coach. WLRRM का मतलब क्या होता LHB कोच में.",
+    options: ["AC 2 TIER", "AC 3 TIER", "GENRAL COACH", "TM VAN"],
+    correctAnswer: 3,
+  },
+  {
+    question: "SHUNTING order FORM no is. शटिंग के लिए फॉर्म क्या हैं.",
+    options: ["T/806", "T/B 912", "T/369 (3B)", "T/B 602"],
+    correctAnswer: 0,
+  },
+  {
+    question: "WHICH occasion the PN book used by TM. ट्रैन मैनेजर PN बुक का उपयोग कब करता हैं.",
+    options: ["COMPLETE ARRIVAL", "TRAIN PARTING", "DIVIDING", "SHUNTING"],
+    correctAnswer: 0,
+  },
+  {
+    question: "MOCK DRILL to be conducted once in.मॉक ड्रिल कितने महीने में किया जाता हैं.",
+    options: ["THREE MONTH", "TWO MONTH", "SIX MONTH", "FIVE MONTH"],
+    correctAnswer: 2,
+  },
+  {
+    question: "MAXIMUM NUMBER of LHB COACH. LHB रेक में अधिकतम कितने कोच होते हैं.",
+    options: ["22+2", "20+2", "24+2", "25"],
+    correctAnswer: 1,
+  },
+  {
+    question: "HOW many brake cylinder are available in BOXNHL wagon. BOXNHL वैगन में कितना ब्रेक सिलिंडर होता हैं.",
+    options: ["TWO", "FOUR", "ONE", "EIGHT"],
+    correctAnswer: 1,
+  },
+  {
+    question: "The code for eight wheeler Brake van is. आठ व्हिलेर ब्रेक वान का कोड क्या होता हैं.",
+    options: ["BV", "BVZC", "BVZI", "BVCM"],
+    correctAnswer: 2,
+  },
+   {
+    question: "Principle of making time table is. समय सारणी बनाने का सिद्धांत क्या हैं?",
+    options: ["Passenger convenience", "Operational need", "Running time of train", "All the above"],
+    correctAnswer: 3,
+  },
+  {
+    question: "SPAD of passenger train comes under which class of accident? यात्री गाड़ी की SPAD किस क्लास का दुर्घटना हैं?",
+    options: ["D", "B", "H1", "H2"],
+    correctAnswer: 2,
+  },
+  {
+    question: "What is the duration of IOH Maintenance for conventional loco for coaching train? कोचिंग लोको जो कान्वेंशनल टाइप का होता हैं उसका IOH का समय क्या होता हैं?",
+    options: ["4 Hours", "6 Hours", "6 days", "9 days"],
+    correctAnswer: 3,
+  },
+  {
+    question: "Type of marshaling yard is. मार्शलिंग यार्ड के प्रकार हैं?",
+    options: ["Flat yard", "Hump yard", "Gravity yard", "All the above"],
+    correctAnswer: 3,
+  },
+  {
+    question: "Escaping of wagon in right line on D/L section what beats given to advance station? डबल लाइन के सेक्शन में सही लाइन से गाड़ी भागने पर क्या बीट दिया जाता हैं?",
+    options: ["6 pause 4", "6 pause 5", "6 pause 1", "6 pause 2"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Gross clearance of C class ODC is. C क्लास ODC के लिए कितना ग्रॉस क्लियरन्स होना चाहिए?",
+    options: ["more than 3 inch and less than 6 inch", "more than 6 inch and less than 9 inch", "more than 9 inch", "All the above"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Validity of special premium BPC is. स्पेशल प्रीमियम BPC की बैधता क्या होती हैं?",
+    options: ["12 + 3 days", "12+ 5 days", "20+ 5 days", "none of the above"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Master chart is prepared by. मास्टर चार्ट किसके द्वारा तैयार किया जाता हैं?",
+    options: ["Sr. DOM", "PCOM", "Chief controller", "AOM"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Roll on -Roll off plan was introduced first where? रोल ऑन रोल ऑफ योजना कहाँ प्रारम्भ किया गया था?",
+    options: ["ECR", "ER", "KOKAN RAILWAY", "NR"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Standard rake of BOXNHL is. BOXNHL का मानक रेक कितने वैगन का होता हैं?",
+    options: ["59", "58", "42", "35"],
+    correctAnswer: 1,
+  },
+  {
+    question: "What is the full form of POH? POH का फुल फॉर्म क्या होता हैं?",
+    options: ["Partial overhauling", "Periodical overhauling", "Particular overhauling", "Part overhauling"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Block Back and Block Forward are related to. ब्लॉक बैक और ब्लॉक फॉरवर्ड किससे सम्बन्धित हैं?",
+    options: ["Signal failure", "Shunt movement", "Caution movement", "Block failure"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Which is not a caution order form? कौन सा सावधानी आदेश प्रपत्र नहीं है?",
+    options: ["T/409", "T/A 409", "T/B 409", "T/609"],
+    correctAnswer: 3,
+  },
+  {
+    question: "How much depth of ballast is available in BG group A route below the bottom of the sleeper? BG में A मार्ग में स्लीपर के नीचे बल्लास्ट की गहराई कितना होता है।",
+    options: ["300MM", "250MM", "200MM", "150MM"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Creep is related to. क्रीप का सम्बन्ध किस से हैं?",
+    options: ["wagon", "engine", "track", "none of the above"],
+    correctAnswer: 2,
+  },
+  {
+    question: "The normal height of contact wire in regulated OHE section is. रेगुलेटेड OHE सेक्शन में कॉन्टेक्ट तार की ऊंचाई क्या होती हैं?",
+    options: ["5.75m", "5.60m", "5.65m", "4.65m"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Which loco is used for both services (passenger and freight)? किस लोको का उपयोग दोनों सर्विस में होता हैं?",
+    options: ["WAG5", "WAG7", "WAM4", "WAP4"],
+    correctAnswer: 2,
+  },
+  {
+    question: "What type of pantograph is used in Indian railway for 25KV AC electric loco? भारतीय रेलवे में 25 KV AC के लिए किस प्रकार के पेंटोग्राफ का उपयोग होता हैं?",
+    options: ["AM12", "AM10", "AM14", "All the above"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Under Running staff review, 1 (one) shunter is demanded for rest giver for how many shunters? कितने शंटर के लिए एक शंटर की व्यवस्था रनिंग स्टाफ रिव्यू के अंतर्गत की जाती हैं?",
+    options: ["6", "8", "4", "10"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Wagon km is an example of? वैगन किलोमीटर किस इकाई का उदाहरण हैं?",
+    options: ["Primary unit", "Fundamental unit", "Derived unit", "None of the above"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Division time table meeting is held in which month? मण्डल समय सारणी की बैठक किस माह में होती हैं?",
+    options: ["October", "September", "December", "June"],
+    correctAnswer: 1,
+  },
+    {
+    question: "Authority to start a train from non-signalled line of a station is. किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
+    options: ["T/369(3b)", "T/511", "T/512", "T/509"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Authority to start a train from a line with common starter signal is सामान्य स्टार्टर सिग्नल वाली लाइन से ट्रेन खुलाने के लिए प्राधिकार है?",
+    options: ["T/512", "T/511", "T/509", "T/510"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Shunting order form is शंटिंग ऑर्डर फॉर्म है......?",
+    options: ["T/806", "T/608", "T/511", "T/B806"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Authority to proceed without line clear is लाइन क्लियर के बिना आगे बढ़ने का प्राधिकार _ है?",
+    options: ["T/B602", "T/C602", "T/A602", "T/D602"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Paper line clear ticket for UP direction is अप दिशा के लिए पेपर लाइन क्लियर टिकट _____ है।",
+    options: ["T/D 1425", "T/B 1425", "T/C 1425", "T/A 1425"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Conditional line clear ticket is सशर्त लाइन क्लियर टिकट _ है।",
+    options: ["T/G 602", "T/F 602", "T/E 602", "T/I 602"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Authority for temporary single line working on double line in absolute block section is पूर्ण ब्लॉक सेक्शन में डबल लाइन पर काम करने वाली अस्थायी सिंगल लाइन के लिए प्राधिकरण है।",
+    options: ["T/A 602", "T/B 602", "T/C 602", "T/D 602"],
+    correctAnswer: 3,
+  },
+  {
+    question: "Maximum speed while shunting on T/806 is _KMPH.  टी/806 पर शंटिंग करते समय अधिकतम गति _ किमी प्रति घंटा है।",
+    options: ["5", "10", "15", "20"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Authority given during TFC on double line is डबल लाइन पर टीएफसी के दौरान दिया गया प्राधिकार ___ है।",
+    options: ["T/A 602", "T/B 602", "T/C 602", "T/D 602"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Train intact arrival register is. ट्रेन पूर्ण आगमन रजिस्टर __ है।",
+    options: ["T/1410", "T/1525", "T/A1425", "TB 1425"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Authority for temporary single line working on double line in automatic block section is स्वचालित ब्लॉक अनुभाग में डबल लाइन पर काम करने वाली अस्थायी सिंगल लाइन के लिए प्राधिकरण है।",
+    options: ["T/B 912", "T/C 912", "T/D 912", "T/E 912"],
+    correctAnswer: 3,
+  },
+  {
+    question: "Authority to proceed for relief engine into an automatic block signalling section is स्वचालित ब्लॉक सिग्नलिंग अनुभाग में रिलीफ इंजन के लिए आगे बढ़ने का प्राधिकार _____ है।",
+    options: ["T/A 912", "T/B 912", "T/C 912", "T/D 912"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Motor trolley permit is ... मोटर ट्रॉली परमिट __ है।",
+    options: ["T/1410", "T/1525", "T/1518", "T/1425"],
+    correctAnswer: 1,
+  },
+  {
+    question: "Authority to start a train from a line with common starter signal is सामान्य स्टार्टर सिग्नल वाली लाइन से ट्रेन खुलाने के लिए प्राधिकार है?",
+    options: ["T/512", "T/511", "T/509", "T/510"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Shunting order form is शंटिंग ऑर्डर फॉर्म है......?",
+    options: ["T/806", "T/608", "T/511", "T/B806"],
+    correctAnswer: 0,
+  },
+  {
+    question: "Authority to proceed without line clear is लाइन क्लियर के बिना आगे बढ़ने का प्राधिकार _ है?",
+    options: ["T/B602", "T/C602", "T/A602", "T/D602"],
+    correctAnswer: 2,
+  },
+  {
+    question: "Paper line clear ticket for UP direction is अप दिशा के लिए पेपर लाइन क्लियर टिकट _____ है।",
+    options: ["T/D 1425", "T/B 1425", "T/C 1425", "T/A 1425"],
+    correctAnswer: 2,
+  },
     {
         question: "Authority to start a train from non-signalled line of a station is.किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
         options: ["T/369(3b)", "T/511", "T/512", "T/509"],
