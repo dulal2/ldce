@@ -20,6 +20,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7206030569003059"
+          crossOrigin="anonymous"
+        ></script>
+      </head>
       <body className={inter.className}>
         <div className="flex flex-col min-h-screen">
           <Header />
@@ -31,8 +38,6 @@ export default function RootLayout({
           </main>
           <Footer />
         </div>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7206030569003059"
-     crossorigin="anonymous"></script>
         {/* Move the script to pages/_document.js or use next/script for better performance */}
       </body>
     </html>
