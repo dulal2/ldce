@@ -5,6 +5,7 @@ import GoogleAd from "@/components/GoogleAd"
 import Header from "@/components/Header"
 import Footer from "@/components/Footer"
 import type React from "react"
+import {GoogleTagManager} from "@next/third-parties/google"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -21,6 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <GoogleTagManager gtmId="G-XTNK0EXS8M" />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7206030569003059"
