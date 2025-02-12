@@ -12,8 +12,8 @@ export default function Header() {
               <Image
                 src="/logo.png"  // Ensure this file is inside the `public/` folder
                 alt="LdceQuizz Logo"
-                width={48}
-                height={48}
+                width={40}
+                height={40}
                 className="object-cover"
                 priority
               />
