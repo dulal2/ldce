@@ -381,6 +381,401 @@ const quizData = {
   ],
   Train_Manager: [
        {
+      question: "Which coupling is in the engine? इंजन में कौन coupling है",
+      options: ["Tc", "shaku", "H", "Nt"],
+      correctAnswer: 0,
+    },
+    {
+      question: "What type of accident is a passenger run-over? Passenger का रन ओवर किस प्रकार की दुर्घटना है",
+      options: ["P", "R", "Q", "L"],
+      correctAnswer: 0,
+    },
+    {
+      question: "In which part of SWR is line blocking mentioned? लाइन को ब्लॉक करना SWR के किस भाग में है",
+      options: ["9", "7", "6", "5"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Full form of MMD? फुल फॉर्म ऑफ MMD",
+      options: ["All", "Multy model dimensions", "Multiple model dimensions", "Multy moving dimensions"],
+      correctAnswer: 3,
+    },
+    {
+      question: "IBS is a station of which type? IBS एक स्टेशन है",
+      options: ["Un manned", "All", "D class", "Manned"],
+      correctAnswer: 3,
+    },
+    {
+      question: "How many constitutions are currently in force? वर्तमान में कितना संविधान चल रहा है",
+      options: ["128", "129", "130", "121"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Number of explosive wagons allowed in parcel and mixed trains? पार्सल और मिक्सड ट्रेन में विस्फोटक वैगन की संख्या",
+      options: ["2", "5", "8", "3"],
+      correctAnswer: 3,
+    },
+    {
+      question: "India's shortest NH is in which state? भारत का सबसे छोटा NH किस राज में है",
+      options: ["Sikkim", "Arunachal Pradesh", "Goa", "Kerala"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Lobby VKI number in Adra division? आद्रा division में लॉबी vki संख्या",
+      options: ["6", "4", "5", "7"],
+      correctAnswer: 1
+    },
+    {
+      question: "Prize money for the first winner of Premchand & Maithili Sharan Gupta Award? प्रेमचंद & मैथिली शरण गुप्त अवार्ड में प्रथम विजेता को कितनी राशि दी जाती है",
+      options: ["50000", "10000", "5000", "15000"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Section clearing speed for a flat tire train? Flat टायर युक्त ट्रेन की सेक्शन क्लियरिंग स्पीड",
+      options: ["30", "25", "40", "20"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Authority communication breaks down on D/L? D/L पर संचार व्यवस्था भंग होने पर क्या दिया जाएगा",
+      options: ["Nt", "T/A602", "T/C602", "T/B602"],
+      correctAnswer: 3
+    },
+    {
+      question: "Mata Vaishno Devi Katra station is in which division? Mata Vaishno Devi कटरा स्टेशन किस डिविजन में है",
+      options: ["Jammu", "Ambala", "Ludhiana", "Firozpur"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Who invented the gas engine? गैस इंजन कि खोज किसने की",
+      options: ["none of these", "Stephenson", "Daimler/डेमलर", "Jems watt/जेम्स वॉट"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Btpn ka loading time",
+      options: ["3", "4.5", "5", "4"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Rail Minister Essay Competition is held in which month? रेल मंत्री निबंध प्रतियोगिता का आयोजन किया जाता हैं",
+      options: ["September /सितंबर", "March /मार्च", "April/अप्रैल", "January/जनवरी"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Which company is building India's first private coach factory? पहला प्राइवेट कोच फैक्ट्री कौन कंपनी बना रही है",
+      options: ["सीमेंस", "Alstom", "Adani", "Medha"],
+      correctAnswer: 3,
+    },
+    {
+      question: "hat % of CTG is given for a 20 km transfer based on basic? 20km दूरी में ट्रांसफर होने पर कितना %CTG मिलेगा बेसिक का",
+      options: ["50", "10", "20", "30"],
+      correctAnswer: 3,
+    },
+    {
+      question: "color of T/509",
+      options: ["black", "red", "blue", "green"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Who is the current Foreign Secretary? वर्तमान में विदेश सचिव कौन है",
+      options: ["Suman beri", "Bikram Mistry", "Sanjay Malhotra", "Rajeev kumar"],
+      correctAnswer: 1,
+    },
+    {
+      question: "How many copies of the parcel summary are made? पार्सल समरी कितना कॉपी में बनता है",
+      options: ["3", "4", "5", "2"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Head of the Operating Department in the Railway Board? Railway board में ऑपरेटिंग विभाग का हेड है",
+      options: ["Operation & Business Development", "None of these", "Chief of traffic", "member of railway board operation"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Identification of an auto signal? Auto सिग्नल की पहचान",
+      options: ["yellow circle with white A/पिला चक्री में सफेद", "black circle with white A/काला चक्री में सफेद A", "White circle with black A/सफेद चक्री में काला A", "White circle with illuminated A/सफेद चक्री में illuminated A"],
+      correctAnswer: 2,
+    },
+    {
+      question: "In which part of the fog signal register is detonator testing mentioned? डेटोनेटर की टेस्टिंग फाग सिग्नल रजिस्टर के किस पार्ट में है",
+      options: ["3", "4", "2", "1"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Adequate distance in an automatic(S/L) section ? S/L automatic section में पर्याप्त दूरी है",
+      options: ["400", "120", "180", "240"],
+      correctAnswer: 2,
+    },
+    {
+      question: "TA for duty travel exceeding 6 hours? 6 घंटे से अधिक समय यात्रा ड्यूटी पर कितना TA मिलता है",
+      options: ["Nt", "100%", "70%", "30%"],
+      correctAnswer: 2,
+    },
+    {
+      question: "How many copies of the forwarding note are made?",
+      options: ["4", "3", "5", "2"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Number of berths in LHB AC-2 coach?",
+      options: ["48", "42", "46", "68"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Minimum distance for parcels?",
+      options: ["5", "2", "4", "3"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Premium BPC enroute %?",
+      options: ["95", "90", "70", "75"],
+      correctAnswer: 3,
+    },
+    {
+      question: "GDR time for 24 to 96 hours of stable load? 24 से 96 घंटे स्टेबल होने पर GDR का समय",
+      options: ["90", "120", "45", "30"],
+      correctAnswer: 0,
+    },
+    {
+      question: "General Electric belongs to which country? General इलेक्ट्रिकल किस देश की कंपनी है",
+      options: ["American", "Indian", "Japanese", "Russian"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Number of detonators used for train protection in the pilot guard system? पायलट गार्ड सिस्टम में ट्रेन की सुरक्षा कितना पटाखा से होता है",
+      options: ["1", "3", "2", "4"],
+      correctAnswer: 1,
+    },
+    {
+      question: "When is WTT implemented? WTT कब लागू किया जाता है",
+      options: ["जून", "नवम्बर", "अक्टूबर", "जुलाई"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Authority for sending relief engines in an auto section? ऑटो सेक्शन में रिलीफ इंजन भेजने की ऑथोरिटी",
+      options: ["T/D912", "T/C912", "T/B912", "T/A912"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Maximum speed in the pilot guard system? पायलट गार्ड सिस्टम में कितना मैक्सिमम स्पीड है",
+      options: ["25", "50", "30", "40"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Kandla Port is in which state? कांडला बंदरगाह किस राज्य में है",
+      options: ["तमिलनाडु", "गुजरात", "कर्नाटक", "ओडिशा"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Hospital leave duration?",
+      options: ["6", "28", "12", "24"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Which copy of the luggage ticket is given to the passenger? लगेज टिकट का कौन सा प्रति यात्री को दिया जाता है",
+      options: ["second", "none of these", "first", "third"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Maximum days for booking a locker? लॉकर को अधिकतम कितने दिनों के लिए बुक किया जा सकता है",
+      options: ["15", "7", "1", "30"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Who is the secretary of DRUCC? DRUCC का सचिव कौन होता है",
+      options: ["ADRM", "Sr. DPO", "Sr.DCM", "DRM"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Discount percentage for national-level athletes in sleeper or second class? राष्ट्रीय स्तरीय खिलाड़ियों को स्लीपर अथवा द्वितीय श्रेणी में कितना प्रतिशत कार्यालय दिया जाता है",
+      options: ["25%", "75%", "50%", "100%"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Free allowance for first-class pass holders? प्रथम दर्जा पास पर फ्री अलाउंस कितना है",
+      options: ["70kg", "100kg", "50kg", "140kg"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Under which section of the Railways Act, 1989, is an application for compensation made to the Railway Claims Tribunal? रेल अधिनियम 1989 के किस धारा के अनुसार हर्जाने के भुगतान के   लिए प्रार्थना पत्र रेल दावा अधिकरण को दिया जाता है",
+      options: ["धारा 124", "धारा 125", "धारा 130", "धारा 121"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Which chapter of G&SR contains rules for absence from duty? G&SR ke किस चैप्टर में ड्यूटी पर अनुपस्थिति होने का नियम है",
+      options: ["2.10", "2.09", "2.07", "2.08"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Free allowance for Second Class 'A' pass holders? द्वितीय दर्जा 'A' पास पर फ्री अलाउंस कितना है",
+      options: ["50kg", "35kg", "40kg", "70kg"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Maximum number of passengers allowed on one UTS ticket? एक UTS टिकट पर अधिकतम कितने यात्रियों की संख्या हो सकती है",
+      options: ["3", "6", "4", "2"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Which sub-committee of the Parliamentary Official Language Committee inspects the Ministry of Railways? रेल मंत्रालय का निरीक्षण संसदीय राजभाषा समिति की कौन सी उप समिति करती है",
+      options: ["पहले", "इनमें से कोई नहीं", "तीसरी", "दूसरे"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Minimum luggage fare per consignment? लगेज का न्यूनतम भाड़ा प्रति कंसाइनमेंट कितना रुपया है",
+      options: ["50", "30", "10", "100"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Travel allowance for staying away from headquarters for more than 6 hours but less than 12 hours? यदि मुख्यालय से 6 घंटे से अधिक परंतु 12 घंटे से कम , रहने पर यात्रा भत्ता दिया जाएगा",
+      options: ["70%", "None of these", "100%", "30%"],
+      correctAnswer: 0,
+    },
+    {
+      question: "How many types of outstanding are there? आउटस्टैंडिंग कितने प्रकार के होते हैं",
+      options: ["3", "1", "2", "4"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Weight charged for a dog booked with a passenger in AC First Class? एक कुत्ते का वजन ऐसी प्रथम श्रेणी में यात्री के साथ बुक करने पर कितना किलोग्राम चार्ज किया जाएगा",
+      options: ["20", "40", "30", "60"],
+      correctAnswer: 4
+    },
+    {
+      question: "How many hours notice is required before booking a motor car? मोटर कर बुक करने से पहले पार्टी द्वारा कम से कम कितने घंटे पहले नोटिस दिया जाएगा",
+      options: ["72", "48", "24", "12"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Validity of the certificate for concessions for mute or deaf persons? गूंगे या बहरे व्यक्ति को रियायत के लिए जो प्रमाण पत्र बनता है उसकी वैधता कितने साल की होती है",
+      options: ["5", "7", "2", "10"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Conduct rule of railway servants is mentioned in which chapter of G&SR? रेल सेवकों का आचरण G&SR के किस चैप्टर से है",
+      options: ["2.11", "2.01", "None of these", "2.10"],
+      correctAnswer: 3,
+    },
+    {
+      question: "When was the Parliamentary Official Language Committee formed? संसदीय राजभाषा समिति का गठन कब हुआ",
+      options: ["1955", "1957", "1976", "1967"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Free allowance in AC 2 Tier/First Class (in kg)? AC2 टियर/प्रथम श्रेणी में free अलाउंस कितना है किलोग्राम में",
+      options: ["50", "70", "100", "150"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Engineering allowance for loco men and traffic men is mentioned in? इंजिनियरिंग अलाउंस लोको मेन और ट्रेफिक मेन उल्लेखित है",
+      options: ["G and SR", "SWR", "WTT", "Block manual"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Color of the VTO? दृश्यता परीक्षण खंभा का रंग होता है",
+      options: ["Black and Whiteकाला एवं सफेद", "Black and Redसफेद एवं लाल", "Only Whiteकेवल सफेद", "Black and Yellowकाला एवं पीला"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Validity of BPC for Intercity/DEMU trains? इंटरसिटी / डेमू  ट्रेन की बी .पी .सी की वैधता..",
+      options: ["3500 किलोमीटर + 10 दिन", "350 किलोमीटर + 7 दिन", "3000 किलोमीटर + 7 दिन", "3500 किलोमीटर + 7 दिन"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Number of brake cylinders in a BVZC wagon? BVZCबैगन में ब्रेक सिलेंडर की संख्या कितनी होती है",
+      options: ["1", "2", "4", "8"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Number of axles in a Co-Co locomotive? Co-Co मे कितना एक्सेल होता है",
+      options: ["6", "8", "12", "16"],
+      correctAnswer: 2,
+    },
+    {
+      question: "After how many years did India win the ICC World Cup title? भारत ने कितने साल बाद आईसीसी विश्व कप खिताब जीता",
+      options: ["10 साल", "11 साल", "12 साल", "13 साल"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Signal given by train manager in case of a falling mark jam? फॉलिंग मार्क जाम होने पर स्टेशन मास्टर को ट्रेन मैनेजर रात में कौन सा संकेत बताएगा",
+      options: ["GREEN", "YELLOW", "RED", "WHITE"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Coach code for a kitchen car? Kitchen car का कोच कोड क्या होता है",
+      options: ["CR", "CL", "Cz", "CD"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Where was the first platform ticket issued? सबसे पहले प्लेटफार्म टिकट कहां जारी हुआ था",
+      options: ["NEW DELHI", "MUMBAI", "KARACHI", "LAHORE"],
+      correctAnswer: 3,
+    },
+    {
+      question: "When was Indian Railways nationalized? भारतीय रेलवे का राष्ट्रीयकरण कब हुआ",
+      options: ["1905", "1890", "1984", "1950"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Who presented the first Railway Budget? प्रथम रेल बजट किसने पेश किया था",
+      options: ["आसिफ अली", "लाल बहादुर शास्त्री", "जॉन मथाई", "जगजीवन राम"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Number of non-AC travel classes in Indian Railways? भारतीय रेलवे में यात्रा करने की नॉन एसी श्रेणियां कितनी है",
+      options: ["TWO", "THREE", "FOUR", "FIVE"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Number of AC travel classes in Indian Railways? भारतीय रेलवे में यात्रा करने की कितनी AC श्रेणियां है",
+      options: ["2", "5", "4", "6"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Color of PW BIL? PW BIL का रंग कैसा होता है",
+      options: ["GREEN", "CHOCOLATE", "WHITE", "BROWN"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Number of DTC book? DTC बुक का नंबर क्या है",
+      options: ["SN- 27", "SN-1", "SN-21", "SN-22"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Which class of students are issued free MST? किस कक्षा के छात्रों को फ्री MST जारी की जाती है",
+      options: ["8", "10", "12", "Graduate"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Total number of PRS in Indian Railways? भारतीय रेलवे में कुल कितने PRS है",
+      options: ["16", "5", "4", "इनमें से कोई नहीं"],
+      correctAnswer: 1,
+    },
+    {
+      question: "In which part of the fog signal register is detonator testing mentioned? डेटोनेटर की टेस्टिंग फाग सिग्नल रजिस्टर के किस पार्ट में है",
+      options: ["3", "4", "2", "1"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Adequate distance in an automatic section (S/L)? S/L automatic section में पर्याप्त दूरी है",
+      options: ["400", "120", "180", "240"],
+      correctAnswer: 2,
+    },
+    {
+      question: "TA for duty travel exceeding 6 hours? 6 घंटे से अधिक समय यात्रा ड्यूटी पर कितना TA मिलता है",
+      options: ["Nt", "100%", "70%", "30%"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Number of copies of the forwarding note? Forwarding note kitna कॉपी में बनता हैं",
+      options: ["4", "3", "5", "2"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Number of berths in LHB AC-2 coach? LHB कोच ऐसी2 में बर्थ की संख्या",
+      options: ["48", "42", "46", "68"],
+      correctAnswer: 2,
+    },
+       {
     question: "ON aspect means. ऑन अस्पेक्ट का मतलब क्या होता हैं.",
     options: ["Danger", "Caution", "Most restrictive", "Proceed"],
     correctAnswer: 2,
