@@ -380,7 +380,426 @@ const quizData = {
     },
   ],
   Train_Manager: [
-       {
+     {
+           question: "Maximum speed of trains during thick and foggy weather in Absolute Block System is.... Kmph when signal is showing green.मोटे और कोहरे वाले मौसम में एब्सोल्यूट ब्लॉक सिस्टम के दौरान ट्रेनों की अधिकतम गति .... किमी प्रति घंटा होती है जब सिग्नल हरा दिखा रहा हो",
+           options: ["60 kmph", "75 kmph", "60 kmph and 75 kmph when Fog Safe kmph Device(FSD) is provided in Locomotive", "Not more than 90"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Catch Siding is provided to protect-कैच साइडिंग को सुरक्षित रखने के लिए प्रदान किया जाता है-",
+           options: ["Block Section", "Station Section", "Station Limit", "Neutral Section"],
+           correctAnswer: 1,
+        },
+        {
+           question: "At a C class station, in absence of a Starter, .... signal is the Last Stop Signal.एक 'सी' श्रेणी के स्टेशन पर, स्टार्टिंग सिग्नल की अनुपस्थिति में, .... सिग्नल अंतिम स्टॉप सिग्नल होता है।",
+           options: ["Outer", "Home", "Routing", "Distant"],
+           correctAnswer: 1,
+        },
+        {
+           question: "A light waved violently shall be used as a Stop signal only when the red light is not available.एक रोशनी जो जोरदार लहराई जाती है, उसे केवल तभी स्टॉप सिग्नल के रूप में उपयोग किया जाएगा जब लाल रोशनी उपलब्ध न हो।",
+           options: ["White", "Green", "Both of the above", "None of the above"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When a train has to be admitted on loop line, Distant signal will show ... light where Inner Distant is provided.जब किसी ट्रेन को लूप लाइन पर प्रवेश करना हो, तो दूरस्थ सिग्नल .... रोशनी दिखाएगा जहां आंतरिक दूरस्थ सिग्नल प्रदान किया गया हो।",
+           options: ["Yellow", "Double Yellow", "Green", "No light"],
+           correctAnswer: 1,
+        },
+        {
+           question: "Outer, Home and...... cannot be used during Shunting operation-आउटर, होम और...... शंटिंग संचालन के दौरान उपयोग नहीं किए जा सकते।",
+           options: ["Calling-on Signal", "Starter Signal", "Last Stop Signal", "First Stop Signal"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Slip Siding is intended to protectस्लिप साइडिंग का उद्देश्य सुरक्षा प्रदान करना है।",
+           options: ["Station Section", "Station Limit", "Block Section", "Neutral Section"],
+           correctAnswer: 2,
+        },
+        {
+           question: "In regard to Multiple-Aspect signals, the minimum visibility distance for all signals shall be-मल्टीपल-अस्पेक्ट सिग्नलों के संबंध में, सभी सिग्नलों के लिए न्यूनतम दृश्यता दूरी होगी।",
+           options: ["200m", "400m", "1.2km", "Signal shall be visible for a minimum period of 5 sec at m.p.s. of the section"],
+           correctAnswer: 3,
+        },
+        {
+           question: "Home Signal of Intermediate Block Post is identified by .. marker.इंटरमीडिएट ब्लॉक पोस्ट का होम सिग्नल .... मार्कर द्वारा पहचाना जाता है।",
+           options: ["R", "g", "IB", "1D"],
+           correctAnswer: 2,
+        },
+        {
+           question: "The Loco Pilot of a train shall not pass a stop signal without proper authority except.. . which can be passed conditionally-एक ट्रेन का लोको पायलट बिना उचित प्राधिकरण के स्टॉप सिग्नल को पार नहीं करेगा, सिवाय .... जिसे सशर्त पार किया जा सकता है।",
+           options: ["1BSS", "GSS", "Automatic Stop Signal", "All of the above"],
+           correctAnswer: 3,
+        },
+        {
+           question: "Station Section is a part of Station Limit and is provided at __________ class station only.स्टेशन सेक्शन, स्टेशन सीमा का एक भाग है और इसे केवल __________ श्रेणी के स्टेशन पर प्रदान किया जाता है",
+           options: ["‘W’", "‘B’", "‘C’", "‘Special’"],
+           correctAnswer: 1,
+        },
+        {
+           question: "Minimum equipment of fixed signals at a ‘B’ class station provided with MOMA signaling shall be:'MOMA' सिग्नलिंग से सुसज्जित 'बी' श्रेणी के स्टेशन पर स्थिर सिग्नलों के लिए न्यूनतम उपकरण होगा:",
+           options: ["Warner, Home, and Starter", "Distant and Home", "Distant, Home, and Starter", "Distant, Home, Starter, and Advanced Starter"],
+           correctAnswer: 2,
+        },
+        {
+           question: "The ‘S’ marker board is provided at a distance of __________ meters in the facing points of every outlying siding.'S' मार्कर बोर्ड को हर बाहरी साइडिंग के अग्र भाग में __________ मीटर की दूरी पर प्रदान किया जाता है।",
+           options: ["30m", "45m", "800m", "1200m"],
+           correctAnswer: 0,
+        },
+        {
+           question: "The form number of the Advance Pilot-in-Memo is:एडवांस पायलट-इन-मेमो का प्रपत्र संख्या है:",
+           options: ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The form number of the Pilot-in and Pilot-out memo is:पायलट-इन और पायलट-आउट मेमो का प्रपत्र संख्या है:",
+           options: ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+           correctAnswer: 2,
+        },
+        {
+           question: "USR stands for:USR का पूर्ण रूप है:",
+           options: ["Unified Special Restriction Rules", "Unified Subsidiary Rules", "Under Special Restriction", "None of the above"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The form number for Disconnection/Re-connection Notice is:डिस्कनेक्शन/री-कनेक्शन नोटिस के लिए प्रपत्र संख्या है:",
+           options: ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When a signal shows more than one aspect simultaneously, such a signal is treated as:जब कोई सिग्नल एक साथ एक से अधिक पहलू दिखाता है, तो ऐसे सिग्नल को माना जाता है:",
+           options: ["Correct signal", "Defective signal", "Following signal", "None of the above"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The stop board is fixed in the __________ of the train during C&W examination of a rake.सी एंड डब्ल्यू परीक्षण के दौरान ट्रेन के __________ में स्टॉप बोर्ड लगाया जाता है।",
+           options: ["Left", "Right", "Middle", "None of the above"],
+           correctAnswer: 2,
+        },
+        {
+           question: "The station at which an authority to proceed is given is known as:जिस स्टेशन पर आगे बढ़ने की अनुमति दी जाती है, उसे कहा जाता है:",
+           options: ["Notice station", "Interlocked station", "Block station", "Non-block station"],
+           correctAnswer: 2,
+        },
+        {
+           question: "For passing a Gate Stop signal at ‘ON’, the Loco Pilot has to wait ___minutes in the daytime and ___minutes at night.गेट स्टॉप सिग्नल को 'ऑन' पर पार करने के लिए, लोको पायलट को दिन के समय ___ मिनट और रात में ___ मिनट प्रतीक्षा करनी होगी",
+           options: ["1 & 2", "2 & 3", "2 & 5", "5 & 5"],
+           correctAnswer: 0,
+        },
+        {
+           question: "No LP/ALP should be put on independent duty unless they take Road Learning of the section initially for at least _ trips in a    Normal section and ___ trips in an Automatic or Ghat section.कोई भी एलपी/एएलपी स्वतंत्र ड्यूटी पर नहीं लगाया जाना चाहिए जब तक कि वे सामान्य सेक्शन में कम से कम _ यात्राओं और ऑटोमैटिक या घाट सेक्शन में ___ यात्राओं के लिए रोड लर्निंग न कर लें।",
+           options: ["1 & 2", "3 & 3", "3 & 6", "6 & 6"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Station Limit is situated between the __ of the station.स्टेशन सीमा स्टेशन के __के बीच स्थित होती है।",
+           options: ["Outermost stop signals", "Outermost signals", "Both of the above", "None of the above"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The sequence of taking off through signals at a station where MACL signals are provided for run-through trains with an Advanced Starter is:उस स्टेशन पर सिग्नलों के क्रम को हटाने की प्रक्रिया, जहां रन-थ्रू ट्रेनों के लिए एडवांस्ड स्टार्टर के साथ MACL सिग्नल प्रदान किए गए हैं:",
+           options: ["Home, Starter, then Adv. Starter", "Starter, Home, and then Adv. Starter", "Main Home, Adv. Starter, and then Main Starter", "None of the above"],
+           correctAnswer: 2,
+        },
+        {
+           question: "__is provided in a long block section to split it into two portions, each constituting a separate block section by providing an Intermediate Block Post._________ लंबे ब्लॉक सेक्शन में प्रदान किया जाता है ताकि इसे दो भागों में विभाजित किया जा सके, प्रत्येक को एक अलग ब्लॉक सेक्शन बनाते हुए, एक इंटरमीडिएट ब्लॉक पोस्ट प्रदान करके।",
+           options: ["Automatic Signaling", "MLQ Signaling", "Intermediate Block Signaling", "MACL Signaling"],
+           correctAnswer: 2,
+        },
+        {
+           question: "On Single Line Intermediate Block Signaling, the line between two adjacent block stations is divided into two subsections. The 1st section is termed as ‘Station controlled intermediate block section,’ and the 2nd section is termed as:सिंगल लाइन इंटरमीडिएट ब्लॉक सिग्नलिंग में, दो समीपवर्ती ब्लॉक स्टेशनों के बीच की लाइन को दो उप-खंडों में विभाजित किया जाता है। पहला खंड 'स्टेशन नियंत्रित इंटरमीडिएट ब्लॉक सेक्शन' कहलाता है और दूसरा खंड कहलाता है:",
+           options: ["Block controlled intermediate block section", "Section controlled block section", "Advance block section", "Rear block section"],
+           correctAnswer: 0,
+        },
+        {
+           question: "A train carrying passengers can be admitted into a goods yard or on the goods loop at a restricted speed of:यात्री ले जाने वाली ट्रेन को एक माल यार्ड या माल लूप में प्रतिबंधित गति से प्रवेश कराया जा सकता है:",
+           options: ["08 kmph", "10 kmph", "12 kmph", "15 kmph"],
+           correctAnswer: 1,
+        },
+        {
+           question: "If the Distant signal of an Intermediate Block Post is defective and cannot be kept in the ‘ON’ position, the Intermediate Block Stop signal shall also be treated as:यदि इंटरमीडिएट ब्लॉक पोस्ट का दूरस्थ सिग्नल दोषपूर्ण है और इसे 'ऑन' स्थिति में नहीं रखा जा सकता है, तो इंटरमीडिएट ब्लॉक स्टॉप सिग्नल को भी इस रूप में माना जाएगा।",
+           options: ["Inactive", "Active", "Defective", "None of the above"],
+           correctAnswer: 2,
+        },
+        {
+           question: "When the distant signal shows a ‘Proceed’ aspect and the Home signal displays ‘Yellow with route/lunar indication,’ it will be treated as:जब दूरस्थ सिग्नल 'प्रोसीड' पहलू दिखाता है और होम सिग्नल 'पीला मार्ग/लूनर संकेत' प्रदर्शित करता है, तो इसे इस रूप में माना जाएगा:",
+           options: ["Conflicting signal", "Defective signal", "None of the above", "Both (a) and (b)"],
+           correctAnswer: 3,
+        },
+         {
+           question: "If a fixed signal displays more than one aspect, the Loco Pilot shall act according to its most __________ aspect.यदि कोई स्थिर सिग्नल एक से अधिक पहलू प्रदर्शित करता है, तो लोको पायलट को इसके सबसे __________ पहलू के अनुसार कार्य करना चाहिए",
+           options: ["Defective", "Restrictive", "Active", "Passive"],
+           correctAnswer: 1,
+        },
+        {
+           question: "In case of frequent aspect changing and flickering/bobbing of a Color Light Signal, the Loco Pilot shall treat the signal as defective if it does not assume a steady aspect for at least __________ seconds.यदि रंगीन प्रकाश सिग्नल बार-बार बदलता है और झिलमिलाता है, तो लोको पायलट को इसे दोषपूर्ण मानना चाहिए यदि यह कम से कम __________ सेकंड तक स्थिर पहलू नहीं रखता है।",
+           options: ["30", "60", "120", "15"],
+           correctAnswer: 1,
+        },
+        {
+           question: "In case of doubling a Single Line (S/L) or tripling a Double Line (D/L) or more, no separate road learning of the 2nd, 3rd, or 4th line is given. LP/ALPs may run the first trip at a restricted speed of __________ Kmph.यदि किसी सिंगल लाइन (S/L) को डबल लाइन (D/L) या अधिक किया जाता है, तो दूसरी, तीसरी या चौथी लाइन के लिए अलग से रोड लर्निंग नहीं दी जाती है। LP/ALPs पहली यात्रा __________ किमी प्रति घंटे की प्रतिबंधित गति से चला सकते हैं।",
+           options: ["25/8", "40/15", "15/10", "Sectional speed"],
+           correctAnswer: 1,
+        },
+        {
+           question: "If a Loco Pilot explodes detonator, they must take control of the train and proceed cautiously for up to __________ km before resuming the authorized speed.यदि कोई लोको पायलट डेटोनेटर विस्फोट करता है, तो उसे ट्रेन को नियंत्रित करना चाहिए और अधिकृत गति फिर से शुरू करने से पहले __________ किमी तक सतर्कता से आगे बढ़ना चाहिए।",
+           options: ["800 m", "1 km", "1200 m", "1.5 km"],
+           correctAnswer: 3,
+        },
+        {
+           question: "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Double Yellow, the speed should not exceed __________ Kmph.कोहरे के मौसम में, स्वचालित ब्लॉक क्षेत्र में, यदि स्वचालित स्टॉप सिग्नल डबल येलो दिखा रहा है, तो गति __________ किमी प्रति घंटे से अधिक नहीं होनी चाहिए",
+           options: ["60/75", "30", "Cautious", "15"],
+           correctAnswer: 1,
+        },
+        {
+           question: "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Green, the speed should not exceed __________ Kmph.कोहरे के मौसम में, स्वचालित ब्लॉक क्षेत्र में, यदि स्वचालित स्टॉप सिग्नल ग्रीन दिखा रहा है, तो गति __________ किमी प्रति घंटे से अधिक नहीं होनी चाहिए।",
+           options: ["60/75", "30", "Cautious", "15"],
+           correctAnswer: 0,
+        },
+        {
+           question: "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Yellow, the speed should not exceed __________ Kmph, further restricted so as to be prepared to stop at the next stop signal.कोहरे के मौसम में, स्वचालित ब्लॉक क्षेत्र में, यदि स्वचालित स्टॉप सिग्नल येलो दिखा रहा है, तो गति _____किमी प्रति घंटे से अधिक नहीं होनी चाहिए और अगले स्टॉप सिग्नल पर रुकने के लिए तैयार रहना चाहिए।",
+           options: ["60/75", "30", "Further restricted speed so as to be prepared to stop at the next stop signal", "15"],
+           correctAnswer: 2,
+        },
+        {
+           question: "At a Class ‘D’ station, a ‘PH’ marker post shall be provided at a distance of __________ meters from the center of the station.'डी' श्रेणी के स्टेशन पर, 'PH' मार्कर पोस्ट स्टेशन के केंद्र से __________ मीटर की दूरी पर प्रदान किया जाएगा।",
+           options: ["200", "400", "800", "1200"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The Competency Certificate for Working Points and Signals (OP/TI/A) shall be issued by:संकेतों और पॉइंट्स के संचालन के लिए दक्षता प्रमाणपत्र (OP/TI/A) जारी किया जाएगा।",
+           options: ["Station Superintendent (SS)", "Chief Yard Master (CYM)", "Divisional Traffic Inspector (DTI)", "All of the above"],
+           correctAnswer: 3,
+        },
+        {
+           question: "The Competency Certificate for Working Panel/Route Relay Interlocking is issued by BSI and DTI on form number:(Competency Certificate) BSI और DTI द्वारा फॉर्म नंबर पर जारी किया जाता है।",
+           options: ["OP/TI/A", "OP/TI/B", "OP/TI/C", "None of the above"],
+           correctAnswer: 2,
+        },
+        {
+           question: "The Station Master (SM) should maintain the correct standard time by ascertaining it from the section controller daily at:(SM) को दैनिक रूप से सेक्शन कंट्रोलर से सही मानक समय की पुष्टि करके उसे बनाए रखना चाहिए।",
+           options: ["18.00 hrs", "00.00 hrs", "12.00 hrs", "16.00 hrs"],
+           correctAnswer: 3,
+        },
+        {
+           question: "No trains carrying passengers must be allowed to start before the departure time notified in the:कोई भी यात्री ले जाने वाली ट्रेन को अधिसूचित प्रस्थान समय से पहले शुरू नहीं किया जाना चाहिए।",
+           options: ["Working Time Table", "Working Time Table", "Public Time Table", "None of these"],
+           correctAnswer: 2,
+        },
+        {
+           question: "For starting a train from the station, a Loco Pilot needs:स्टेशन से ट्रेन को शुरू करने के लिए, एक लोको पायलट को चाहिए:",
+           options: ["Guard’s Signal", "Correct departure signals", "Correct authority to proceed", "All of the above"],
+           correctAnswer: 3,
+        },
+        {
+           question: "Guard has to set his watch with correct timing from:गार्ड को अपनी घड़ी को सही समय से सेट करना होता है:",
+           options: ["Driver's watch", "SCR watch", "Station clock or clock of reporting place", "CYM watch"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Guard of a Passenger train shall report for duty ______ before the departure of a train.Guard of a Passenger train shall report for duty ______ before the departure of a train.एक पैसेंजर ट्रेन के गार्ड को ट्रेन के प्रस्थान से____मिनट पहले ड्यूटी पर रिपोर्ट करना होगा।",
+           options: ["45 mins", "20 mins", "30 mins", "25 mins"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Guard of a Goods train shall report for duty as per the time prescribed by:एक मालगाड़ी के गार्ड को ड्यूटी पर रिपोर्ट करना होगा जैसा कि निर्धारित समय के अनुसार:",
+           options: ["PCOM", "GM", "CPTM", "DRM"],
+           correctAnswer: 3,
+        },
+        {
+           question: "The direction of train on a double line is generally on the left-hand line. It can be changed by the approval of:दोहरी लाइन पर ट्रेन की दिशा सामान्यतः बाईं लाइन पर होती है, इसे स्वीकृति द्वारा बदला जा सकता है:",
+           options: ["GM", "CRS", "DRM", "PCOM"],
+           correctAnswer: 1,
+        },
+        {
+           question: "WTT stands for:",
+           options: ["Working Time Table", "Wagon Turn Table", "Wagon Time Table", "None of these"],
+           correctAnswer: 0,
+        },
+        {
+           question: "WTT is issued by:",
+           options: ["GM", "DRM", "CPTM", "PCOM"],
+           correctAnswer: 3,
+        },
+        {
+           question: "WTT is issued:",
+           options: ["Zone wise", "Division wise", "Notice station wise", "For entire railway"],
+           correctAnswer: 1,
+        },
+        {
+           question: "Sectional Speed for the section is set by:सेक्शन के लिए खंडीय गति सेट की जाती है:",
+           options: ["CRS", "PCOM", "GM", "DRM"],
+           correctAnswer: 0,
+        },
+        {
+           question: "MPS of a section is sanctioned by:एक सेक्शन की अधिकतम अनुमत गति (MPS) को स्वीकृत किया जाता है:",
+           options: ["CRS", "PCOM", "GM", "DRM"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When the speedometer of a train becomes defective en route, the train shall work with speed:जब ट्रेन के स्पीडोमीटर में मार्ग में खराबी हो जाती है, तो ट्रेन को",
+           options: ["10% less than permissible speed", "8% less than MPS", "15% less than sectional speed", "5% less than MPS"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When the speedometer of a train becomes defective:जब ट्रेन के स्पीडोमीटर में खराबी हो जाती है:",
+           options: ["Only MPS reduces by 10%", "Only sectional speed reduces by 10%", "Both MPS and sectional speed reduce by 10%", "None of these"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Caution order is issued for a train by:चेतावनी आदेश एक ट्रेन के लिए जारी किया जाता है:",
+           options: ["Guard of the Train", "PWI of the section", "DSO", "Station Master"],
+           correctAnswer: 3,
+        },
+        {
+           question: "There are ______ types of caution orders.",
+           options: ["Two", "Four", "Three", "Five"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Reminder caution is issued in prescribed form no:रीमाइंडर चेतावनी निर्धारित फार्म संख्या में जारी की जाती है:",
+           options: ["T/409", "T/A-409", "T/B-409", "None"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Notice Station issues the caution order for a train in form no:नोटिस स्टेशन किसी ट्रेन के लिए चेतावनी आदेश किस फार्म संख्या में जारी करता है:",
+           options: ["T/409", "T/A-409", "T/B-409", "None"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When a new signal is erected or there is a change in the location, a Caution Order shall be issued for a period of:जब नया सिग्नल स्थापित किया जाता है या स्थान में बदलाव होता है, तो चेतावनी आदेश कितने समय के लिए जारी किया जाता है:",
+           options: ["15 days", "90 days", "30 days", "45 days"],
+           correctAnswer: 1,
+        },
+        {
+           question: "A Caution Order is issued for a train when:चेतावनी आदेश एक ट्रेन के लिए तब जारी किया जाता है जब:",
+           options: ["Train will receive on a non-signal line", "Home signal is defective", "Train will stable at the next station", "Vehicle will be detached at the next station"],
+           correctAnswer: 0,
+        },
+        
+        {
+           question: "Form no. of caution order register/urgent order book is:चेतावनी आदेश रजिस्टर/अर्जेंट आदेश पुस्तक का फार्म नंबर:",
+           options: ["OP/T 469", "OP/T 421", "OP/T 28 R", "OP/T 28"],
+           correctAnswer: 0,
+        },
+        {
+           question: "Preservative period of caution order register is:चेतावनी आदेश रजिस्टर का संरक्षण अवधि:",
+           options: ["1 year", "2 years", "3 years", "4 years"],
+           correctAnswer: 0,
+        },
+        {
+           question: "Reminder caution order is issued when-रीमाइंडर चेतावनी आदेश तब जारी किया जाता है जब:",
+           options: [
+            "DCO is not issued",
+            "NIL caution order is issued",
+            "Caution order is included in DCO but train is scheduled to stop or stop out of course",
+            "None of these"
+            ],
+           correctAnswer: 2,
+        },
+        {
+           question: "A caution order may be-",
+           options: [
+            "Authority for shunting",
+            "Authority to proceed",
+            "Authority for advance pilot in",
+            "Authority for pilot in"
+            ],
+           correctAnswer: 1,
+        },
+        {
+           question: "Permanent speed restriction is mentioned in-स्थायी गति सीमा का उल्लेख:",
+           options: ["WTT", "Caution order register", "DCO", "Reminder caution order"],
+           correctAnswer: 0,
+        },
+        {
+           question: "For the departure of a train from station, a loco pilot must have-किसी ट्रेन के स्टेशन से प्रस्थान के लिए, लोको पायलट के पास क्या होना चाहिए:",
+           options: [
+            "Authority to proceed",
+            "Caution order",
+            "Guard’s signal",
+            "All of these"
+            ],
+           correctAnswer: 3,
+        },
+        {
+           question: "Reminder caution must be issued to all:रीमाइंडर चेतावनी सभी को जारी की जानी चाहिए:",
+           options: [
+            "Scheduled stopping train",
+            "Passenger train",
+            "Superfast train",
+            "Light engine"
+            ],
+           correctAnswer: 0,
+        },
+        {
+           question: "Reminder caution order may be issued to through trains-स्मरण सावधानी आदेश ट्रेनों को जारी किया जा सकता है-",
+           options: [
+            "With tangible Authority",
+            "By stopping it out of course",
+            "Through Walkie Talkie",
+            "None of these"
+            ],
+           correctAnswer: 0,
+        },
+        {
+           question: "Caution order summary at station is prepared by,स्टेशन पर सावधानी आदेश सारांश तैयार किया जाता है--",
+           options: [
+            "PWI of the section",
+            "On duty ASM",
+            "Station Master (incharge)",
+            "On duty SCR"
+            ],
+           correctAnswer: 2,
+        },
+        {
+           question: "Caution order summary is prepared on every-सावधानी आदेश सारांश प्रत्येक दिन तैयार किया जाता है-",
+           options: ["Sunday", "Thursday", "Saturday", "Monday"],
+           correctAnswer: 3,
+        },
+        {
+           question: "The serial no. of Caution order register must be of one set which is commenced from the day of-सावधानी आदेश रजिस्टर का क्रमांक एक सेट का होना चाहिए, जो दिन से प्रारंभ होता है-",
+           options: ["1st Jan", "1st Dec", "1st July", "1st April"],
+           correctAnswer: 0,
+        },
+        {
+           question: "The LP must hand over the caution order after completion of journey to-लोको पायलट को यात्रा समाप्ति के बाद सावधानी आदेश सौंपना आवश्यक है-",
+           options: ["SM", "Guard", "DSO", "Not required to hand over"],
+           correctAnswer: 0,
+        },
+        {
+           question: "Speed over non-interlocked point is,non-interlockedपॉइंट पर गति-",
+           options: [
+            "Not exceed than 15 kmph","Not exceed than 30 kmph", "As per SM advice","As per approved special instruction"],
+           correctAnswer: 1,
+        },
+        {
+           question: "Speed over turnout is prescribed by-टर्नआउट पर गति निर्धारित की जाती है-",
+           options: ["CRS", "PCOM", "GM", "PCE"],
+           correctAnswer: 0,
+        },
+        {
+           question: "Max. speed of train while pushing-ट्रेन की अधिकतम गति जब पीछे की ओर धक्का दिया जा रहा हो-",
+           options: ["25 kmph", "40 kmph", "15 kmph", "30 kmph"],
+           correctAnswer: 0
+        },
+        {
+           question: "Max. speed of patrol or search light special with one or more vehicles leading-एक या अधिक वाहनों के साथ पेट्रोल या सर्चलाइट विशेष की अधिकतम गति-",
+           options: ["25 kmph", "40 kmph", "15 kmph", "30 kmph"],
+           correctAnswer: 1,
+        },
+        {
+           question: "When the headlight is defective speed of the train is-जब हेडलाइट खराब हो, तो ट्रेन की गति: कम कर दी जाती है।",
+           options: ["20 kmph", "40 kmph", "15 kmph", "30 kmph"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When the headlight is defective train will proceed up to,जब हेडलाइट खराब हो जाती है, तो ट्रेन आगे बढ़ेगी",
+           options: [
+            "Up to next station","Up to destination","First station where repairing facility exists","Up to notice station"
+            ],
+           correctAnswer: 2,
+        },
+   {
       question: "Which coupling is in the engine? इंजन में कौन coupling है",
       options: ["Tc", "shaku", "H", "Nt"],
       correctAnswer: 0,
