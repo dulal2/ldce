@@ -422,7 +422,7 @@ const quizData = {
         },
         {
            question: "In regard to Multiple-Aspect signals, the minimum visibility distance for all signals shall be-मल्टीपल-अस्पेक्ट सिग्नलों के संबंध में, सभी सिग्नलों के लिए न्यूनतम दृश्यता दूरी होगी।",
-           options: ["200m", "400m", "1.2km", "Signal visible minimum 5 sec at m.p.s.of section"],
+           options: ["200m","400m","1.2km","Signal visible minimum 5sec at m.p.s section"],
            correctAnswer: 3,
         },
         {
@@ -502,7 +502,7 @@ const quizData = {
         },
         {
            question: "The sequence of taking off through signals at a station where MACL signals are provided for run-through trains with an Advanced Starter is:उस स्टेशन पर सिग्नलों के क्रम को हटाने की प्रक्रिया, जहां रन-थ्रू ट्रेनों के लिए एडवांस्ड स्टार्टर के साथ MACL सिग्नल प्रदान किए गए हैं:",
-           options: ["Home, Starter, then Adv. Starter", "Starter, Home, and then Adv. Starter", "Main Home, Adv. Starter, and then Main Starter", "None of the above"],
+           options: ["Home, Starter, then Adv. Starter", "Starter, Home, and then Adv. Starter","Main Home, Adv. Starter, Main Starter","None of the above"],
            correctAnswer: 2,
         },
         {
@@ -512,7 +512,7 @@ const quizData = {
         },
         {
            question: "On Single Line Intermediate Block Signaling, the line between two adjacent block stations is divided into two subsections. The 1st section is termed as ‘Station controlled intermediate block section,’ and the 2nd section is termed as:सिंगल लाइन इंटरमीडिएट ब्लॉक सिग्नलिंग में, दो समीपवर्ती ब्लॉक स्टेशनों के बीच की लाइन को दो उप-खंडों में विभाजित किया जाता है। पहला खंड 'स्टेशन नियंत्रित इंटरमीडिएट ब्लॉक सेक्शन' कहलाता है और दूसरा खंड कहलाता है:",
-           options: ["Block controlled intermediate block section", "Section controlled block section", "Advance block section", "Rear block section"],
+           options: ["Block controlled intermediate block section","Section controlled block section","Advance block section","Rear block section"],
            correctAnswer: 0,
         },
         {
@@ -562,7 +562,7 @@ const quizData = {
         },
         {
            question: "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Yellow, the speed should not exceed __________ Kmph, further restricted so as to be prepared to stop at the next stop signal.कोहरे के मौसम में, स्वचालित ब्लॉक क्षेत्र में, यदि स्वचालित स्टॉप सिग्नल येलो दिखा रहा है, तो गति _____किमी प्रति घंटे से अधिक नहीं होनी चाहिए और अगले स्टॉप सिग्नल पर रुकने के लिए तैयार रहना चाहिए।",
-           options: ["60/75", "30", "Further restricted speed so as to be prepared to stop at the next stop signal", "15"],
+           options: ["60/75", "30", "restricted speed prepared to stop next stop signal", "15"],
            correctAnswer: 2,
         },
         {
@@ -647,7 +647,7 @@ const quizData = {
         },
         {
            question: "When the speedometer of a train becomes defective:जब ट्रेन के स्पीडोमीटर में खराबी हो जाती है:",
-           options: ["Only MPS reduces by 10%", "Only sectional speed reduces by 10%", "Both MPS and sectional speed reduce by 10%", "None of these"],
+           options: ["Only MPS reduces by 10%", "Only sectional speed reduces by 10%","Both MPS&sectional speed reduce by 10%","None of these"],
            correctAnswer: 2,
         },
         {
@@ -696,7 +696,7 @@ const quizData = {
            options: [
             "DCO is not issued",
             "NIL caution order is issued",
-            "Caution order is included in DCO but train is scheduled to stop or stop out of course",
+            "Caution order included DCO but train scheduled stop out of course",
             "None of these"
             ],
            correctAnswer: 2,
@@ -916,7 +916,7 @@ const quizData = {
       },
       {
         question: "Identification of an auto signal? Auto सिग्नल की पहचान",
-        options: ["yellow circle with white A/पिला चक्री में सफेद", "black circle with white A/काला चक्री में सफेद A", "White circle with black A/सफेद चक्री में काला A", "White circle with illuminated A/सफेद चक्री में illuminated A"],
+        options: ["yellow circle with white A", "black circle with white A", "White circle with black A", "White circle with illuminated A"],
         correctAnswer: 2,
       },
       {
