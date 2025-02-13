@@ -496,7 +496,7 @@ const quizData = {
            correctAnswer: 2,
         },
         {
-           question: "Station Limit” is situated between the __ of the station.स्टेशन सीमा" स्टेशन के __के बीच स्थित होती है।",
+           question: "Station Limit is situated between the __ of the station.स्टेशन सीमा स्टेशन के __के बीच स्थित होती है।",
            options: ["Outermost stop signals", "Outermost signals", "Both of the above", "None of the above"],
            correctAnswer: 1,
         },
