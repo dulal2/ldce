@@ -10,8 +10,8 @@ import type React from "react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "QuizMaster",
-  description: "QuizMaster is an interactive quiz app designed to challenge your knowledge and boost your learning in a fun and engaging way! ",
+  title: "LdecGtm",
+  description: "LdceGtm is an interactive quiz app designed to challenge your knowledge and boost your learning in a fun and engaging way! ",
 }
 
 export default function RootLayout({
