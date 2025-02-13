@@ -11,7 +11,7 @@ export default function Header() {
             <div className="relative w-10 h-10 rounded-full overflow-hidden border-2 border-gray-200">
               <Image
                 src="/logo.png"  // Ensure this file is inside the `public/` folder
-                alt="LdceQuizz Logo"
+                alt="LdceGtm Logo"
                 width={120}
                 height={120}
                 className="object-cover"
