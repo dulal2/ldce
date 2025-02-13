@@ -630,7 +630,7 @@ const quizData = {
            options: ["Zone wise", "Division wise", "Notice station wise", "For entire railway"],
            correctAnswer: 1,
         },
-              {
+        {
            question: "Sectional Speed for the section is set by:सेक्शन के लिए खंडीय गति सेट की जाती है:",
            options: ["CRS", "PCOM", "GM", "DRM"],
            correctAnswer: 0,
@@ -639,7 +639,7 @@ const quizData = {
            question: "MPS of a section is sanctioned by:एक सेक्शन की अधिकतम अनुमत गति (MPS) को स्वीकृत किया जाता है:",
            options: ["CRS", "PCOM", "GM", "DRM"],
            correctAnswer: 0,
-        }
+        },
         {
            question: "When the speedometer of a train becomes defective en route, the train shall work with speed:जब ट्रेन के स्पीडोमीटर में मार्ग में खराबी हो जाती है, तो ट्रेन को",
            options: ["10% less than permissible speed", "8% less than MPS", "15% less than sectional speed", "5% less than MPS"],
