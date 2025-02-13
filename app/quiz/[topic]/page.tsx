@@ -387,8 +387,8 @@ const quizData = {
   Train_Manager: [
        {
            question: "Maximum speed of trains during thick and foggy weather in Absolute Block System is.... Kmph when signal is showing green.मोटे और कोहरे वाले मौसम में एब्सोल्यूट ब्लॉक सिस्टम के दौरान ट्रेनों की अधिकतम गति .... किमी प्रति घंटा होती है जब सिग्नल हरा दिखा रहा हो",
-           options: ["60 kmph", "75 kmph", "60 kmph and 75 kmph when Fog Safe kmph 
-                     Device(FSD) is provided in Locomotive", "Not more than 90"],
+           options: ["60 kmph", "75 kmph", "60 kmph and 75 kmph when Fog Safe kmph "
+                     "Device(FSD) is provided in Locomotive", "Not more than 90"],
            correctAnswer: 2,
         },
         {
