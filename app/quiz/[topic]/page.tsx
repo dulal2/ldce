@@ -386,9 +386,8 @@ const quizData = {
   ],
   Train_Manager: [
        {
-           question: "Maximum speed of trains during thick and foggy weather in Absolute Block System is.... Kmph when signal is showing green.मोटे और कोहरे वाले मौसम में एब्सोल्यूट ब्लॉक सिस्टम के दौरान ट्रेनों की अधिकतम गति .... किमी प्रति घंटा होती है जब सिग्नल हरा दिखा रहा हो",
-           options: ["60 kmph", "75 kmph", "60 kmph and 75 kmph when Fog Safe kmph "
-                     "Device(FSD) is provided in Locomotive", "Not more than 90"],
+           question: "Maximum speed of trains during thick and foggy weather in Absolute Block System is... Kmph when signal is showing green.कोहरे वाले मौसम में एब्सोल्यूट ब्लॉक सिस्टम के दौरान ट्रेनों की अधिकतम गति ... किमी प्रति घंटा होती है जब सिग्नल हरा दिखा रहा हो",
+           options: ["60 kmph", "75 kmph", "60 kmp/75 kmph whenFSD dprovided", "Not more than 90"],
            correctAnswer: 2,
         },
         {
@@ -423,7 +422,7 @@ const quizData = {
         },
         {
            question: "In regard to Multiple-Aspect signals, the minimum visibility distance for all signals shall be-मल्टीपल-अस्पेक्ट सिग्नलों के संबंध में, सभी सिग्नलों के लिए न्यूनतम दृश्यता दूरी होगी।",
-           options: ["200m", "400m", "1.2km", "Signal shall be visible for a minimum period of 5 sec at m.p.s. of the section"],
+           options: ["200m", "400m", "1.2km", "Signal visible minimum 5 sec at m.p.s.of section"],
            correctAnswer: 3,
         },
         {
