@@ -385,1024 +385,1443 @@ const quizData = {
     },
   ],
   Train_Manager: [
-     {
-      question: "Which coupling is in the engine? इंजन में कौन coupling है",
-      options: ["Tc", "shaku", "H", "Nt"],
-      correctAnswer: 0,
-    },
     {
-      question: "What type of accident is a passenger run-over? Passenger का रन ओवर किस प्रकार की दुर्घटना है",
-      options: ["P", "R", "Q", "L"],
-      correctAnswer: 0,
-    },
-    {
-      question: "In which part of SWR is line blocking mentioned? लाइन को ब्लॉक करना SWR के किस भाग में है",
-      options: ["9", "7", "6", "5"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Full form of MMD? फुल फॉर्म ऑफ MMD",
-      options: ["All", "Multy model dimensions", "Multiple model dimensions", "Multy moving dimensions"],
-      correctAnswer: 3,
-    },
-    {
-      question: "IBS is a station of which type? IBS एक स्टेशन है",
-      options: ["Un manned", "All", "D class", "Manned"],
-      correctAnswer: 3,
-    },
-    {
-      question: "How many constitutions are currently in force? वर्तमान में कितना संविधान चल रहा है",
-      options: ["128", "129", "130", "121"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Number of explosive wagons allowed in parcel and mixed trains? पार्सल और मिक्सड ट्रेन में विस्फोटक वैगन की संख्या",
-      options: ["2", "5", "8", "3"],
-      correctAnswer: 3,
-    },
-    {
-      question: "India's shortest NH is in which state? भारत का सबसे छोटा NH किस राज में है",
-      options: ["Sikkim", "Arunachal Pradesh", "Goa", "Kerala"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Lobby VKI number in Adra division? आद्रा division में लॉबी vki संख्या",
-      options: ["6", "4", "5", "7"],
-      correctAnswer: 1
-    },
-    {
-      question: "Prize money for the first winner of Premchand & Maithili Sharan Gupta Award? प्रेमचंद & मैथिली शरण गुप्त अवार्ड में प्रथम विजेता को कितनी राशि दी जाती है",
-      options: ["50000", "10000", "5000", "15000"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Section clearing speed for a flat tire train? Flat टायर युक्त ट्रेन की सेक्शन क्लियरिंग स्पीड",
-      options: ["30", "25", "40", "20"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Authority communication breaks down on D/L? D/L पर संचार व्यवस्था भंग होने पर क्या दिया जाएगा",
-      options: ["Nt", "T/A602", "T/C602", "T/B602"],
-      correctAnswer: 3
-    },
-    {
-      question: "Mata Vaishno Devi Katra station is in which division? Mata Vaishno Devi कटरा स्टेशन किस डिविजन में है",
-      options: ["Jammu", "Ambala", "Ludhiana", "Firozpur"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Who invented the gas engine? गैस इंजन कि खोज किसने की",
-      options: ["none of these", "Stephenson", "Daimler/डेमलर", "Jems watt/जेम्स वॉट"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Btpn ka loading time",
-      options: ["3", "4.5", "5", "4"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Rail Minister Essay Competition is held in which month? रेल मंत्री निबंध प्रतियोगिता का आयोजन किया जाता हैं",
-      options: ["September /सितंबर", "March /मार्च", "April/अप्रैल", "January/जनवरी"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Which company is building India's first private coach factory? पहला प्राइवेट कोच फैक्ट्री कौन कंपनी बना रही है",
-      options: ["सीमेंस", "Alstom", "Adani", "Medha"],
-      correctAnswer: 3,
-    },
-    {
-      question: "hat % of CTG is given for a 20 km transfer based on basic? 20km दूरी में ट्रांसफर होने पर कितना %CTG मिलेगा बेसिक का",
-      options: ["50", "10", "20", "30"],
-      correctAnswer: 3,
-    },
-    {
-      question: "color of T/509",
-      options: ["black", "red", "blue", "green"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Who is the current Foreign Secretary? वर्तमान में विदेश सचिव कौन है",
-      options: ["Suman beri", "Bikram Mistry", "Sanjay Malhotra", "Rajeev kumar"],
-      correctAnswer: 1,
-    },
-    {
-      question: "How many copies of the parcel summary are made? पार्सल समरी कितना कॉपी में बनता है",
-      options: ["3", "4", "5", "2"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Head of the Operating Department in the Railway Board? Railway board में ऑपरेटिंग विभाग का हेड है",
-      options: ["Operation & Business Development", "None of these", "Chief of traffic", "member of railway board operation"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Identification of an auto signal? Auto सिग्नल की पहचान",
-      options: ["yellow circle with white A/पिला चक्री में सफेद", "black circle with white A/काला चक्री में सफेद A", "White circle with black A/सफेद चक्री में काला A", "White circle with illuminated A/सफेद चक्री में illuminated A"],
-      correctAnswer: 2,
-    },
-    {
-      question: "In which part of the fog signal register is detonator testing mentioned? डेटोनेटर की टेस्टिंग फाग सिग्नल रजिस्टर के किस पार्ट में है",
-      options: ["3", "4", "2", "1"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Adequate distance in an automatic(S/L) section ? S/L automatic section में पर्याप्त दूरी है",
-      options: ["400", "120", "180", "240"],
-      correctAnswer: 2,
-    },
-    {
-      question: "TA for duty travel exceeding 6 hours? 6 घंटे से अधिक समय यात्रा ड्यूटी पर कितना TA मिलता है",
-      options: ["Nt", "100%", "70%", "30%"],
-      correctAnswer: 2,
-    },
-    {
-      question: "How many copies of the forwarding note are made?",
-      options: ["4", "3", "5", "2"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Number of berths in LHB AC-2 coach?",
-      options: ["48", "42", "46", "68"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Minimum distance for parcels?",
-      options: ["5", "2", "4", "3"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Premium BPC enroute %?",
-      options: ["95", "90", "70", "75"],
-      correctAnswer: 3,
-    },
-    {
-      question: "GDR time for 24 to 96 hours of stable load? 24 से 96 घंटे स्टेबल होने पर GDR का समय",
-      options: ["90", "120", "45", "30"],
-      correctAnswer: 0,
-    },
-    {
-      question: "General Electric belongs to which country? General इलेक्ट्रिकल किस देश की कंपनी है",
-      options: ["American", "Indian", "Japanese", "Russian"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Number of detonators used for train protection in the pilot guard system? पायलट गार्ड सिस्टम में ट्रेन की सुरक्षा कितना पटाखा से होता है",
-      options: ["1", "3", "2", "4"],
-      correctAnswer: 1,
-    },
-    {
-      question: "When is WTT implemented? WTT कब लागू किया जाता है",
-      options: ["जून", "नवम्बर", "अक्टूबर", "जुलाई"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Authority for sending relief engines in an auto section? ऑटो सेक्शन में रिलीफ इंजन भेजने की ऑथोरिटी",
-      options: ["T/D912", "T/C912", "T/B912", "T/A912"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Maximum speed in the pilot guard system? पायलट गार्ड सिस्टम में कितना मैक्सिमम स्पीड है",
-      options: ["25", "50", "30", "40"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Kandla Port is in which state? कांडला बंदरगाह किस राज्य में है",
-      options: ["तमिलनाडु", "गुजरात", "कर्नाटक", "ओडिशा"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Hospital leave duration?",
-      options: ["6", "28", "12", "24"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Which copy of the luggage ticket is given to the passenger? लगेज टिकट का कौन सा प्रति यात्री को दिया जाता है",
-      options: ["second", "none of these", "first", "third"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Maximum days for booking a locker? लॉकर को अधिकतम कितने दिनों के लिए बुक किया जा सकता है",
-      options: ["15", "7", "1", "30"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Who is the secretary of DRUCC? DRUCC का सचिव कौन होता है",
-      options: ["ADRM", "Sr. DPO", "Sr.DCM", "DRM"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Discount percentage for national-level athletes in sleeper or second class? राष्ट्रीय स्तरीय खिलाड़ियों को स्लीपर अथवा द्वितीय श्रेणी में कितना प्रतिशत कार्यालय दिया जाता है",
-      options: ["25%", "75%", "50%", "100%"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Free allowance for first-class pass holders? प्रथम दर्जा पास पर फ्री अलाउंस कितना है",
-      options: ["70kg", "100kg", "50kg", "140kg"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Under which section of the Railways Act, 1989, is an application for compensation made to the Railway Claims Tribunal? रेल अधिनियम 1989 के किस धारा के अनुसार हर्जाने के भुगतान के   लिए प्रार्थना पत्र रेल दावा अधिकरण को दिया जाता है",
-      options: ["धारा 124", "धारा 125", "धारा 130", "धारा 121"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Which chapter of G&SR contains rules for absence from duty? G&SR ke किस चैप्टर में ड्यूटी पर अनुपस्थिति होने का नियम है",
-      options: ["2.10", "2.09", "2.07", "2.08"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Free allowance for Second Class 'A' pass holders? द्वितीय दर्जा 'A' पास पर फ्री अलाउंस कितना है",
-      options: ["50kg", "35kg", "40kg", "70kg"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Maximum number of passengers allowed on one UTS ticket? एक UTS टिकट पर अधिकतम कितने यात्रियों की संख्या हो सकती है",
-      options: ["3", "6", "4", "2"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Which sub-committee of the Parliamentary Official Language Committee inspects the Ministry of Railways? रेल मंत्रालय का निरीक्षण संसदीय राजभाषा समिति की कौन सी उप समिति करती है",
-      options: ["पहले", "इनमें से कोई नहीं", "तीसरी", "दूसरे"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Minimum luggage fare per consignment? लगेज का न्यूनतम भाड़ा प्रति कंसाइनमेंट कितना रुपया है",
-      options: ["50", "30", "10", "100"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Travel allowance for staying away from headquarters for more than 6 hours but less than 12 hours? यदि मुख्यालय से 6 घंटे से अधिक परंतु 12 घंटे से कम , रहने पर यात्रा भत्ता दिया जाएगा",
-      options: ["70%", "None of these", "100%", "30%"],
-      correctAnswer: 0,
-    },
-    {
-      question: "How many types of outstanding are there? आउटस्टैंडिंग कितने प्रकार के होते हैं",
-      options: ["3", "1", "2", "4"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Weight charged for a dog booked with a passenger in AC First Class? एक कुत्ते का वजन ऐसी प्रथम श्रेणी में यात्री के साथ बुक करने पर कितना किलोग्राम चार्ज किया जाएगा",
-      options: ["20", "40", "30", "60"],
-      correctAnswer: 4
-    },
-    {
-      question: "How many hours notice is required before booking a motor car? मोटर कर बुक करने से पहले पार्टी द्वारा कम से कम कितने घंटे पहले नोटिस दिया जाएगा",
-      options: ["72", "48", "24", "12"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Validity of the certificate for concessions for mute or deaf persons? गूंगे या बहरे व्यक्ति को रियायत के लिए जो प्रमाण पत्र बनता है उसकी वैधता कितने साल की होती है",
-      options: ["5", "7", "2", "10"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Conduct rule of railway servants is mentioned in which chapter of G&SR? रेल सेवकों का आचरण G&SR के किस चैप्टर से है",
-      options: ["2.11", "2.01", "None of these", "2.10"],
-      correctAnswer: 3,
-    },
-    {
-      question: "When was the Parliamentary Official Language Committee formed? संसदीय राजभाषा समिति का गठन कब हुआ",
-      options: ["1955", "1957", "1976", "1967"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Free allowance in AC 2 Tier/First Class (in kg)? AC2 टियर/प्रथम श्रेणी में free अलाउंस कितना है किलोग्राम में",
-      options: ["50", "70", "100", "150"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Engineering allowance for loco men and traffic men is mentioned in? इंजिनियरिंग अलाउंस लोको मेन और ट्रेफिक मेन उल्लेखित है",
-      options: ["G and SR", "SWR", "WTT", "Block manual"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Color of the VTO? दृश्यता परीक्षण खंभा का रंग होता है",
-      options: ["Black and Whiteकाला एवं सफेद", "Black and Redसफेद एवं लाल", "Only Whiteकेवल सफेद", "Black and Yellowकाला एवं पीला"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Validity of BPC for Intercity/DEMU trains? इंटरसिटी / डेमू  ट्रेन की बी .पी .सी की वैधता..",
-      options: ["3500 किलोमीटर + 10 दिन", "350 किलोमीटर + 7 दिन", "3000 किलोमीटर + 7 दिन", "3500 किलोमीटर + 7 दिन"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Number of brake cylinders in a BVZC wagon? BVZCबैगन में ब्रेक सिलेंडर की संख्या कितनी होती है",
-      options: ["1", "2", "4", "8"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Number of axles in a Co-Co locomotive? Co-Co मे कितना एक्सेल होता है",
-      options: ["6", "8", "12", "16"],
-      correctAnswer: 2,
-    },
-    {
-      question: "After how many years did India win the ICC World Cup title? भारत ने कितने साल बाद आईसीसी विश्व कप खिताब जीता",
-      options: ["10 साल", "11 साल", "12 साल", "13 साल"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Signal given by train manager in case of a falling mark jam? फॉलिंग मार्क जाम होने पर स्टेशन मास्टर को ट्रेन मैनेजर रात में कौन सा संकेत बताएगा",
-      options: ["GREEN", "YELLOW", "RED", "WHITE"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Coach code for a kitchen car? Kitchen car का कोच कोड क्या होता है",
-      options: ["CR", "CL", "Cz", "CD"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Where was the first platform ticket issued? सबसे पहले प्लेटफार्म टिकट कहां जारी हुआ था",
-      options: ["NEW DELHI", "MUMBAI", "KARACHI", "LAHORE"],
-      correctAnswer: 3,
-    },
-    {
-      question: "When was Indian Railways nationalized? भारतीय रेलवे का राष्ट्रीयकरण कब हुआ",
-      options: ["1905", "1890", "1984", "1950"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Who presented the first Railway Budget? प्रथम रेल बजट किसने पेश किया था",
-      options: ["आसिफ अली", "लाल बहादुर शास्त्री", "जॉन मथाई", "जगजीवन राम"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Number of non-AC travel classes in Indian Railways? भारतीय रेलवे में यात्रा करने की नॉन एसी श्रेणियां कितनी है",
-      options: ["TWO", "THREE", "FOUR", "FIVE"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Number of AC travel classes in Indian Railways? भारतीय रेलवे में यात्रा करने की कितनी AC श्रेणियां है",
-      options: ["2", "5", "4", "6"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Color of PW BIL? PW BIL का रंग कैसा होता है",
-      options: ["GREEN", "CHOCOLATE", "WHITE", "BROWN"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Number of DTC book? DTC बुक का नंबर क्या है",
-      options: ["SN- 27", "SN-1", "SN-21", "SN-22"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Which class of students are issued free MST? किस कक्षा के छात्रों को फ्री MST जारी की जाती है",
-      options: ["8", "10", "12", "Graduate"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Total number of PRS in Indian Railways? भारतीय रेलवे में कुल कितने PRS है",
-      options: ["16", "5", "4", "इनमें से कोई नहीं"],
-      correctAnswer: 1,
-    },
-    {
-      question: "In which part of the fog signal register is detonator testing mentioned? डेटोनेटर की टेस्टिंग फाग सिग्नल रजिस्टर के किस पार्ट में है",
-      options: ["3", "4", "2", "1"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Adequate distance in an automatic section (S/L)? S/L automatic section में पर्याप्त दूरी है",
-      options: ["400", "120", "180", "240"],
-      correctAnswer: 2,
-    },
-    {
-      question: "TA for duty travel exceeding 6 hours? 6 घंटे से अधिक समय यात्रा ड्यूटी पर कितना TA मिलता है",
-      options: ["Nt", "100%", "70%", "30%"],
-      correctAnswer: 2,
-    },
-    {
-      question: "Number of copies of the forwarding note? Forwarding note kitna कॉपी में बनता हैं",
-      options: ["4", "3", "5", "2"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Number of berths in LHB AC-2 coach? LHB कोच ऐसी2 में बर्थ की संख्या",
-      options: ["48", "42", "46", "68"],
-      correctAnswer: 2,
-    },
-     {
-    question: "ON aspect means. ऑन अस्पेक्ट का मतलब क्या होता हैं.",
-    options: ["Danger", "Caution", "Most restrictive", "Proceed"],
-    correctAnswer: 2,
-  },
-  {
-    question: "calling on signal is identified by. कालिंग ऑन सिग्नल की पहचान क्या है.",
-    options: ["G MARKER", "C MARKER", "P MARKER", "ALL THE ABOVE"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Which one of the following is permissive signal.निम्न में परमिसिव सिग्नल कौन हैं.",
-    options: ["HOME", "STARTER", "DISTANT", "NONE OF THE ABOVE"],
-    correctAnswer: 2,
-  },
-  {
-    question: "LTM is prepared by. LTM किसके द्वारा तैयार किया जाता हैं.",
-    options: ["LP", "TM", "SM", "SCNL"],
-    correctAnswer: 1,
-  },
-  {
-    question: "How many wagon does a standard NMG rake consist of? मानक NMG रेक में कितने वैगन होते हैं.",
-    options: ["25", "30", "58", "59"],
-    correctAnswer: 0,
-  },
-  {
-    question: "permanenet speed restriction are notified through. स्थाई गति प्रतिबंध का उल्लेख कँहा रहता हैं.",
-    options: ["PTT", "WTT", "SWR", "GWR"],
-    correctAnswer: 1,
-  },
-  {
-    question: "whistle code for Train Parting is. गाड़ी बिखंडन के लिए सिटी कोड क्या हैं.",
-    options: ["Four short", "long short long short", "Three long", "two short"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Turning time of MRV single exit is.सिंगल निकासी में MRV को बाहर करने का समय क्या हैं.",
-    options: ["20 minutes", "25 minutes", "45 minutes", "30 minutes"],
-    correctAnswer: 1,
-  },
-  {
-    question: "CRIS was established in the year. क्रिस की स्थापना कब हुई थी.",
-    options: ["1982", "1986", "1988", "1984"],
-    correctAnswer: 1,
-  },
-  {
-    question: "CBC Means. CBC का मतलब क्या होता हैं.",
-    options: ["Centre Buffer coupling", "IR Coupling", "Centre Ball Bearing", "none of the above"],
-    correctAnswer: 0,
-  },
-  {
-    question: "What is the Colour of Feed pipe? फीड पाइप का रंग क्या होता हैं.",
-    options: ["GREEN", "WHITE", "RED", "NONE OF THE ABOVE"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Trap point in Loop line protect which line. लूप लाइन का ट्रैप पॉइंट किसकी रक्षा करती हैं.",
-    options: ["Running line", "Main line", "Siding line", "None of the above"],
-    correctAnswer: 1,
-  },
-  {
-    question: "RDSO Situated at. RDSO का मुखयालय कँहा हैं.",
-    options: ["Mumbai", "Kanpur", "Lucknow", "Kolkata"],
-    correctAnswer: 2,
-  },
-  {
-    question: "WLRRM means in LHB Coach. WLRRM का मतलब क्या होता LHB कोच में.",
-    options: ["AC 2 TIER", "AC 3 TIER", "GENRAL COACH", "TM VAN"],
-    correctAnswer: 3,
-  },
-  {
-    question: "SHUNTING order FORM no is. शटिंग के लिए फॉर्म क्या हैं.",
-    options: ["T/806", "T/B 912", "T/369 (3B)", "T/B 602"],
-    correctAnswer: 0,
-  },
-  {
-    question: "WHICH occasion the PN book used by TM. ट्रैन मैनेजर PN बुक का उपयोग कब करता हैं.",
-    options: ["COMPLETE ARRIVAL", "TRAIN PARTING", "DIVIDING", "SHUNTING"],
-    correctAnswer: 0,
-  },
-  {
-    question: "MOCK DRILL to be conducted once in.मॉक ड्रिल कितने महीने में किया जाता हैं.",
-    options: ["THREE MONTH", "TWO MONTH", "SIX MONTH", "FIVE MONTH"],
-    correctAnswer: 2,
-  },
-  {
-    question: "MAXIMUM NUMBER of LHB COACH. LHB रेक में अधिकतम कितने कोच होते हैं.",
-    options: ["22+2", "20+2", "24+2", "25"],
-    correctAnswer: 1,
-  },
-  {
-    question: "HOW many brake cylinder are available in BOXNHL wagon. BOXNHL वैगन में कितना ब्रेक सिलिंडर होता हैं.",
-    options: ["TWO", "FOUR", "ONE", "EIGHT"],
-    correctAnswer: 1,
-  },
-  {
-    question: "The code for eight wheeler Brake van is. आठ व्हिलेर ब्रेक वान का कोड क्या होता हैं.",
-    options: ["BV", "BVZC", "BVZI", "BVCM"],
-    correctAnswer: 2,
-  },
-   {
-    question: "Principle of making time table is. समय सारणी बनाने का सिद्धांत क्या हैं?",
-    options: ["Passenger convenience", "Operational need", "Running time of train", "All the above"],
-    correctAnswer: 3,
-  },
-  {
-    question: "SPAD of passenger train comes under which class of accident? यात्री गाड़ी की SPAD किस क्लास का दुर्घटना हैं?",
-    options: ["D", "B", "H1", "H2"],
-    correctAnswer: 2,
-  },
-  {
-    question: "What is the duration of IOH Maintenance for conventional loco for coaching train? कोचिंग लोको जो कान्वेंशनल टाइप का होता हैं उसका IOH का समय क्या होता हैं?",
-    options: ["4 Hours", "6 Hours", "6 days", "9 days"],
-    correctAnswer: 3,
-  },
-  {
-    question: "Type of marshaling yard is. मार्शलिंग यार्ड के प्रकार हैं?",
-    options: ["Flat yard", "Hump yard", "Gravity yard", "All the above"],
-    correctAnswer: 3,
-  },
-  {
-    question: "Escaping of wagon in right line on D/L section what beats given to advance station? डबल लाइन के सेक्शन में सही लाइन से गाड़ी भागने पर क्या बीट दिया जाता हैं?",
-    options: ["6 pause 4", "6 pause 5", "6 pause 1", "6 pause 2"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Gross clearance of C class ODC is. C क्लास ODC के लिए कितना ग्रॉस क्लियरन्स होना चाहिए?",
-    options: ["more than 3 inch and less than 6 inch", "more than 6 inch and less than 9 inch", "more than 9 inch", "All the above"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Validity of special premium BPC is. स्पेशल प्रीमियम BPC की बैधता क्या होती हैं?",
-    options: ["12 + 3 days", "12+ 5 days", "20+ 5 days", "none of the above"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Master chart is prepared by. मास्टर चार्ट किसके द्वारा तैयार किया जाता हैं?",
-    options: ["Sr. DOM", "PCOM", "Chief controller", "AOM"],
-    correctAnswer: 2,
-  },
-  {
-    question: "Roll on -Roll off plan was introduced first where? रोल ऑन रोल ऑफ योजना कहाँ प्रारम्भ किया गया था?",
-    options: ["ECR", "ER", "KOKAN RAILWAY", "NR"],
-    correctAnswer: 2,
-  },
-  {
-    question: "Standard rake of BOXNHL is. BOXNHL का मानक रेक कितने वैगन का होता हैं?",
-    options: ["59", "58", "42", "35"],
-    correctAnswer: 1,
-  },
-  {
-    question: "What is the full form of POH? POH का फुल फॉर्म क्या होता हैं?",
-    options: ["Partial overhauling", "Periodical overhauling", "Particular overhauling", "Part overhauling"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Block Back and Block Forward are related to. ब्लॉक बैक और ब्लॉक फॉरवर्ड किससे सम्बन्धित हैं?",
-    options: ["Signal failure", "Shunt movement", "Caution movement", "Block failure"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Which is not a caution order form? कौन सा सावधानी आदेश प्रपत्र नहीं है?",
-    options: ["T/409", "T/A 409", "T/B 409", "T/609"],
-    correctAnswer: 3,
-  },
-  {
-    question: "How much depth of ballast is available in BG group A route below the bottom of the sleeper? BG में A मार्ग में स्लीपर के नीचे बल्लास्ट की गहराई कितना होता है।",
-    options: ["300MM", "250MM", "200MM", "150MM"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Creep is related to. क्रीप का सम्बन्ध किस से हैं?",
-    options: ["wagon", "engine", "track", "none of the above"],
-    correctAnswer: 2,
-  },
-  {
-    question: "The normal height of contact wire in regulated OHE section is. रेगुलेटेड OHE सेक्शन में कॉन्टेक्ट तार की ऊंचाई क्या होती हैं?",
-    options: ["5.75m", "5.60m", "5.65m", "4.65m"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Which loco is used for both services (passenger and freight)? किस लोको का उपयोग दोनों सर्विस में होता हैं?",
-    options: ["WAG5", "WAG7", "WAM4", "WAP4"],
-    correctAnswer: 2,
-  },
-  {
-    question: "What type of pantograph is used in Indian railway for 25KV AC electric loco? भारतीय रेलवे में 25 KV AC के लिए किस प्रकार के पेंटोग्राफ का उपयोग होता हैं?",
-    options: ["AM12", "AM10", "AM14", "All the above"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Under Running staff review, 1 (one) shunter is demanded for rest giver for how many shunters? कितने शंटर के लिए एक शंटर की व्यवस्था रनिंग स्टाफ रिव्यू के अंतर्गत की जाती हैं?",
-    options: ["6", "8", "4", "10"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Wagon km is an example of? वैगन किलोमीटर किस इकाई का उदाहरण हैं?",
-    options: ["Primary unit", "Fundamental unit", "Derived unit", "None of the above"],
-    correctAnswer: 2,
-  },
-  {
-    question: "Division time table meeting is held in which month? मण्डल समय सारणी की बैठक किस माह में होती हैं?",
-    options: ["October", "September", "December", "June"],
-    correctAnswer: 1,
-  },
-    {
-    question: "Authority to start a train from non-signalled line of a station is. किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
-    options: ["T/369(3b)", "T/511", "T/512", "T/509"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Authority to start a train from a line with common starter signal is सामान्य स्टार्टर सिग्नल वाली लाइन से ट्रेन खुलाने के लिए प्राधिकार है?",
-    options: ["T/512", "T/511", "T/509", "T/510"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Shunting order form is शंटिंग ऑर्डर फॉर्म है......?",
-    options: ["T/806", "T/608", "T/511", "T/B806"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Authority to proceed without line clear is लाइन क्लियर के बिना आगे बढ़ने का प्राधिकार _ है?",
-    options: ["T/B602", "T/C602", "T/A602", "T/D602"],
-    correctAnswer: 2,
-  },
-  {
-    question: "Paper line clear ticket for UP direction is अप दिशा के लिए पेपर लाइन क्लियर टिकट _____ है।",
-    options: ["T/D 1425", "T/B 1425", "T/C 1425", "T/A 1425"],
-    correctAnswer: 2,
-  },
-  {
-    question: "Conditional line clear ticket is सशर्त लाइन क्लियर टिकट _ है।",
-    options: ["T/G 602", "T/F 602", "T/E 602", "T/I 602"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Authority for temporary single line working on double line in absolute block section is पूर्ण ब्लॉक सेक्शन में डबल लाइन पर काम करने वाली अस्थायी सिंगल लाइन के लिए प्राधिकरण है।",
-    options: ["T/A 602", "T/B 602", "T/C 602", "T/D 602"],
-    correctAnswer: 3,
-  },
-  {
-    question: "Maximum speed while shunting on T/806 is _KMPH.  टी/806 पर शंटिंग करते समय अधिकतम गति _ किमी प्रति घंटा है।",
-    options: ["5", "10", "15", "20"],
-    correctAnswer: 2,
-  },
-  {
-    question: "Authority given during TFC on double line is डबल लाइन पर टीएफसी के दौरान दिया गया प्राधिकार ___ है।",
-    options: ["T/A 602", "T/B 602", "T/C 602", "T/D 602"],
-    correctAnswer: 2,
-  },
-  {
-    question: "Train intact arrival register is. ट्रेन पूर्ण आगमन रजिस्टर __ है।",
-    options: ["T/1410", "T/1525", "T/A1425", "TB 1425"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Authority for temporary single line working on double line in automatic block section is स्वचालित ब्लॉक अनुभाग में डबल लाइन पर काम करने वाली अस्थायी सिंगल लाइन के लिए प्राधिकरण है।",
-    options: ["T/B 912", "T/C 912", "T/D 912", "T/E 912"],
-    correctAnswer: 3,
-  },
-  {
-    question: "Authority to proceed for relief engine into an automatic block signalling section is स्वचालित ब्लॉक सिग्नलिंग अनुभाग में रिलीफ इंजन के लिए आगे बढ़ने का प्राधिकार _____ है।",
-    options: ["T/A 912", "T/B 912", "T/C 912", "T/D 912"],
-    correctAnswer: 2,
-  },
-  {
-    question: "Motor trolley permit is ... मोटर ट्रॉली परमिट __ है।",
-    options: ["T/1410", "T/1525", "T/1518", "T/1425"],
-    correctAnswer: 1,
-  },
-  {
-    question: "Authority to start a train from a line with common starter signal is सामान्य स्टार्टर सिग्नल वाली लाइन से ट्रेन खुलाने के लिए प्राधिकार है?",
-    options: ["T/512", "T/511", "T/509", "T/510"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Shunting order form is शंटिंग ऑर्डर फॉर्म है......?",
-    options: ["T/806", "T/608", "T/511", "T/B806"],
-    correctAnswer: 0,
-  },
-  {
-    question: "Authority to proceed without line clear is लाइन क्लियर के बिना आगे बढ़ने का प्राधिकार _ है?",
-    options: ["T/B602", "T/C602", "T/A602", "T/D602"],
-    correctAnswer: 2,
-  },
-  {
-    question: "Paper line clear ticket for UP direction is अप दिशा के लिए पेपर लाइन क्लियर टिकट _____ है।",
-    options: ["T/D 1425", "T/B 1425", "T/C 1425", "T/A 1425"],
-    correctAnswer: 2,
-  },
-      {
-        question: "Authority to start a train from non-signalled line of a station is.किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
-        options: ["T/369(3b)", "T/511", "T/512", "T/509"],
-        correctAnswer:1,
+           question: "Maximum speed of trains during thick and foggy weather in Absolute Block System is.... Kmph when signal is showing green.मोटे और कोहरे वाले मौसम में एब्सोल्यूट ब्लॉक सिस्टम के दौरान ट्रेनों की अधिकतम गति .... किमी प्रति घंटा होती है जब सिग्नल हरा दिखा रहा हो",
+           options: ["60 kmph", "75 kmph", "60 kmph and 75 kmph when Fog Safe kmph Device(FSD) is provided in Locomotive", "Not more than 90"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Catch Siding is provided to protect-कैच साइडिंग को सुरक्षित रखने के लिए प्रदान किया जाता है-",
+           options: ["Block Section", "Station Section", "Station Limit", "Neutral Section"],
+           correctAnswer: 1,
+        },
+        {
+           question: "At a C class station, in absence of a Starter, .... signal is the Last Stop Signal.एक 'सी' श्रेणी के स्टेशन पर, स्टार्टिंग सिग्नल की अनुपस्थिति में, .... सिग्नल अंतिम स्टॉप सिग्नल होता है।",
+           options: ["Outer", "Home", "Routing", "Distant"],
+           correctAnswer: 1,
+        },
+        {
+           question: "A light waved violently shall be used as a Stop signal only when the red light is not available.एक रोशनी जो जोरदार लहराई जाती है, उसे केवल तभी स्टॉप सिग्नल के रूप में उपयोग किया जाएगा जब लाल रोशनी उपलब्ध न हो।",
+           options: ["White", "Green", "Both of the above", "None of the above"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When a train has to be admitted on loop line, Distant signal will show ... light where Inner Distant is provided.जब किसी ट्रेन को लूप लाइन पर प्रवेश करना हो, तो दूरस्थ सिग्नल .... रोशनी दिखाएगा जहां आंतरिक दूरस्थ सिग्नल प्रदान किया गया हो।",
+           options: ["Yellow", "Double Yellow", "Green", "No light"],
+           correctAnswer: 1,
+        },
+        {
+           question: "Outer, Home and...... cannot be used during Shunting operation-आउटर, होम और...... शंटिंग संचालन के दौरान उपयोग नहीं किए जा सकते।",
+           options: ["Calling-on Signal", "Starter Signal", "Last Stop Signal", "First Stop Signal"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Slip Siding is intended to protectस्लिप साइडिंग का उद्देश्य सुरक्षा प्रदान करना है।",
+           options: ["Station Section", "Station Limit", "Block Section", "Neutral Section"],
+           correctAnswer: 2,
+        },
+        {
+           question: "In regard to Multiple-Aspect signals, the minimum visibility distance for all signals shall be-मल्टीपल-अस्पेक्ट सिग्नलों के संबंध में, सभी सिग्नलों के लिए न्यूनतम दृश्यता दूरी होगी।",
+           options: ["200m", "400m", "1.2km", "Signal shall be visible for a minimum period of 5 sec at m.p.s. of the section"],
+           correctAnswer: 3,
+        },
+        {
+           question: "Home Signal of Intermediate Block Post is identified by .. marker.इंटरमीडिएट ब्लॉक पोस्ट का होम सिग्नल .... मार्कर द्वारा पहचाना जाता है।",
+           options: ["R", "g", "IB", "1D"],
+           correctAnswer: 2,
+        },
+        {
+           question: "The Loco Pilot of a train shall not pass a stop signal without proper authority except.. . which can be passed conditionally-एक ट्रेन का लोको पायलट बिना उचित प्राधिकरण के स्टॉप सिग्नल को पार नहीं करेगा, सिवाय .... जिसे सशर्त पार किया जा सकता है।",
+           options: ["1BSS", "GSS", "Automatic Stop Signal", "All of the above"],
+           correctAnswer: 3,
+        },
+        {
+           question: "Station Section is a part of Station Limit and is provided at __________ class station only.स्टेशन सेक्शन, स्टेशन सीमा का एक भाग है और इसे केवल __________ श्रेणी के स्टेशन पर प्रदान किया जाता है",
+           options: ["‘W’", "‘B’", "‘C’", "‘Special’"],
+           correctAnswer: 1,
+        },
+        {
+           question: "Minimum equipment of fixed signals at a ‘B’ class station provided with MOMA signaling shall be:'MOMA' सिग्नलिंग से सुसज्जित 'बी' श्रेणी के स्टेशन पर स्थिर सिग्नलों के लिए न्यूनतम उपकरण होगा:",
+           options: ["Warner, Home, and Starter", "Distant and Home", "Distant, Home, and Starter", "Distant, Home, Starter, and Advanced Starter"],
+           correctAnswer: 2,
+        },
+        {
+           question: "The ‘S’ marker board is provided at a distance of __________ meters in the facing points of every outlying siding.'S' मार्कर बोर्ड को हर बाहरी साइडिंग के अग्र भाग में __________ मीटर की दूरी पर प्रदान किया जाता है।",
+           options: ["30m", "45m", "800m", "1200m"],
+           correctAnswer: 0,
+        },
+        {
+           question: "The form number of the Advance Pilot-in-Memo is:एडवांस पायलट-इन-मेमो का प्रपत्र संख्या है:",
+           options: ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The form number of the Pilot-in and Pilot-out memo is:पायलट-इन और पायलट-आउट मेमो का प्रपत्र संख्या है:",
+           options: ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+           correctAnswer: 2,
+        },
+        {
+           question: "USR stands for:USR का पूर्ण रूप है:",
+           options: ["Unified Special Restriction Rules", "Unified Subsidiary Rules", "Under Special Restriction", "None of the above"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The form number for Disconnection/Re-connection Notice is:डिस्कनेक्शन/री-कनेक्शन नोटिस के लिए प्रपत्र संख्या है:",
+           options: ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When a signal shows more than one aspect simultaneously, such a signal is treated as:जब कोई सिग्नल एक साथ एक से अधिक पहलू दिखाता है, तो ऐसे सिग्नल को माना जाता है:",
+           options: ["Correct signal", "Defective signal", "Following signal", "None of the above"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The stop board is fixed in the __________ of the train during C&W examination of a rake.सी एंड डब्ल्यू परीक्षण के दौरान ट्रेन के __________ में स्टॉप बोर्ड लगाया जाता है।",
+           options: ["Left", "Right", "Middle", "None of the above"],
+           correctAnswer: 2,
+        },
+        {
+           question: "The station at which an authority to proceed is given is known as:जिस स्टेशन पर आगे बढ़ने की अनुमति दी जाती है, उसे कहा जाता है:",
+           options: ["Notice station", "Interlocked station", "Block station", "Non-block station"],
+           correctAnswer: 2,
+        },
+        {
+           question: "For passing a Gate Stop signal at ‘ON’, the Loco Pilot has to wait ___minutes in the daytime and ___minutes at night.गेट स्टॉप सिग्नल को 'ऑन' पर पार करने के लिए, लोको पायलट को दिन के समय ___ मिनट और रात में ___ मिनट प्रतीक्षा करनी होगी",
+           options: ["1 & 2", "2 & 3", "2 & 5", "5 & 5"],
+           correctAnswer: 0,
+        },
+        {
+           question: "No LP/ALP should be put on independent duty unless they take Road Learning of the section initially for at least _ trips in a    Normal section and ___ trips in an Automatic or Ghat section.कोई भी एलपी/एएलपी स्वतंत्र ड्यूटी पर नहीं लगाया जाना चाहिए जब तक कि वे सामान्य सेक्शन में कम से कम _ यात्राओं और ऑटोमैटिक या घाट सेक्शन में ___ यात्राओं के लिए रोड लर्निंग न कर लें।",
+           options: ["1 & 2", "3 & 3", "3 & 6", "6 & 6"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Station Limit” is situated between the __ of the station.स्टेशन सीमा" स्टेशन के __के बीच स्थित होती है।",
+           options: ["Outermost stop signals", "Outermost signals", "Both of the above", "None of the above"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The sequence of taking off through signals at a station where MACL signals are provided for run-through trains with an Advanced Starter is:उस स्टेशन पर सिग्नलों के क्रम को हटाने की प्रक्रिया, जहां रन-थ्रू ट्रेनों के लिए एडवांस्ड स्टार्टर के साथ MACL सिग्नल प्रदान किए गए हैं:",
+           options: ["Home, Starter, then Adv. Starter", "Starter, Home, and then Adv. Starter", "Main Home, Adv. Starter, and then Main Starter", "None of the above"],
+           correctAnswer: 2,
+        },
+        {
+           question: "__is provided in a long block section to split it into two portions, each constituting a separate block section by providing an Intermediate Block Post._________ लंबे ब्लॉक सेक्शन में प्रदान किया जाता है ताकि इसे दो भागों में विभाजित किया जा सके, प्रत्येक को एक अलग ब्लॉक सेक्शन बनाते हुए, एक इंटरमीडिएट ब्लॉक पोस्ट प्रदान करके।",
+           options: ["Automatic Signaling", "MLQ Signaling", "Intermediate Block Signaling", "MACL Signaling"],
+           correctAnswer: 2,
+        },
+        {
+           question: "On Single Line Intermediate Block Signaling, the line between two adjacent block stations is divided into two subsections. The 1st section is termed as ‘Station controlled intermediate block section,’ and the 2nd section is termed as:सिंगल लाइन इंटरमीडिएट ब्लॉक सिग्नलिंग में, दो समीपवर्ती ब्लॉक स्टेशनों के बीच की लाइन को दो उप-खंडों में विभाजित किया जाता है। पहला खंड 'स्टेशन नियंत्रित इंटरमीडिएट ब्लॉक सेक्शन' कहलाता है और दूसरा खंड कहलाता है:",
+           options: ["Block controlled intermediate block section", "Section controlled block section", "Advance block section", "Rear block section"],
+           correctAnswer: 0,
+        },
+        {
+           question: "A train carrying passengers can be admitted into a goods yard or on the goods loop at a restricted speed of:यात्री ले जाने वाली ट्रेन को एक माल यार्ड या माल लूप में प्रतिबंधित गति से प्रवेश कराया जा सकता है:",
+           options: ["08 kmph", "10 kmph", "12 kmph", "15 kmph"],
+           correctAnswer: 1,
+        },
+        {
+           question: "If the Distant signal of an Intermediate Block Post is defective and cannot be kept in the ‘ON’ position, the Intermediate Block Stop signal shall also be treated as:यदि इंटरमीडिएट ब्लॉक पोस्ट का दूरस्थ सिग्नल दोषपूर्ण है और इसे 'ऑन' स्थिति में नहीं रखा जा सकता है, तो इंटरमीडिएट ब्लॉक स्टॉप सिग्नल को भी इस रूप में माना जाएगा।",
+           options: ["Inactive", "Active", "Defective", "None of the above"],
+           correctAnswer: 2,
+        },
+        {
+           question: "When the distant signal shows a ‘Proceed’ aspect and the Home signal displays ‘Yellow with route/lunar indication,’ it will be treated as:जब दूरस्थ सिग्नल 'प्रोसीड' पहलू दिखाता है और होम सिग्नल 'पीला मार्ग/लूनर संकेत' प्रदर्शित करता है, तो इसे इस रूप में माना जाएगा:",
+           options: ["Conflicting signal", "Defective signal", "None of the above", "Both (a) and (b)"],
+           correctAnswer: 3,
+        },
+         {
+           question: "If a fixed signal displays more than one aspect, the Loco Pilot shall act according to its most __________ aspect.यदि कोई स्थिर सिग्नल एक से अधिक पहलू प्रदर्शित करता है, तो लोको पायलट को इसके सबसे __________ पहलू के अनुसार कार्य करना चाहिए",
+           options: ["Defective", "Restrictive", "Active", "Passive"],
+           correctAnswer: 1,
+        },
+        {
+           question: "In case of frequent aspect changing and flickering/bobbing of a Color Light Signal, the Loco Pilot shall treat the signal as defective if it does not assume a steady aspect for at least __________ seconds.यदि रंगीन प्रकाश सिग्नल बार-बार बदलता है और झिलमिलाता है, तो लोको पायलट को इसे दोषपूर्ण मानना चाहिए यदि यह कम से कम __________ सेकंड तक स्थिर पहलू नहीं रखता है।",
+           options: ["30", "60", "120", "15"],
+           correctAnswer: 1,
+        },
+        {
+           question: "In case of doubling a Single Line (S/L) or tripling a Double Line (D/L) or more, no separate road learning of the 2nd, 3rd, or 4th line is given. LP/ALPs may run the first trip at a restricted speed of __________ Kmph.यदि किसी सिंगल लाइन (S/L) को डबल लाइन (D/L) या अधिक किया जाता है, तो दूसरी, तीसरी या चौथी लाइन के लिए अलग से रोड लर्निंग नहीं दी जाती है। LP/ALPs पहली यात्रा __________ किमी प्रति घंटे की प्रतिबंधित गति से चला सकते हैं।",
+           options: ["25/8", "40/15", "15/10", "Sectional speed"],
+           correctAnswer: 1,
+        },
+        {
+           question: "If a Loco Pilot explodes detonator, they must take control of the train and proceed cautiously for up to __________ km before resuming the authorized speed.यदि कोई लोको पायलट डेटोनेटर विस्फोट करता है, तो उसे ट्रेन को नियंत्रित करना चाहिए और अधिकृत गति फिर से शुरू करने से पहले __________ किमी तक सतर्कता से आगे बढ़ना चाहिए।",
+           options: ["800 m", "1 km", "1200 m", "1.5 km"],
+           correctAnswer: 3,
+        },
+        {
+           question: "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Double Yellow, the speed should not exceed __________ Kmph.कोहरे के मौसम में, स्वचालित ब्लॉक क्षेत्र में, यदि स्वचालित स्टॉप सिग्नल डबल येलो दिखा रहा है, तो गति __________ किमी प्रति घंटे से अधिक नहीं होनी चाहिए",
+           options: ["60/75", "30", "Cautious", "15"],
+           correctAnswer: 1,
+        },
+        {
+           question: "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Green, the speed should not exceed __________ Kmph.कोहरे के मौसम में, स्वचालित ब्लॉक क्षेत्र में, यदि स्वचालित स्टॉप सिग्नल ग्रीन दिखा रहा है, तो गति __________ किमी प्रति घंटे से अधिक नहीं होनी चाहिए।",
+           options: ["60/75", "30", "Cautious", "15"],
+           correctAnswer: 0,
+        },
+        {
+           question: "During foggy weather, in an Automatic Block territory, after passing an automatic stop signal at Yellow, the speed should not exceed __________ Kmph, further restricted so as to be prepared to stop at the next stop signal.कोहरे के मौसम में, स्वचालित ब्लॉक क्षेत्र में, यदि स्वचालित स्टॉप सिग्नल येलो दिखा रहा है, तो गति _____किमी प्रति घंटे से अधिक नहीं होनी चाहिए और अगले स्टॉप सिग्नल पर रुकने के लिए तैयार रहना चाहिए।",
+           options: ["60/75", "30", "Further restricted speed so as to be prepared to stop at the next stop signal", "15"],
+           correctAnswer: 2,
+        },
+        {
+           question: "At a Class ‘D’ station, a ‘PH’ marker post shall be provided at a distance of __________ meters from the center of the station.'डी' श्रेणी के स्टेशन पर, 'PH' मार्कर पोस्ट स्टेशन के केंद्र से __________ मीटर की दूरी पर प्रदान किया जाएगा।",
+           options: ["200", "400", "800", "1200"],
+           correctAnswer: 1,
+        },
+        {
+           question: "The Competency Certificate for Working Points and Signals (OP/TI/A) shall be issued by:संकेतों और पॉइंट्स के संचालन के लिए दक्षता प्रमाणपत्र (OP/TI/A) जारी किया जाएगा।",
+           options: ["Station Superintendent (SS)", "Chief Yard Master (CYM)", "Divisional Traffic Inspector (DTI)", "All of the above"],
+           correctAnswer: 3,
+        },
+        {
+           question: "The Competency Certificate for Working Panel/Route Relay Interlocking is issued by BSI and DTI on form number:(Competency Certificate) BSI और DTI द्वारा फॉर्म नंबर पर जारी किया जाता है।",
+           options: ["OP/TI/A", "OP/TI/B", "OP/TI/C", "None of the above"],
+           correctAnswer: 2,
+        },
+        {
+           question: "The Station Master (SM) should maintain the correct standard time by ascertaining it from the section controller daily at:(SM) को दैनिक रूप से सेक्शन कंट्रोलर से सही मानक समय की पुष्टि करके उसे बनाए रखना चाहिए।",
+           options: ["18.00 hrs", "00.00 hrs", "12.00 hrs", "16.00 hrs"],
+           correctAnswer: 3,
+        },
+        {
+           question: "No trains carrying passengers must be allowed to start before the departure time notified in the:कोई भी यात्री ले जाने वाली ट्रेन को अधिसूचित प्रस्थान समय से पहले शुरू नहीं किया जाना चाहिए।",
+           options: ["Working Time Table", "Working Time Table", "Public Time Table", "None of these"],
+           correctAnswer: 2,
+        },
+        {
+           question: "For starting a train from the station, a Loco Pilot needs:स्टेशन से ट्रेन को शुरू करने के लिए, एक लोको पायलट को चाहिए:",
+           options: ["Guard’s Signal", "Correct departure signals", "Correct authority to proceed", "All of the above"],
+           correctAnswer: 3,
+        },
+        {
+           question: "Guard has to set his watch with correct timing from:गार्ड को अपनी घड़ी को सही समय से सेट करना होता है:",
+           options: ["Driver's watch", "SCR watch", "Station clock or clock of reporting place", "CYM watch"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Guard of a Passenger train shall report for duty ______ before the departure of a train.Guard of a Passenger train shall report for duty ______ before the departure of a train.एक पैसेंजर ट्रेन के गार्ड को ट्रेन के प्रस्थान से____मिनट पहले ड्यूटी पर रिपोर्ट करना होगा।",
+           options: ["45 mins", "20 mins", "30 mins", "25 mins"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Guard of a Goods train shall report for duty as per the time prescribed by:एक मालगाड़ी के गार्ड को ड्यूटी पर रिपोर्ट करना होगा जैसा कि निर्धारित समय के अनुसार:",
+           options: ["PCOM", "GM", "CPTM", "DRM"],
+           correctAnswer: 3,
+        },
+        {
+           question: "The direction of train on a double line is generally on the left-hand line. It can be changed by the approval of:दोहरी लाइन पर ट्रेन की दिशा सामान्यतः बाईं लाइन पर होती है, इसे स्वीकृति द्वारा बदला जा सकता है:",
+           options: ["GM", "CRS", "DRM", "PCOM"],
+           correctAnswer: 1,
+        },
+        {
+           question: "WTT stands for:",
+           options: ["Working Time Table", "Wagon Turn Table", "Wagon Time Table", "None of these"],
+           correctAnswer: 0,
+        },
+        {
+           question: "WTT is issued by:",
+           options: ["GM", "DRM", "CPTM", "PCOM"],
+           correctAnswer: 3,
+        },
+        {
+           question: "WTT is issued:",
+           options: ["Zone wise", "Division wise", "Notice station wise", "For entire railway"],
+           correctAnswer: 1,
+        },
+              {
+           question: "Sectional Speed for the section is set by:सेक्शन के लिए खंडीय गति सेट की जाती है:",
+           options: ["CRS", "PCOM", "GM", "DRM"],
+           correctAnswer: 0,
+        },
+        {
+           question: "MPS of a section is sanctioned by:एक सेक्शन की अधिकतम अनुमत गति (MPS) को स्वीकृत किया जाता है:",
+           options: ["CRS", "PCOM", "GM", "DRM"],
+           correctAnswer: 0,
+        }
+        {
+           question: "When the speedometer of a train becomes defective en route, the train shall work with speed:जब ट्रेन के स्पीडोमीटर में मार्ग में खराबी हो जाती है, तो ट्रेन को",
+           options: ["10% less than permissible speed", "8% less than MPS", "15% less than sectional speed", "5% less than MPS"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When the speedometer of a train becomes defective:जब ट्रेन के स्पीडोमीटर में खराबी हो जाती है:",
+           options: ["Only MPS reduces by 10%", "Only sectional speed reduces by 10%", "Both MPS and sectional speed reduce by 10%", "None of these"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Caution order is issued for a train by:चेतावनी आदेश एक ट्रेन के लिए जारी किया जाता है:",
+           options: ["Guard of the Train", "PWI of the section", "DSO", "Station Master"],
+           correctAnswer: 3,
+        },
+        {
+           question: "There are ______ types of caution orders.",
+           options: ["Two", "Four", "Three", "Five"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Reminder caution is issued in prescribed form no:रीमाइंडर चेतावनी निर्धारित फार्म संख्या में जारी की जाती है:",
+           options: ["T/409", "T/A-409", "T/B-409", "None"],
+           correctAnswer: 2,
+        },
+        {
+           question: "Notice Station issues the caution order for a train in form no:नोटिस स्टेशन किसी ट्रेन के लिए चेतावनी आदेश किस फार्म संख्या में जारी करता है:",
+           options: ["T/409", "T/A-409", "T/B-409", "None"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When a new signal is erected or there is a change in the location, a Caution Order shall be issued for a period of:जब नया सिग्नल स्थापित किया जाता है या स्थान में बदलाव होता है, तो चेतावनी आदेश कितने समय के लिए जारी किया जाता है:",
+           options: ["15 days", "90 days", "30 days", "45 days"],
+           correctAnswer: 1,
+        },
+        {
+           question: "A Caution Order is issued for a train when:चेतावनी आदेश एक ट्रेन के लिए तब जारी किया जाता है जब:",
+           options: ["Train will receive on a non-signal line", "Home signal is defective", "Train will stable at the next station", "Vehicle will be detached at the next station"],
+           correctAnswer: 0,
+        },
+        
+         {
+        `   question: "Form no. of caution order register/urgent order book is:चेतावनी आदेश रजिस्टर/अर्जेंट आदेश पुस्तक का फार्म नंबर:",
+           options: ["OP/T 469", "OP/T 421", "OP/T 28 R", "OP/T 28"],
+           correctAnswer: 0,
+        },
+        {
+           question: "Preservative period of caution order register is:चेतावनी आदेश रजिस्टर का संरक्षण अवधि:",
+           options: ["1 year", "2 years", "3 years", "4 years"],
+           correctAnswer: 0,
+        },
+        {
+           question: "Reminder caution order is issued when-रीमाइंडर चेतावनी आदेश तब जारी किया जाता है जब:",
+           options: [
+            "DCO is not issued",
+            "NIL caution order is issued",
+            "Caution order is included in DCO but train is scheduled to stop or stop out of course",
+            "None of these"
+            ],
+           correctAnswer: 2,
+        },
+        {
+           question: "A caution order may be-",
+           options: [
+            "Authority for shunting",
+            "Authority to proceed",
+            "Authority for advance pilot in",
+            "Authority for pilot in"
+            ],
+           correctAnswer: 1,
+        },
+        {
+           question: "Permanent speed restriction is mentioned in-स्थायी गति सीमा का उल्लेख:",
+           options: ["WTT", "Caution order register", "DCO", "Reminder caution order"],
+           correctAnswer: 0,
+        },
+        {
+           question: "For the departure of a train from station, a loco pilot must have-किसी ट्रेन के स्टेशन से प्रस्थान के लिए, लोको पायलट के पास क्या होना चाहिए:",
+           options: [
+            "Authority to proceed",
+            "Caution order",
+            "Guard’s signal",
+            "All of these"
+            ],
+           correctAnswer: 3,
+        },
+        {
+           question: "Reminder caution must be issued to all:रीमाइंडर चेतावनी सभी को जारी की जानी चाहिए:",
+           options: [
+            "Scheduled stopping train",
+            "Passenger train",
+            "Superfast train",
+            "Light engine"
+            ],
+           correctAnswer: 0,
+        },
+        {
+           question: "Reminder caution order may be issued to through trains-स्मरण सावधानी आदेश ट्रेनों को जारी किया जा सकता है-",
+           options: [
+            "With tangible Authority",
+            "By stopping it out of course",
+            "Through Walkie Talkie",
+            "None of these"
+            ],
+           correctAnswer: 0,
+        },
+        {
+           question: "Caution order summary at station is prepared by,स्टेशन पर सावधानी आदेश सारांश तैयार किया जाता है--",
+           options: [
+            "PWI of the section",
+            "On duty ASM",
+            "Station Master (incharge)",
+            "On duty SCR"
+            ],
+           correctAnswer: 2,
+        },
+        {
+           question: "Caution order summary is prepared on every-सावधानी आदेश सारांश प्रत्येक दिन तैयार किया जाता है-",
+           options: ["Sunday", "Thursday", "Saturday", "Monday"],
+           correctAnswer: 3,
+        },
+        {
+           question: "The serial no. of Caution order register must be of one set which is commenced from the day of-सावधानी आदेश रजिस्टर का क्रमांक एक सेट का होना चाहिए, जो दिन से प्रारंभ होता है-",
+           options: ["1st Jan", "1st Dec", "1st July", "1st April"],
+           correctAnswer: 0,
+        },
+        {
+           question: "The LP must hand over the caution order after completion of journey to-लोको पायलट को यात्रा समाप्ति के बाद सावधानी आदेश सौंपना आवश्यक है-",
+           options: ["SM", "Guard", "DSO", "Not required to hand over"],
+           correctAnswer: 0,
+        },
+        {
+           question: "Speed over non-interlocked point is,non-interlockedपॉइंट पर गति-",
+           options: [
+            "Not exceed than 15 kmph","Not exceed than 30 kmph", "As per SM advice","As per approved special instruction"],
+           correctAnswer: 1,
+        },
+        {
+           question: "Speed over turnout is prescribed by-टर्नआउट पर गति निर्धारित की जाती है-",
+           options: ["CRS", "PCOM", "GM", "PCE"],
+           correctAnswer: 0,
+        },
+        {
+           question: "Max. speed of train while pushing-ट्रेन की अधिकतम गति जब पीछे की ओर धक्का दिया जा रहा हो-",
+           options: ["25 kmph", "40 kmph", "15 kmph", "30 kmph"],
+           correctAnswer: 0
+        },
+        {
+           question: "Max. speed of patrol or search light special with one or more vehicles leading-एक या अधिक वाहनों के साथ पेट्रोल या सर्चलाइट विशेष की अधिकतम गति-",
+           options: ["25 kmph", "40 kmph", "15 kmph", "30 kmph"],
+           correctAnswer: 1,
+        },
+        {
+           question: "When the headlight is defective speed of the train is-जब हेडलाइट खराब हो, तो ट्रेन की गति: कम कर दी जाती है।",
+           options: ["20 kmph", "40 kmph", "15 kmph", "30 kmph"],
+           correctAnswer: 0,
+        },
+        {
+           question: "When the headlight is defective train will proceed up to,जब हेडलाइट खराब हो जाती है, तो ट्रेन आगे बढ़ेगी",
+           options: [
+            "Up to next station","Up to destination","First station where repairing facility exists","Up to notice station"
+            ],
+           correctAnswer: 2,
+        },
+       {
+        question: "Which coupling is in the engine? इंजन में कौन coupling है",
+        options: ["Tc", "shaku", "H", "Nt"],
+        correctAnswer: 0,
       },
       {
-       question: "The fixed stop signal of a station controlling the entry of trains into the next block section is",
-       options: ["First Stop Signal", "Last Stop Signal", "Gate Stop Signal", "None of these"],
-       correctAnswer: 1,
-    },
-    {
-      question: "Shunt signal is a .... signal.",
-      options: ["Subsidiary Signal", "Stop Signal", "Permissive Signal", "Special Signal"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Detonating signals are otherwise known as..... Signal",
-      options: ["Hand Signal", "Fog Signal", "Fixed Signal", "Warning Signal"],
-      correctAnswer: 1,
-    },
-    {
-      question: "Form Number of pilot in/out memo is",
-      options: ["T/A602", "T/409", "T/806", "T/369/3b"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Under approved special instructions, a colour light Distant signal may be combined with-",
-      options: [
-        "Last stop signal of rear station",
-        "Gate stop signal",
-        "Intermediate Block Stop Signal",
-        "All of these",
-      ],
-      correctAnswer: 3,
-    },
-    {
-      question: "Last Stop Signal may be either-",
-      options: [
-        "Advanced Starter of a station",
-        "Starter signal if Advanced Starter is not provided",
-        "Home signal at C class station",
-        "All of the above",
-      ],
-      correctAnswer: 3,
-    },
-    {
-      question: "Intermediate Block Stop Signal is the......signal provided at intermediate Block Post.",
-      options: ["Advanced starter", "Starter", "Home", "None of the above"],
+        question: "What type of accident is a passenger run-over? Passenger का रन ओवर किस प्रकार की दुर्घटना है",
+        options: ["P", "R", "Q", "L"],
+        correctAnswer: 0,
+      },
+      {
+        question: "In which part of SWR is line blocking mentioned? लाइन को ब्लॉक करना SWR के किस भाग में है",
+        options: ["9", "7", "6", "5"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Full form of MMD? फुल फॉर्म ऑफ MMD",
+        options: ["All", "Multy model dimensions", "Multiple model dimensions", "Multy moving dimensions"],
+        correctAnswer: 3,
+      },
+      {
+        question: "IBS is a station of which type? IBS एक स्टेशन है",
+        options: ["Un manned", "All", "D class", "Manned"],
+        correctAnswer: 3,
+      },
+      {
+        question: "How many constitutions are currently in force? वर्तमान में कितना संविधान चल रहा है",
+        options: ["128", "129", "130", "121"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Number of explosive wagons allowed in parcel and mixed trains? पार्सल और मिक्सड ट्रेन में विस्फोटक वैगन की संख्या",
+        options: ["2", "5", "8", "3"],
+        correctAnswer: 3,
+      },
+      {
+        question: "India's shortest NH is in which state? भारत का सबसे छोटा NH किस राज में है",
+        options: ["Sikkim", "Arunachal Pradesh", "Goa", "Kerala"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Lobby VKI number in Adra division? आद्रा division में लॉबी vki संख्या",
+        options: ["6", "4", "5", "7"],
+        correctAnswer: 1
+      },
+      {
+        question: "Prize money for the first winner of Premchand & Maithili Sharan Gupta Award? प्रेमचंद & मैथिली शरण गुप्त अवार्ड में प्रथम विजेता को कितनी राशि दी जाती है",
+        options: ["50000", "10000", "5000", "15000"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Section clearing speed for a flat tire train? Flat टायर युक्त ट्रेन की सेक्शन क्लियरिंग स्पीड",
+        options: ["30", "25", "40", "20"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Authority communication breaks down on D/L? D/L पर संचार व्यवस्था भंग होने पर क्या दिया जाएगा",
+        options: ["Nt", "T/A602", "T/C602", "T/B602"],
+        correctAnswer: 3
+      },
+      {
+        question: "Mata Vaishno Devi Katra station is in which division? Mata Vaishno Devi कटरा स्टेशन किस डिविजन में है",
+        options: ["Jammu", "Ambala", "Ludhiana", "Firozpur"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Who invented the gas engine? गैस इंजन कि खोज किसने की",
+        options: ["none of these", "Stephenson", "Daimler/डेमलर", "Jems watt/जेम्स वॉट"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Btpn ka loading time",
+        options: ["3", "4.5", "5", "4"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Rail Minister Essay Competition is held in which month? रेल मंत्री निबंध प्रतियोगिता का आयोजन किया जाता हैं",
+        options: ["September /सितंबर", "March /मार्च", "April/अप्रैल", "January/जनवरी"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Which company is building India's first private coach factory? पहला प्राइवेट कोच फैक्ट्री कौन कंपनी बना रही है",
+        options: ["सीमेंस", "Alstom", "Adani", "Medha"],
+        correctAnswer: 3,
+      },
+      {
+        question: "hat % of CTG is given for a 20 km transfer based on basic? 20km दूरी में ट्रांसफर होने पर कितना %CTG मिलेगा बेसिक का",
+        options: ["50", "10", "20", "30"],
+        correctAnswer: 3,
+      },
+      {
+        question: "color of T/509",
+        options: ["black", "red", "blue", "green"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Who is the current Foreign Secretary? वर्तमान में विदेश सचिव कौन है",
+        options: ["Suman beri", "Bikram Mistry", "Sanjay Malhotra", "Rajeev kumar"],
+        correctAnswer: 1,
+      },
+      {
+        question: "How many copies of the parcel summary are made? पार्सल समरी कितना कॉपी में बनता है",
+        options: ["3", "4", "5", "2"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Head of the Operating Department in the Railway Board? Railway board में ऑपरेटिंग विभाग का हेड है",
+        options: ["Operation & Business Development", "None of these", "Chief of traffic", "member of railway board operation"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Identification of an auto signal? Auto सिग्नल की पहचान",
+        options: ["yellow circle with white A/पिला चक्री में सफेद", "black circle with white A/काला चक्री में सफेद A", "White circle with black A/सफेद चक्री में काला A", "White circle with illuminated A/सफेद चक्री में illuminated A"],
+        correctAnswer: 2,
+      },
+      {
+        question: "In which part of the fog signal register is detonator testing mentioned? डेटोनेटर की टेस्टिंग फाग सिग्नल रजिस्टर के किस पार्ट में है",
+        options: ["3", "4", "2", "1"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Adequate distance in an automatic(S/L) section ? S/L automatic section में पर्याप्त दूरी है",
+        options: ["400", "120", "180", "240"],
+        correctAnswer: 2,
+      },
+      {
+        question: "TA for duty travel exceeding 6 hours? 6 घंटे से अधिक समय यात्रा ड्यूटी पर कितना TA मिलता है",
+        options: ["Nt", "100%", "70%", "30%"],
+        correctAnswer: 2,
+      },
+      {
+        question: "How many copies of the forwarding note are made?",
+        options: ["4", "3", "5", "2"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Number of berths in LHB AC-2 coach?",
+        options: ["48", "42", "46", "68"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Minimum distance for parcels?",
+        options: ["5", "2", "4", "3"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Premium BPC enroute %?",
+        options: ["95", "90", "70", "75"],
+        correctAnswer: 3,
+      },
+      {
+        question: "GDR time for 24 to 96 hours of stable load? 24 से 96 घंटे स्टेबल होने पर GDR का समय",
+        options: ["90", "120", "45", "30"],
+        correctAnswer: 0,
+      },
+      {
+        question: "General Electric belongs to which country? General इलेक्ट्रिकल किस देश की कंपनी है",
+        options: ["American", "Indian", "Japanese", "Russian"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Number of detonators used for train protection in the pilot guard system? पायलट गार्ड सिस्टम में ट्रेन की सुरक्षा कितना पटाखा से होता है",
+        options: ["1", "3", "2", "4"],
+        correctAnswer: 1,
+      },
+      {
+        question: "When is WTT implemented? WTT कब लागू किया जाता है",
+        options: ["जून", "नवम्बर", "अक्टूबर", "जुलाई"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Authority for sending relief engines in an auto section? ऑटो सेक्शन में रिलीफ इंजन भेजने की ऑथोरिटी",
+        options: ["T/D912", "T/C912", "T/B912", "T/A912"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Maximum speed in the pilot guard system? पायलट गार्ड सिस्टम में कितना मैक्सिमम स्पीड है",
+        options: ["25", "50", "30", "40"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Kandla Port is in which state? कांडला बंदरगाह किस राज्य में है",
+        options: ["तमिलनाडु", "गुजरात", "कर्नाटक", "ओडिशा"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Hospital leave duration?",
+        options: ["6", "28", "12", "24"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Which copy of the luggage ticket is given to the passenger? लगेज टिकट का कौन सा प्रति यात्री को दिया जाता है",
+        options: ["second", "none of these", "first", "third"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Maximum days for booking a locker? लॉकर को अधिकतम कितने दिनों के लिए बुक किया जा सकता है",
+        options: ["15", "7", "1", "30"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Who is the secretary of DRUCC? DRUCC का सचिव कौन होता है",
+        options: ["ADRM", "Sr. DPO", "Sr.DCM", "DRM"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Discount percentage for national-level athletes in sleeper or second class? राष्ट्रीय स्तरीय खिलाड़ियों को स्लीपर अथवा द्वितीय श्रेणी में कितना प्रतिशत कार्यालय दिया जाता है",
+        options: ["25%", "75%", "50%", "100%"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Free allowance for first-class pass holders? प्रथम दर्जा पास पर फ्री अलाउंस कितना है",
+        options: ["70kg", "100kg", "50kg", "140kg"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Under which section of the Railways Act, 1989, is an application for compensation made to the Railway Claims Tribunal? रेल अधिनियम 1989 के किस धारा के अनुसार हर्जाने के भुगतान के   लिए प्रार्थना पत्र रेल दावा अधिकरण को दिया जाता है",
+        options: ["धारा 124", "धारा 125", "धारा 130", "धारा 121"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Which chapter of G&SR contains rules for absence from duty? G&SR ke किस चैप्टर में ड्यूटी पर अनुपस्थिति होने का नियम है",
+        options: ["2.10", "2.09", "2.07", "2.08"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Free allowance for Second Class 'A' pass holders? द्वितीय दर्जा 'A' पास पर फ्री अलाउंस कितना है",
+        options: ["50kg", "35kg", "40kg", "70kg"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Maximum number of passengers allowed on one UTS ticket? एक UTS टिकट पर अधिकतम कितने यात्रियों की संख्या हो सकती है",
+        options: ["3", "6", "4", "2"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Which sub-committee of the Parliamentary Official Language Committee inspects the Ministry of Railways? रेल मंत्रालय का निरीक्षण संसदीय राजभाषा समिति की कौन सी उप समिति करती है",
+        options: ["पहले", "इनमें से कोई नहीं", "तीसरी", "दूसरे"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Minimum luggage fare per consignment? लगेज का न्यूनतम भाड़ा प्रति कंसाइनमेंट कितना रुपया है",
+        options: ["50", "30", "10", "100"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Travel allowance for staying away from headquarters for more than 6 hours but less than 12 hours? यदि मुख्यालय से 6 घंटे से अधिक परंतु 12 घंटे से कम , रहने पर यात्रा भत्ता दिया जाएगा",
+        options: ["70%", "None of these", "100%", "30%"],
+        correctAnswer: 0,
+      },
+      {
+        question: "How many types of outstanding are there? आउटस्टैंडिंग कितने प्रकार के होते हैं",
+        options: ["3", "1", "2", "4"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Weight charged for a dog booked with a passenger in AC First Class? एक कुत्ते का वजन ऐसी प्रथम श्रेणी में यात्री के साथ बुक करने पर कितना किलोग्राम चार्ज किया जाएगा",
+        options: ["20", "40", "30", "60"],
+        correctAnswer: 4
+      },
+      {
+        question: "How many hours notice is required before booking a motor car? मोटर कर बुक करने से पहले पार्टी द्वारा कम से कम कितने घंटे पहले नोटिस दिया जाएगा",
+        options: ["72", "48", "24", "12"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Validity of the certificate for concessions for mute or deaf persons? गूंगे या बहरे व्यक्ति को रियायत के लिए जो प्रमाण पत्र बनता है उसकी वैधता कितने साल की होती है",
+        options: ["5", "7", "2", "10"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Conduct rule of railway servants is mentioned in which chapter of G&SR? रेल सेवकों का आचरण G&SR के किस चैप्टर से है",
+        options: ["2.11", "2.01", "None of these", "2.10"],
+        correctAnswer: 3,
+      },
+      {
+        question: "When was the Parliamentary Official Language Committee formed? संसदीय राजभाषा समिति का गठन कब हुआ",
+        options: ["1955", "1957", "1976", "1967"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Free allowance in AC 2 Tier/First Class (in kg)? AC2 टियर/प्रथम श्रेणी में free अलाउंस कितना है किलोग्राम में",
+        options: ["50", "70", "100", "150"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Engineering allowance for loco men and traffic men is mentioned in? इंजिनियरिंग अलाउंस लोको मेन और ट्रेफिक मेन उल्लेखित है",
+        options: ["G and SR", "SWR", "WTT", "Block manual"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Color of the VTO? दृश्यता परीक्षण खंभा का रंग होता है",
+        options: ["Black and Whiteकाला एवं सफेद", "Black and Redसफेद एवं लाल", "Only Whiteकेवल सफेद", "Black and Yellowकाला एवं पीला"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Validity of BPC for Intercity/DEMU trains? इंटरसिटी / डेमू  ट्रेन की बी .पी .सी की वैधता..",
+        options: ["3500 किलोमीटर + 10 दिन", "350 किलोमीटर + 7 दिन", "3000 किलोमीटर + 7 दिन", "3500 किलोमीटर + 7 दिन"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Number of brake cylinders in a BVZC wagon? BVZCबैगन में ब्रेक सिलेंडर की संख्या कितनी होती है",
+        options: ["1", "2", "4", "8"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Number of axles in a Co-Co locomotive? Co-Co मे कितना एक्सेल होता है",
+        options: ["6", "8", "12", "16"],
+        correctAnswer: 2,
+      },
+      {
+        question: "After how many years did India win the ICC World Cup title? भारत ने कितने साल बाद आईसीसी विश्व कप खिताब जीता",
+        options: ["10 साल", "11 साल", "12 साल", "13 साल"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Signal given by train manager in case of a falling mark jam? फॉलिंग मार्क जाम होने पर स्टेशन मास्टर को ट्रेन मैनेजर रात में कौन सा संकेत बताएगा",
+        options: ["GREEN", "YELLOW", "RED", "WHITE"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Coach code for a kitchen car? Kitchen car का कोच कोड क्या होता है",
+        options: ["CR", "CL", "Cz", "CD"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Where was the first platform ticket issued? सबसे पहले प्लेटफार्म टिकट कहां जारी हुआ था",
+        options: ["NEW DELHI", "MUMBAI", "KARACHI", "LAHORE"],
+        correctAnswer: 3,
+      },
+      {
+        question: "When was Indian Railways nationalized? भारतीय रेलवे का राष्ट्रीयकरण कब हुआ",
+        options: ["1905", "1890", "1984", "1950"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Who presented the first Railway Budget? प्रथम रेल बजट किसने पेश किया था",
+        options: ["आसिफ अली", "लाल बहादुर शास्त्री", "जॉन मथाई", "जगजीवन राम"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Number of non-AC travel classes in Indian Railways? भारतीय रेलवे में यात्रा करने की नॉन एसी श्रेणियां कितनी है",
+        options: ["TWO", "THREE", "FOUR", "FIVE"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Number of AC travel classes in Indian Railways? भारतीय रेलवे में यात्रा करने की कितनी AC श्रेणियां है",
+        options: ["2", "5", "4", "6"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Color of PW BIL? PW BIL का रंग कैसा होता है",
+        options: ["GREEN", "CHOCOLATE", "WHITE", "BROWN"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Number of DTC book? DTC बुक का नंबर क्या है",
+        options: ["SN- 27", "SN-1", "SN-21", "SN-22"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Which class of students are issued free MST? किस कक्षा के छात्रों को फ्री MST जारी की जाती है",
+        options: ["8", "10", "12", "Graduate"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Total number of PRS in Indian Railways? भारतीय रेलवे में कुल कितने PRS है",
+        options: ["16", "5", "4", "इनमें से कोई नहीं"],
+        correctAnswer: 1,
+      },
+      {
+        question: "In which part of the fog signal register is detonator testing mentioned? डेटोनेटर की टेस्टिंग फाग सिग्नल रजिस्टर के किस पार्ट में है",
+        options: ["3", "4", "2", "1"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Adequate distance in an automatic section (S/L)? S/L automatic section में पर्याप्त दूरी है",
+        options: ["400", "120", "180", "240"],
+        correctAnswer: 2,
+      },
+      {
+        question: "TA for duty travel exceeding 6 hours? 6 घंटे से अधिक समय यात्रा ड्यूटी पर कितना TA मिलता है",
+        options: ["Nt", "100%", "70%", "30%"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Number of copies of the forwarding note? Forwarding note kitna कॉपी में बनता हैं",
+        options: ["4", "3", "5", "2"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Number of berths in LHB AC-2 coach? LHB कोच ऐसी2 में बर्थ की संख्या",
+        options: ["48", "42", "46", "68"],
+        correctAnswer: 2,
+      },
+       {
+      question: "ON aspect means. ऑन अस्पेक्ट का मतलब क्या होता हैं.",
+      options: ["Danger", "Caution", "Most restrictive", "Proceed"],
       correctAnswer: 2,
     },
     {
-      question: "Automatic Stop Signal is provided with .....marker",
-      options: ["A marker", "B marker", "C marker", "D marker"],
-      correctAnswer: 0,
-    },
-    {
-      question: "A Calling-on signal may be provided below a stop signal except-",
-      options: ["First Stop Signal", "Last Stop Signal", "Gate Stop Signal", "None of these"],
+      question: "calling on signal is identified by. कालिंग ऑन सिग्नल की पहचान क्या है.",
+      options: ["G MARKER", "C MARKER", "P MARKER", "ALL THE ABOVE"],
       correctAnswer: 1,
     },
     {
-      question: "A miniature colour light Calling-on signal is provided with.....",
-      options: ["C marker", "P marker", "A marker", "G marker"],
-      correctAnswer: 0,
+      question: "Which one of the following is permissive signal.निम्न में परमिसिव सिग्नल कौन हैं.",
+      options: ["HOME", "STARTER", "DISTANT", "NONE OF THE ABOVE"],
+      correctAnswer: 2,
     },
     {
-      question: "A Calling-on signal shall show....... in the on position.",
-      options: ["Yellow light", "No light", "Red light", "Green light"],
+      question: "LTM is prepared by. LTM किसके द्वारा तैयार किया जाता हैं.",
+      options: ["LP", "TM", "SM", "SCNL"],
       correctAnswer: 1,
     },
     {
-      question: "A Calling-on signal can be used in-",
-      options: [
-        "To admit a train obstructed line",
-        "To avoid Pilot-in and Pilot-out process",
-        "During Shunting operation",
-        "All of the above",
-      ],
+      question: "How many wagon does a standard NMG rake consist of? मानक NMG रेक में कितने वैगन होते हैं.",
+      options: ["25", "30", "58", "59"],
+      correctAnswer: 0,
+    },
+    {
+      question: "permanenet speed restriction are notified through. स्थाई गति प्रतिबंध का उल्लेख कँहा रहता हैं.",
+      options: ["PTT", "WTT", "SWR", "GWR"],
+      correctAnswer: 1,
+    },
+    {
+      question: "whistle code for Train Parting is. गाड़ी बिखंडन के लिए सिटी कोड क्या हैं.",
+      options: ["Four short", "long short long short", "Three long", "two short"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Turning time of MRV single exit is.सिंगल निकासी में MRV को बाहर करने का समय क्या हैं.",
+      options: ["20 minutes", "25 minutes", "45 minutes", "30 minutes"],
+      correctAnswer: 1,
+    },
+    {
+      question: "CRIS was established in the year. क्रिस की स्थापना कब हुई थी.",
+      options: ["1982", "1986", "1988", "1984"],
+      correctAnswer: 1,
+    },
+    {
+      question: "CBC Means. CBC का मतलब क्या होता हैं.",
+      options: ["Centre Buffer coupling", "IR Coupling", "Centre Ball Bearing", "none of the above"],
+      correctAnswer: 0,
+    },
+    {
+      question: "What is the Colour of Feed pipe? फीड पाइप का रंग क्या होता हैं.",
+      options: ["GREEN", "WHITE", "RED", "NONE OF THE ABOVE"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Trap point in Loop line protect which line. लूप लाइन का ट्रैप पॉइंट किसकी रक्षा करती हैं.",
+      options: ["Running line", "Main line", "Siding line", "None of the above"],
+      correctAnswer: 1,
+    },
+    {
+      question: "RDSO Situated at. RDSO का मुखयालय कँहा हैं.",
+      options: ["Mumbai", "Kanpur", "Lucknow", "Kolkata"],
+      correctAnswer: 2,
+    },
+    {
+      question: "WLRRM means in LHB Coach. WLRRM का मतलब क्या होता LHB कोच में.",
+      options: ["AC 2 TIER", "AC 3 TIER", "GENRAL COACH", "TM VAN"],
       correctAnswer: 3,
     },
     {
-      question:
-        "A Shunt signal may be placed on a post by itself or below a stop signal other than the.....of a station.",
-      options: [
-        "Last stop signal",
-        "First stop signal",
-        "Either First or Last stop signal",
-        "Neither First or Last stop signal",
-      ],
-      correctAnswer: 1,
-    },
-    {
-      question: "Co-acting signals are......signals fixed below ordinary signals.",
-      options: ["Stop signals", "Permissive signals", "Duplicate signals", "None of the above"],
-      correctAnswer: 2,
-    },
-    {
-      question:
-        "When a stop signal cannot be seen from the sighting distance on account of curves, Over bridges or other local conditions, a .... shall be provided.",
-      options: ["Repeating signal", "Co-acting signal", "Shunt signal", "Calling-on signal"],
+      question: "SHUNTING order FORM no is. शटिंग के लिए फॉर्म क्या हैं.",
+      options: ["T/806", "T/B 912", "T/369 (3B)", "T/B 602"],
       correctAnswer: 0,
     },
     {
-      question:
-        "Where a colour light Distant Signal is combined with a Last Stop Signal, ....... Marker shall be dispensed with.",
-      options: ["A", "S", "W", "P"],
-      correctAnswer: 3,
-    },
-    {
-      question:
-        "Gate Stop signal provided in Automatic Block territory, letter A shall be lit only when the gates are closed and locked against....",
-      options: ["Road traffic", "Rail traffic", "Either Road or Rail traffic", "None of the above"],
+      question: "WHICH occasion the PN book used by TM. ट्रैन मैनेजर PN बुक का उपयोग कब करता हैं.",
+      options: ["COMPLETE ARRIVAL", "TRAIN PARTING", "DIVIDING", "SHUNTING"],
       correctAnswer: 0,
     },
     {
-      question:
-        "Signal Sighting Committee consists of DTI, LI, Signal Inspector and ..as a member in electrified sections.",
-      options: ["PWI", "Train Examiner", "Driving Inspector", "Loco Inspector"],
+      question: "MOCK DRILL to be conducted once in.मॉक ड्रिल कितने महीने में किया जाता हैं.",
+      options: ["THREE MONTH", "TWO MONTH", "SIX MONTH", "FIVE MONTH"],
       correctAnswer: 2,
     },
     {
-      question: "Normal aspect of Gate cum Distant signal is..",
-      options: ["Stop", "Proceed", "Caution", "None of the above"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Fixed signals, except Automatic signals, shall always show their... Aspect in their normal position.",
-      options: ["stop", "Proceed", "Most restrictive", "Proceed with caution"],
-      correctAnswer: 2,
-    },
-    {
-      question: "The normal aspect of an Automatic Stop signal is ...",
-      options: ["stop", "Proceed", "Either Stop or Proceed", "Either On or Off"],
+      question: "MAXIMUM NUMBER of LHB COACH. LHB रेक में अधिकतम कितने कोच होते हैं.",
+      options: ["22+2", "20+2", "24+2", "25"],
       correctAnswer: 1,
     },
     {
-      question:
-        "Slip Siding is provided where down gradient of ... or steeper is there from station section towards block section.",
-      options: ["1:80", "1:100", "1:200", "1:260"],
+      question: "HOW many brake cylinder are available in BOXNHL wagon. BOXNHL वैगन में कितना ब्रेक सिलिंडर होता हैं.",
+      options: ["TWO", "FOUR", "ONE", "EIGHT"],
       correctAnswer: 1,
     },
     {
-      question: "Block Section Limit Board may be provided at... class of station on Double Line.",
-      options: ["A", "B", "C", "D"],
-      correctAnswer: 1,
-    },
-    {
-      question: "The life span of Detonators is..... Years from the year of manufacture.",
-      options: ["7", "5", "8", "10"],
-      correctAnswer: 1,
-    },
-    {
-      question: "The safety radius of Detonators is-",
-      options: ["20m", "30m", "45m", "90m"],
+      question: "The code for eight wheeler Brake van is. आठ व्हिलेर ब्रेक वान का कोड क्या होता हैं.",
+      options: ["BV", "BVZC", "BVZI", "BVCM"],
       correctAnswer: 2,
-    },
-    {
-      question:
-        "Detonators shall be tested under the wheels of any empty wagon pushed by a locomotive at a restricted speed of",
-      options: ["8 to 12 kmph", "10 to 15 kmph", "Up to 15 kmph", "5 to 8 kmph"],
-      correctAnswer: 0,
-    },
-    {
-      question: "Red flashing hand signal lamp at night or a red flag during day is a",
-      options: ["Stop Signal", "Warner Signal", "Warning Signal", "Detonating Signal"],
-      correctAnswer: 2,
-    },
-    {
-      question: "The Form No. of Station Detonator Register is-",
-      options: ["OP/T437", "OP/T28(R)", "OP/T48", "OP/T124"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Fog Signal Post (FSP) is erected at a distance of..... meters from the First Stop Signal.",
-      options: ["180m", "200m", "250m", "270m"],
-      correctAnswer: 3,
-    },
-    {
-      question: "Normal aspect of IB Signal is.......",
-      options: ["stop", "Proceed", "caution", "Attention"],
-      correctAnswer: 0,
-    },
-    {
-      question:
-        "Visibility Test Object (VTO) is provided for the judgment of Foggy weather at a distance of ..... meters from the centre of station building in MACLS-",
-      options: ["45m", "120m", "180m", "270m"],
-      correctAnswer: 2,
-    },
-    {
-    "question": "Normal aspect of gate Signal is.......",
-    "options": ["Stop", "Proceed", "Caution", "Attention"],
-    "correctAnswer": 0
     },
      {
-            "question": "Maximum speed of trains during thick and foggy weather in Absolute Block System is.... Kmph when signal is showing green.",
-            "options": ["60 kmph", "75 kmph", "60 kmph and 75 kmph when Fog Safe kmph Device(FSD) is provided in Locomotive", "Not more than 90"],
-            "correctAnswer": 2
+      question: "Principle of making time table is. समय सारणी बनाने का सिद्धांत क्या हैं?",
+      options: ["Passenger convenience", "Operational need", "Running time of train", "All the above"],
+      correctAnswer: 3,
+    },
+    {
+      question: "SPAD of passenger train comes under which class of accident? यात्री गाड़ी की SPAD किस क्लास का दुर्घटना हैं?",
+      options: ["D", "B", "H1", "H2"],
+      correctAnswer: 2,
+    },
+    {
+      question: "What is the duration of IOH Maintenance for conventional loco for coaching train? कोचिंग लोको जो कान्वेंशनल टाइप का होता हैं उसका IOH का समय क्या होता हैं?",
+      options: ["4 Hours", "6 Hours", "6 days", "9 days"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Type of marshaling yard is. मार्शलिंग यार्ड के प्रकार हैं?",
+      options: ["Flat yard", "Hump yard", "Gravity yard", "All the above"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Escaping of wagon in right line on D/L section what beats given to advance station? डबल लाइन के सेक्शन में सही लाइन से गाड़ी भागने पर क्या बीट दिया जाता हैं?",
+      options: ["6 pause 4", "6 pause 5", "6 pause 1", "6 pause 2"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Gross clearance of C class ODC is. C क्लास ODC के लिए कितना ग्रॉस क्लियरन्स होना चाहिए?",
+      options: ["more than 3 inch and less than 6 inch", "more than 6 inch and less than 9 inch", "more than 9 inch", "All the above"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Validity of special premium BPC is. स्पेशल प्रीमियम BPC की बैधता क्या होती हैं?",
+      options: ["12 + 3 days", "12+ 5 days", "20+ 5 days", "none of the above"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Master chart is prepared by. मास्टर चार्ट किसके द्वारा तैयार किया जाता हैं?",
+      options: ["Sr. DOM", "PCOM", "Chief controller", "AOM"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Roll on -Roll off plan was introduced first where? रोल ऑन रोल ऑफ योजना कहाँ प्रारम्भ किया गया था?",
+      options: ["ECR", "ER", "KOKAN RAILWAY", "NR"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Standard rake of BOXNHL is. BOXNHL का मानक रेक कितने वैगन का होता हैं?",
+      options: ["59", "58", "42", "35"],
+      correctAnswer: 1,
+    },
+    {
+      question: "What is the full form of POH? POH का फुल फॉर्म क्या होता हैं?",
+      options: ["Partial overhauling", "Periodical overhauling", "Particular overhauling", "Part overhauling"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Block Back and Block Forward are related to. ब्लॉक बैक और ब्लॉक फॉरवर्ड किससे सम्बन्धित हैं?",
+      options: ["Signal failure", "Shunt movement", "Caution movement", "Block failure"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Which is not a caution order form? कौन सा सावधानी आदेश प्रपत्र नहीं है?",
+      options: ["T/409", "T/A 409", "T/B 409", "T/609"],
+      correctAnswer: 3,
+    },
+    {
+      question: "How much depth of ballast is available in BG group A route below the bottom of the sleeper? BG में A मार्ग में स्लीपर के नीचे बल्लास्ट की गहराई कितना होता है।",
+      options: ["300MM", "250MM", "200MM", "150MM"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Creep is related to. क्रीप का सम्बन्ध किस से हैं?",
+      options: ["wagon", "engine", "track", "none of the above"],
+      correctAnswer: 2,
+    },
+    {
+      question: "The normal height of contact wire in regulated OHE section is. रेगुलेटेड OHE सेक्शन में कॉन्टेक्ट तार की ऊंचाई क्या होती हैं?",
+      options: ["5.75m", "5.60m", "5.65m", "4.65m"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Which loco is used for both services (passenger and freight)? किस लोको का उपयोग दोनों सर्विस में होता हैं?",
+      options: ["WAG5", "WAG7", "WAM4", "WAP4"],
+      correctAnswer: 2,
+    },
+    {
+      question: "What type of pantograph is used in Indian railway for 25KV AC electric loco? भारतीय रेलवे में 25 KV AC के लिए किस प्रकार के पेंटोग्राफ का उपयोग होता हैं?",
+      options: ["AM12", "AM10", "AM14", "All the above"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Under Running staff review, 1 (one) shunter is demanded for rest giver for how many shunters? कितने शंटर के लिए एक शंटर की व्यवस्था रनिंग स्टाफ रिव्यू के अंतर्गत की जाती हैं?",
+      options: ["6", "8", "4", "10"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Wagon km is an example of? वैगन किलोमीटर किस इकाई का उदाहरण हैं?",
+      options: ["Primary unit", "Fundamental unit", "Derived unit", "None of the above"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Division time table meeting is held in which month? मण्डल समय सारणी की बैठक किस माह में होती हैं?",
+      options: ["October", "September", "December", "June"],
+      correctAnswer: 1,
+    },
+      {
+      question: "Authority to start a train from non-signalled line of a station is. किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
+      options: ["T/369(3b)", "T/511", "T/512", "T/509"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Authority to start a train from a line with common starter signal is सामान्य स्टार्टर सिग्नल वाली लाइन से ट्रेन खुलाने के लिए प्राधिकार है?",
+      options: ["T/512", "T/511", "T/509", "T/510"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Shunting order form is शंटिंग ऑर्डर फॉर्म है......?",
+      options: ["T/806", "T/608", "T/511", "T/B806"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Authority to proceed without line clear is लाइन क्लियर के बिना आगे बढ़ने का प्राधिकार _ है?",
+      options: ["T/B602", "T/C602", "T/A602", "T/D602"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Paper line clear ticket for UP direction is अप दिशा के लिए पेपर लाइन क्लियर टिकट _____ है।",
+      options: ["T/D 1425", "T/B 1425", "T/C 1425", "T/A 1425"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Conditional line clear ticket is सशर्त लाइन क्लियर टिकट _ है।",
+      options: ["T/G 602", "T/F 602", "T/E 602", "T/I 602"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Authority for temporary single line working on double line in absolute block section is पूर्ण ब्लॉक सेक्शन में डबल लाइन पर काम करने वाली अस्थायी सिंगल लाइन के लिए प्राधिकरण है।",
+      options: ["T/A 602", "T/B 602", "T/C 602", "T/D 602"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Maximum speed while shunting on T/806 is _KMPH.  टी/806 पर शंटिंग करते समय अधिकतम गति _ किमी प्रति घंटा है।",
+      options: ["5", "10", "15", "20"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Authority given during TFC on double line is डबल लाइन पर टीएफसी के दौरान दिया गया प्राधिकार ___ है।",
+      options: ["T/A 602", "T/B 602", "T/C 602", "T/D 602"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Train intact arrival register is. ट्रेन पूर्ण आगमन रजिस्टर __ है।",
+      options: ["T/1410", "T/1525", "T/A1425", "TB 1425"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Authority for temporary single line working on double line in automatic block section is स्वचालित ब्लॉक अनुभाग में डबल लाइन पर काम करने वाली अस्थायी सिंगल लाइन के लिए प्राधिकरण है।",
+      options: ["T/B 912", "T/C 912", "T/D 912", "T/E 912"],
+      correctAnswer: 3,
+    },
+    {
+      question: "Authority to proceed for relief engine into an automatic block signalling section is स्वचालित ब्लॉक सिग्नलिंग अनुभाग में रिलीफ इंजन के लिए आगे बढ़ने का प्राधिकार _____ है।",
+      options: ["T/A 912", "T/B 912", "T/C 912", "T/D 912"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Motor trolley permit is ... मोटर ट्रॉली परमिट __ है।",
+      options: ["T/1410", "T/1525", "T/1518", "T/1425"],
+      correctAnswer: 1,
+    },
+    {
+      question: "Authority to start a train from a line with common starter signal is सामान्य स्टार्टर सिग्नल वाली लाइन से ट्रेन खुलाने के लिए प्राधिकार है?",
+      options: ["T/512", "T/511", "T/509", "T/510"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Shunting order form is शंटिंग ऑर्डर फॉर्म है......?",
+      options: ["T/806", "T/608", "T/511", "T/B806"],
+      correctAnswer: 0,
+    },
+    {
+      question: "Authority to proceed without line clear is लाइन क्लियर के बिना आगे बढ़ने का प्राधिकार _ है?",
+      options: ["T/B602", "T/C602", "T/A602", "T/D602"],
+      correctAnswer: 2,
+    },
+    {
+      question: "Paper line clear ticket for UP direction is अप दिशा के लिए पेपर लाइन क्लियर टिकट _____ है।",
+      options: ["T/D 1425", "T/B 1425", "T/C 1425", "T/A 1425"],
+      correctAnswer: 2,
+    },
+        {
+          question: "Authority to start a train from non-signalled line of a station is.किसी स्टेशन की गैर-सिग्नल लाइन से ट्रेन खुलाने के लिए प्राधिकार है..",
+          options: ["T/369(3b)", "T/511", "T/512", "T/509"],
+          correctAnswer:1,
         },
         {
-            "question": "Catch Siding is provided to protect-",
-            "options": ["Block Section", "Station Section", "Station Limit", "Neutral Section"],
-            "correctAnswer": 1
-        },
-        {
-            "question": "At a C class station, in absence of a Starter, .... signal is the Last Stop Signal.",
-            "options": ["Outer", "Home", "Routing", "Distant"],
-            "correctAnswer": 1
-        },
-        {
-            "question": "A light waved violently shall be used as a Stop signal only when the red light is not available.",
-            "options": ["White", "Green", "Both of the above", "None of the above"],
-            "correctAnswer": 0
-        },
-        {
-            "question": "When a train has to be admitted on loop line, Distant signal will show ... light where Inner Distant is provided.",
-            "options": ["Yellow", "Double Yellow", "Green", "No light"],
-            "correctAnswer": 1
-        },
-        {
-            "question": "Outer, Home and...... cannot be used during Shunting operation-",
-            "options": ["Calling-on Signal", "Starter Signal", "Last Stop Signal", "First Stop Signal"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "Slip Siding is intended to protect",
-            "options": ["Station Section", "Station Limit", "Block Section", "Neutral Section"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "In regard to Multiple-Aspect signals, the minimum visibility distance for all signals shall be-",
-            "options": ["200m", "400m", "1.2km", "Signal shall be visible for a minimum period of 5 sec at m.p.s. of the section"],
-            "correctAnswer": 3
-        },
-        {
-            "question": "Home Signal of Intermediate Block Post is identified by .. marker.",
-            "options": ["R", "g", "IB", "1D"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "The Loco Pilot of a train shall not pass a stop signal without proper authority except.. . which can be passed conditionally-",
-            "options": ["1BSS", "GSS", "Automatic Stop Signal", "All of the above"],
-            "correctAnswer": 3
-        },
-        {
-            "question": "Station Section is a part of Station Limit and is provided at __________ class station only.",
-            "options": ["‘W’", "‘B’", "‘C’", "‘Special’"],
-            "correctAnswer": 1
-        },
-        {
-            "question": "Minimum equipment of fixed signals at a ‘B’ class station provided with MOMA signaling shall be:",
-            "options": ["Warner, Home, and Starter", "Distant and Home", "Distant, Home, and Starter", "Distant, Home, Starter, and Advanced Starter"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "The ‘S’ marker board is provided at a distance of __________ meters in the facing points of every outlying siding.",
-            "options": ["30m", "45m", "800m", "1200m"],
-            "correctAnswer": 0
-        },
-        {
-            "question": "The form number of the Advance Pilot-in-Memo is:",
-            "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
-            "correctAnswer": 1
-        },
-        {
-            "question": "The form number of the Pilot-in and Pilot-out memo is:",
-            "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "USR stands for:",
-            "options": ["Unified Special Restriction Rules", "Unified Subsidiary Rules", "Under Special Restriction", "None of the above"],
-            "correctAnswer": 1
-        },
-        {
-            "question": "The form number for Disconnection/Re-connection Notice is:",
-            "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
-            "correctAnswer": 0
-        },
-        {
-            "question": "When a signal shows more than one aspect simultaneously, such a signal is treated as:",
-            "options": ["Correct signal", "Defective signal", "Following signal", "None of the above"],
-            "correctAnswer": 1
-        },
-        {
-            "question": "The stop board is fixed in the __________ of the train during C&W examination of a rake.",
-            "options": ["Left", "Right", "Middle", "None of the above"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "The station at which an authority to proceed is given is known as:",
-            "options": ["Notice station", "Interlocked station", "Block station", "Non-block station"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "For passing a Gate Stop signal at ‘ON’, the Loco Pilot has to wait __________ minutes in the daytime and __________ minutes at night.",
-            "options": ["1 & 2", "2 & 3", "2 & 5", "5 & 5"],
-            "correctAnswer": 0
-        },
-        {
-            "question": "No LP/ALP should be put on independent duty unless they take Road Learning of the section initially for at least __________ trips in a Normal section and __________ trips in an Automatic or Ghat section.",
-            "options": ["1 & 2", "3 & 3", "3 & 6", "6 & 6"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "“Station Limit” is situated between the __________ of the station.",
-            "options": ["Outermost stop signals", "Outermost signals", "Both of the above", "None of the above"],
-            "correctAnswer": 1
-        },
-        {
-            "question": "The sequence of taking off through signals at a station where MACL signals are provided for run-through trains with an Advanced Starter is:",
-            "options": ["Home, Starter, then Adv. Starter", "Starter, Home, and then Adv. Starter", "Main Home, Adv. Starter, and then Main Starter", "None of the above"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "__________ is provided in a long block section to split it into two portions, each constituting a separate block section by providing an Intermediate Block Post.",
-            "options": ["Automatic Signaling", "MLQ Signaling", "Intermediate Block Signaling", "MACL Signaling"],
-            "correctAnswer": 2
-        },
-        {
-            "question": "On Single Line Intermediate Block Signaling, the line between two adjacent block stations is divided into two subsections. The 1st section is termed as ‘Station controlled intermediate block section,’ and the 2nd section is termed as:",
-            "options": ["Block controlled intermediate block section", "Section controlled block section", "Advance block section", "Rear block section"],
-            "correctAnswer": 0
-        },
-        {
-            "question": "A train carrying passengers can be admitted into a goods yard or on the goods loop at a restricted speed of:",
-            "options": ["08 kmph", "10 kmph", "12 kmph", "15 kmph"],
-            "correctAnswer": 1
-        },
-        {
-            "question": "If the Distant signal of an Intermediate Block Post is defective and cannot be kept in the ‘ON’ position, the Intermediate Block Stop signal shall also be treated as:",
-            "options": ["Inactive", "Active", "Defective", "None of the above"],
-            "correctAnswer": 2
-        },
+         question: "The fixed stop signal of a station controlling the entry of trains into the next block section is",
+         options: ["First Stop Signal", "Last Stop Signal", "Gate Stop Signal", "None of these"],
+         correctAnswer: 1,
+      },
+      {
+        question: "Shunt signal is a .... signal.",
+        options: ["Subsidiary Signal", "Stop Signal", "Permissive Signal", "Special Signal"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Detonating signals are otherwise known as..... Signal",
+        options: ["Hand Signal", "Fog Signal", "Fixed Signal", "Warning Signal"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Form Number of pilot in/out memo is",
+        options: ["T/A602", "T/409", "T/806", "T/369/3b"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Under approved special instructions, a colour light Distant signal may be combined with-",
+        options: [
+          "Last stop signal of rear station",
+          "Gate stop signal",
+          "Intermediate Block Stop Signal",
+          "All of these",
+        ],
+        correctAnswer: 3,
+      },
+      {
+        question: "Last Stop Signal may be either-",
+        options: [
+          "Advanced Starter of a station",
+          "Starter signal if Advanced Starter is not provided",
+          "Home signal at C class station",
+          "All of the above",
+        ],
+        correctAnswer: 3,
+      },
+      {
+        question: "Intermediate Block Stop Signal is the......signal provided at intermediate Block Post.",
+        options: ["Advanced starter", "Starter", "Home", "None of the above"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Automatic Stop Signal is provided with .....marker",
+        options: ["A marker", "B marker", "C marker", "D marker"],
+        correctAnswer: 0,
+      },
+      {
+        question: "A Calling-on signal may be provided below a stop signal except-",
+        options: ["First Stop Signal", "Last Stop Signal", "Gate Stop Signal", "None of these"],
+        correctAnswer: 1,
+      },
+      {
+        question: "A miniature colour light Calling-on signal is provided with.....",
+        options: ["C marker", "P marker", "A marker", "G marker"],
+        correctAnswer: 0,
+      },
+      {
+        question: "A Calling-on signal shall show....... in the on position.",
+        options: ["Yellow light", "No light", "Red light", "Green light"],
+        correctAnswer: 1,
+      },
+      {
+        question: "A Calling-on signal can be used in-",
+        options: [
+          "To admit a train obstructed line",
+          "To avoid Pilot-in and Pilot-out process",
+          "During Shunting operation",
+          "All of the above",
+        ],
+        correctAnswer: 3,
+      },
+      {
+        question:
+          "A Shunt signal may be placed on a post by itself or below a stop signal other than the.....of a station.",
+        options: [
+          "Last stop signal",
+          "First stop signal",
+          "Either First or Last stop signal",
+          "Neither First or Last stop signal",
+        ],
+        correctAnswer: 1,
+      },
+      {
+        question: "Co-acting signals are......signals fixed below ordinary signals.",
+        options: ["Stop signals", "Permissive signals", "Duplicate signals", "None of the above"],
+        correctAnswer: 2,
+      },
+      {
+        question:
+          "When a stop signal cannot be seen from the sighting distance on account of curves, Over bridges or other local conditions, a .... shall be provided.",
+        options: ["Repeating signal", "Co-acting signal", "Shunt signal", "Calling-on signal"],
+        correctAnswer: 0,
+      },
+      {
+        question:
+          "Where a colour light Distant Signal is combined with a Last Stop Signal, ....... Marker shall be dispensed with.",
+        options: ["A", "S", "W", "P"],
+        correctAnswer: 3,
+      },
+      {
+        question:
+          "Gate Stop signal provided in Automatic Block territory, letter A shall be lit only when the gates are closed and locked against....",
+        options: ["Road traffic", "Rail traffic", "Either Road or Rail traffic", "None of the above"],
+        correctAnswer: 0,
+      },
+      {
+        question:
+          "Signal Sighting Committee consists of DTI, LI, Signal Inspector and ..as a member in electrified sections.",
+        options: ["PWI", "Train Examiner", "Driving Inspector", "Loco Inspector"],
+        correctAnswer: 2,
+      },
+      {
+        question: "Normal aspect of Gate cum Distant signal is..",
+        options: ["Stop", "Proceed", "Caution", "None of the above"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Fixed signals, except Automatic signals, shall always show their... Aspect in their normal position.",
+        options: ["stop", "Proceed", "Most restrictive", "Proceed with caution"],
+        correctAnswer: 2,
+      },
+      {
+        question: "The normal aspect of an Automatic Stop signal is ...",
+        options: ["stop", "Proceed", "Either Stop or Proceed", "Either On or Off"],
+        correctAnswer: 1,
+      },
+      {
+        question:
+          "Slip Siding is provided where down gradient of ... or steeper is there from station section towards block section.",
+        options: ["1:80", "1:100", "1:200", "1:260"],
+        correctAnswer: 1,
+      },
+      {
+        question: "Block Section Limit Board may be provided at... class of station on Double Line.",
+        options: ["A", "B", "C", "D"],
+        correctAnswer: 1,
+      },
+      {
+        question: "The life span of Detonators is..... Years from the year of manufacture.",
+        options: ["7", "5", "8", "10"],
+        correctAnswer: 1,
+      },
+      {
+        question: "The safety radius of Detonators is-",
+        options: ["20m", "30m", "45m", "90m"],
+        correctAnswer: 2,
+      },
+      {
+        question:
+          "Detonators shall be tested under the wheels of any empty wagon pushed by a locomotive at a restricted speed of",
+        options: ["8 to 12 kmph", "10 to 15 kmph", "Up to 15 kmph", "5 to 8 kmph"],
+        correctAnswer: 0,
+      },
+      {
+        question: "Red flashing hand signal lamp at night or a red flag during day is a",
+        options: ["Stop Signal", "Warner Signal", "Warning Signal", "Detonating Signal"],
+        correctAnswer: 2,
+      },
+      {
+        question: "The Form No. of Station Detonator Register is-",
+        options: ["OP/T437", "OP/T28(R)", "OP/T48", "OP/T124"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Fog Signal Post (FSP) is erected at a distance of..... meters from the First Stop Signal.",
+        options: ["180m", "200m", "250m", "270m"],
+        correctAnswer: 3,
+      },
+      {
+        question: "Normal aspect of IB Signal is.......",
+        options: ["stop", "Proceed", "caution", "Attention"],
+        correctAnswer: 0,
+      },
+      {
+        question:
+          "Visibility Test Object (VTO) is provided for the judgment of Foggy weather at a distance of ..... meters from the centre of station building in MACLS-",
+        options: ["45m", "120m", "180m", "270m"],
+        correctAnswer: 2,
+      },
+      {
+      "question": "Normal aspect of gate Signal is.......",
+      "options": ["Stop", "Proceed", "Caution", "Attention"],
+      "correctAnswer": 0
+      },
+       {
+              "question": "Maximum speed of trains during thick and foggy weather in Absolute Block System is.... Kmph when signal is showing green.",
+              "options": ["60 kmph", "75 kmph", "60 kmph and 75 kmph when Fog Safe kmph Device(FSD) is provided in Locomotive", "Not more than 90"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "Catch Siding is provided to protect-",
+              "options": ["Block Section", "Station Section", "Station Limit", "Neutral Section"],
+              "correctAnswer": 1
+          },
+          {
+              "question": "At a C class station, in absence of a Starter, .... signal is the Last Stop Signal.",
+              "options": ["Outer", "Home", "Routing", "Distant"],
+              "correctAnswer": 1
+          },
+          {
+              "question": "A light waved violently shall be used as a Stop signal only when the red light is not available.",
+              "options": ["White", "Green", "Both of the above", "None of the above"],
+              "correctAnswer": 0
+          },
+          {
+              "question": "When a train has to be admitted on loop line, Distant signal will show ... light where Inner Distant is provided.",
+              "options": ["Yellow", "Double Yellow", "Green", "No light"],
+              "correctAnswer": 1
+          },
+          {
+              "question": "Outer, Home and...... cannot be used during Shunting operation-",
+              "options": ["Calling-on Signal", "Starter Signal", "Last Stop Signal", "First Stop Signal"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "Slip Siding is intended to protect",
+              "options": ["Station Section", "Station Limit", "Block Section", "Neutral Section"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "In regard to Multiple-Aspect signals, the minimum visibility distance for all signals shall be-",
+              "options": ["200m", "400m", "1.2km", "Signal shall be visible for a minimum period of 5 sec at m.p.s. of the section"],
+              "correctAnswer": 3
+          },
+          {
+              "question": "Home Signal of Intermediate Block Post is identified by .. marker.",
+              "options": ["R", "g", "IB", "1D"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "The Loco Pilot of a train shall not pass a stop signal without proper authority except.. . which can be passed conditionally-",
+              "options": ["1BSS", "GSS", "Automatic Stop Signal", "All of the above"],
+              "correctAnswer": 3
+          },
+          {
+              "question": "Station Section is a part of Station Limit and is provided at __________ class station only.",
+              "options": ["‘W’", "‘B’", "‘C’", "‘Special’"],
+              "correctAnswer": 1
+          },
+          {
+              "question": "Minimum equipment of fixed signals at a ‘B’ class station provided with MOMA signaling shall be:",
+              "options": ["Warner, Home, and Starter", "Distant and Home", "Distant, Home, and Starter", "Distant, Home, Starter, and Advanced Starter"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "The ‘S’ marker board is provided at a distance of __________ meters in the facing points of every outlying siding.",
+              "options": ["30m", "45m", "800m", "1200m"],
+              "correctAnswer": 0
+          },
+          {
+              "question": "The form number of the Advance Pilot-in-Memo is:",
+              "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+              "correctAnswer": 1
+          },
+          {
+              "question": "The form number of the Pilot-in and Pilot-out memo is:",
+              "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "USR stands for:",
+              "options": ["Unified Special Restriction Rules", "Unified Subsidiary Rules", "Under Special Restriction", "None of the above"],
+              "correctAnswer": 1
+          },
+          {
+              "question": "The form number for Disconnection/Re-connection Notice is:",
+              "options": ["T/351", "T/369(1)", "T/369(3b)", "T/375"],
+              "correctAnswer": 0
+          },
+          {
+              "question": "When a signal shows more than one aspect simultaneously, such a signal is treated as:",
+              "options": ["Correct signal", "Defective signal", "Following signal", "None of the above"],
+              "correctAnswer": 1
+          },
+          {
+              "question": "The stop board is fixed in the __________ of the train during C&W examination of a rake.",
+              "options": ["Left", "Right", "Middle", "None of the above"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "The station at which an authority to proceed is given is known as:",
+              "options": ["Notice station", "Interlocked station", "Block station", "Non-block station"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "For passing a Gate Stop signal at ‘ON’, the Loco Pilot has to wait __________ minutes in the daytime and __________ minutes at night.",
+              "options": ["1 & 2", "2 & 3", "2 & 5", "5 & 5"],
+              "correctAnswer": 0
+          },
+          {
+              "question": "No LP/ALP should be put on independent duty unless they take Road Learning of the section initially for at least __________ trips in a Normal section and __________ trips in an Automatic or Ghat section.",
+              "options": ["1 & 2", "3 & 3", "3 & 6", "6 & 6"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "“Station Limit” is situated between the __________ of the station.",
+              "options": ["Outermost stop signals", "Outermost signals", "Both of the above", "None of the above"],
+              "correctAnswer": 1
+          },
+          {
+              "question": "The sequence of taking off through signals at a station where MACL signals are provided for run-through trains with an Advanced Starter is:",
+              "options": ["Home, Starter, then Adv. Starter", "Starter, Home, and then Adv. Starter", "Main Home, Adv. Starter, and then Main Starter", "None of the above"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "__________ is provided in a long block section to split it into two portions, each constituting a separate block section by providing an Intermediate Block Post.",
+              "options": ["Automatic Signaling", "MLQ Signaling", "Intermediate Block Signaling", "MACL Signaling"],
+              "correctAnswer": 2
+          },
+          {
+              "question": "On Single Line Intermediate Block Signaling, the line between two adjacent block stations is divided into two subsections. The 1st section is termed as ‘Station controlled intermediate block section,’ and the 2nd section is termed as:",
+              "options": ["Block controlled intermediate block section", "Section controlled block section", "Advance block section", "Rear block section"],
+              "correctAnswer": 0
+          },
+          {
+              "question": "A train carrying passengers can be admitted into a goods yard or on the goods loop at a restricted speed of:",
+              "options": ["08 kmph", "10 kmph", "12 kmph", "15 kmph"],
+              "correctAnswer": 1
+          },
+          {
+              "question": "If the Distant signal of an Intermediate Block Post is defective and cannot be kept in the ‘ON’ position, the Intermediate Block Stop signal shall also be treated as:",
+              "options": ["Inactive", "Active", "Defective", "None of the above"],
+              "correctAnswer": 2
+          },
 
  
     // Add more TRAIN MANAGER questions here
