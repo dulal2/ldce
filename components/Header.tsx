@@ -20,7 +20,7 @@ export default function Header() {
             </div>
             {/* Brand Name */}
             <Link href="/" className="text-2xl font-bold text-gray-900">
-              LdceQuizz
+              LdceGtm
             </Link>
           </div>
           {/* Navigation Menu */}
