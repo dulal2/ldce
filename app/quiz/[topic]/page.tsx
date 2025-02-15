@@ -386,6 +386,116 @@ const quizData = {
   ],
   Train_Manager: [
        {
+  "question": "What is the B.P. & F.P. pipe diameter in LHB coaches? सिंगल पाइप वैगन (BOXN, BCN, BRN, BLC) में B.P. पाइप का व्यास क्या है?",
+  "options": [
+    "23 mm",
+    "25 mm",
+    "28 mm",
+    "32 mm"
+  ],
+  "correctAnswer":1,
+},
+{
+  "question": "What is the choke diameter in PEAV installed in LHB coach for ACP? LHB कोच में ACP के लिए लगे PEAV में चोक का व्यास क्या है?",
+  "options": [
+    "19 mm",
+    "7.5 mm",
+    "8 mm",
+    "18 mm"
+  ],
+  "correctAnswer":0,
+},
+{
+  "question": "How many brake cylinders are provided in LHB Coach? एलएचबी (LHB) कोच में कितने ब्रेक सिलेंडर प्रदान किए जाते हैं?",
+  "options": [
+    "दो (Two)",
+    "चार (Four)",
+    "एक (One)",
+    "आठ (Eight)"
+  ],
+  "correctAnswer":3,
+},
+{
+  "question": "Which type of brake system is provided in LHB coaches? LHB कोच में किस प्रकार की ब्रेक प्रणाली प्रदान की जाती है?",
+  "options": [
+    "Bogie Mounted Brake System",
+    "Bogie Mounted Brake Cylinder",
+    "Underframe Mounted Brake System",
+    "Axle Mounted Disc Brake System"
+  ],
+  "correctAnswer":3,
+},
+{
+  "question": "At the one end of LHB coaches, how many air hoses of brake pipe have been provided? LHB कोच के एक सिरे पर ब्रेक पाइप के कितने एयर होज़ प्रदान किए गए हैं?",
+  "options": [
+    "दो (Two)",
+    "चार (Four)",
+    "एक (One)",
+    "आठ (Eight)"
+  ],
+  "correctAnswer": 0,
+},
+{
+  "question": "At the time of brake application, what is the maximum air pressure built in the brake cylinder of an LHB coach? ब्रेक लगाने के समय, LHB कोच के ब्रेक सिलेंडर में अधिकतम वायु दाब कितना बनता है?",
+  "options": [
+    "3.8 kg/cm²",
+    "2.2 kg/cm²",
+    "3.0 kg/cm²",
+    "2.8 kg/cm²"
+  ],
+  "correctAnswer": 0,
+},
+{
+  "question": "In LHB coach, from where is the ACP reset done? एल.एच.बी. कोच में ए.सी.पी रीसेट कहाँ से करते हैं?",
+  "options": [
+    "On end panel of coach",
+    "Inside the coach",
+    "In brake control panel",
+    "Underframe of the coach"
+  ],
+  "correctAnswer": 1,
+},
+{
+  "question": "How many brake disks are provided in an LHB Coach? एल.एच.बी. कोच में ब्रेक डिस्क की संख्या कितनी होती है?",
+  "options": [
+    "दो (Two)",
+    "चार (Four)",
+    "एक (One)",
+    "आठ (Eight)"
+  ],
+  "correctAnswer": 3,
+},
+{
+  "question": "In LHB Coach, brake indicators turn to red when: एल.एच.बी. कोच में, ब्रेक इंडिकेटर्स लाल कब होते हैं?",
+  "options": [
+    "Train parting",
+    "All",
+    "Brake binding",
+    "ACP"
+  ],
+  "correctAnswer": 1,
+},
+{
+  "question": "What is the location of the Distributor Valve in an LHB Coach? एल.एच.बी. कोच में Distributor Valve कहाँ लगाया गया है?",
+  "options": [
+    "In Underframe of coach",
+    "Near brake indicators",
+    "On brake control panel",
+    "Behind footstep"
+  ],
+  "correctAnswer": 2,
+},
+{
+  "question": "How much air pressure leakage rate is allowed in Coaching Train? Coaching ट्रेन में air pressure leakage rate कितना अनुमेय है?",
+  "options": [
+    "0.25 kg/cm² per min",
+    "0.3 kg/cm² per min",
+    "0.6 kg/cm² per 6 sec",
+    "0.2 kg/cm² per min"
+  ],
+  "correctAnswer": 3,
+ },
+       {
            question: "Maximum speed of trains during thick and foggy weather in Absolute Block System is... Kmph when signal is showing green.कोहरे वाले मौसम में एब्सोल्यूट ब्लॉक सिस्टम के दौरान ट्रेनों की अधिकतम गति ... किमी प्रति घंटा होती है जब सिग्नल हरा दिखा रहा हो",
            options: ["60 kmph", "75 kmph", "60/75 kmph when FSD provided", "Not more than 90"],
            correctAnswer: 2,
