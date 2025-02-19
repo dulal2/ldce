@@ -1,5 +1,5 @@
-import Link from "next/link";
-import Image from "next/image";
+import Link from "next/link"
+import Image from "next/image"
 import { Home, Info, Mail, Clock } from "lucide-react"
 
 export default function Header() {
@@ -9,24 +9,18 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center space-x-3">
             <Link href="/" className="flex items-center space-x-2">
-            {/* Logo Component */}
-            <div className="relative w-8 h-8 rounded-full overflow-hidden border-2 border-gray-50">
-              <Image
-                src="/logo.png"  // Ensure this file is inside the `public/` folder
-                alt="LdceGtm Logo"
-                fill
-                className="object-cover"
-                priority
-              />
-            </div>
+              <div className="relative w-8 h-8 rounded-full overflow-hidden border-2 border-gray-50">
+                <Image
+                  src="/logo.png"
+                  alt="Train Manager Quiz Logo"
+                  fill
+                  className="object-cover"
+                  priority
+                />
+              </div>
               <span className="text-2xl font-serif font-bold">LdceGtm</span>
-            {/* Brand Name */}
-            <Link href="/" className="text-2xl font-bold text-gray-900">
-              LdceGtm
             </Link>
           </div>
-          {/* Navigation Menu */}
-                
           <nav>
             <ul className="flex space-x-5">
               <li>
@@ -61,6 +55,5 @@ export default function Header() {
     </header>
   )
 }
-
 
 
