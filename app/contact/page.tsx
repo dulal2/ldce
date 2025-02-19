@@ -2,7 +2,7 @@ export default function ContactPage() {
   return (
     <div className="max-w-3xl mx-auto">
       <h1 className="text-3xl text-gray-50 font-bold mb-4">Contact Us</h1>
-      <p className="mb-4  text-gray-50"">
+      <p className="mb-4  text-gray-50">
         We'd love to hear from you! If you have any questions, suggestions, or feedback about ldce gtm, please
         don't hesitate to get in touch with us.
       </p>
