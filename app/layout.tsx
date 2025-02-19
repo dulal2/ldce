@@ -22,16 +22,22 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <meta charSet="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="keywords" content="quiz, knowledge test, fun quizzes" />
+        <meta name="author" content="QuizMaster Team" />
+        <meta property="og:title" content="QuizMaster" />
+        <meta property="og:description" content="LdceGtm is an interactive quiz app designed to challenge your knowledge and boost your learning in a fun and engaging way!" />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7206030569003059"
           crossOrigin="anonymous"
         ></script>
       </head>
-      <body className={inter.className}>
+      <body className={`${inter.className} bg-gradient-to-r from-gray-900 via-blue-900 to-gray-800 text-black`}>
         <div className="flex flex-col min-h-screen">
           <Header />
-          <main className="flex-grow bg-gray-100">
+          <main className="flex-grow w-full">
             <div className="py-12 px-4 sm:px-6 lg:px-8">{children}</div>
             <div className="max-w-3xl mx-auto mt-8">
               <GoogleAd client="ca-pub-7206030569003059" slot="9494804531" />
@@ -40,6 +46,12 @@ export default function RootLayout({
           <Footer />
         </div>
         {/* Move the script to pages/_document.js or use next/script for better performance */}
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7206030569003059"
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+        />
       </body>
     </html>
   )
