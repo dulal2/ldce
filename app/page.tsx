@@ -1,46 +1,26 @@
-import type { Metadata } from "next"
-import { Inter } from "next/font/google"
-import "./globals.css"
-import GoogleAd from "@/components/GoogleAd"
-import Header from "@/components/Header"
-import Footer from "@/components/Footer"
-import type React from "react"
+import Link from "next/link"
 
+const topics = [
+  { id: "important_days_and_dates", name: "Important Days & Dates" },
+  { id: "Train_Manager", name: "Train Manager" },
+  { id: "RAJBHASA", name: "RAJBHASA" },
+]
 
-const inter = Inter({ subsets: ["latin"] })
-
-export const metadata: Metadata = {
-  title: "LdecGtm",
-  description: "LdceGtm is an interactive quiz app designed to challenge your knowledge and boost your learning in a fun and engaging way! ",
-}
-
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function Home() {
   return (
-    <html lang="en">
-      <head>
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7206030569003059"
-          crossOrigin="anonymous"
-        ></script>
-      </head>
-      <body className={inter.className}>
-        <div className="flex flex-col min-h-screen">
-          <Header />
-          <main className="flex-grow bg-gray-100">
-            <div className="py-12 px-4 sm:px-6 lg:px-8">{children}</div>
-            <div className="max-w-3xl mx-auto mt-8">
-              <GoogleAd client="ca-pub-7206030569003059" slot="9494804531" />
-            </div>
-          </main>
-          <Footer />
-        </div>
-        {/* Move the script to pages/_document.js or use next/script for better performance */}
-      </body>
-    </html>
+    <div className="max-w-3xl mx-auto">
+      <h1 className="text-3xl font-bold text-center mb-8">Choose a Quiz Topic</h1>
+      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {topics.map((topic) => (
+          <Link
+            key={topic.id}
+            href={`/quiz/${topic.id}`}
+            className="bg-white shadow-md rounded-lg p-6 hover:shadow-lg transition duration-300"
+          >
+            <h2 className="text-xl font-semibold text-center">{topic.name}</h2>
+          </Link>
+        ))}
+      </div>
+    </div>
   )
 }
